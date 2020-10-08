@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><entities>
+  <entity group="Casa" name="1" type="chapter">
+    <attribute name="description" type="string"><![CDATA[<p>sei sulal porta di casa</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[Porta di Casa]]></attribute>
+    <attribute name="flag_final" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_death" type="boolean"><![CDATA[false]]></attribute>
+  </entity>
+  <entity group="Giardino" name="2" type="chapter">
+    <attribute name="description" type="string"><![CDATA[<p>(DIEGNO: si vede il cortile davanti alla casa)</p><p></p><p></p><p>entra nella casa [1]</p><p>guarda il tavolo [5]</p><p>vai verso l'orto [3]</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[Davanti Casa]]></attribute>
+    <attribute name="flag_final" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_death" type="boolean"><![CDATA[false]]></attribute>
+  </entity>
+  <entity group="Giardino" name="3" type="chapter">
+    <attribute name="description" type="string"><![CDATA[<p>sei davati all'orto</p><p></p><p>apri il compost [10]</p><p></p><p>vai verso i pomodori[6]</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[Verso l'orto]]></attribute>
+    <attribute name="flag_final" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_death" type="boolean"><![CDATA[false]]></attribute>
+  </entity>
+  <entity group="Giardino" name="4" type="chapter">
+    <attribute name="description" type="string"><![CDATA[<p>ciao Bruno</p><p></p><p>eccoti la Mappa</p><p></p><p>inizia la avventura andando a pagina [2]</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[presentazione]]></attribute>
+    <attribute name="flag_final" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_death" type="boolean"><![CDATA[false]]></attribute>
+  </entity>
+  <entity group="Giardino" name="5" type="chapter">
+    <attribute name="description" type="string"><![CDATA[<p>vedi un bel tavolo</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[Tavolo]]></attribute>
+    <attribute name="flag_final" type="boolean"><![CDATA[true]]></attribute>
+    <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_death" type="boolean"><![CDATA[false]]></attribute>
+  </entity>
+  <entity group="orto" name="6" type="chapter">
+    <attribute name="description" type="string"><![CDATA[<p>
+  </p>]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[pomodori]]></attribute>
+    <attribute name="flag_final" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_death" type="boolean"><![CDATA[false]]></attribute>
+  </entity>
+  <entity group="Giardino" name="10" type="chapter">
+    <attribute name="description" type="string"><![CDATA[<p>ahhhh che puzzo!</p><p>torna subito a casa</p><p></p><p>MUORI</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[Compost]]></attribute>
+    <attribute name="flag_final" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    <attribute name="flag_death" type="boolean"><![CDATA[true]]></attribute>
+  </entity>
+  <entity group="setup" name="game" type="entity">
+    <attribute name="description" type="string"><![CDATA[<p></p>]]></attribute>
+    <attribute name="chapter_title" type="string"/>
+    <attribute name="lgc_version" type="string"><![CDATA[3.3.16.211]]></attribute>
+    <attribute name="title" type="string"><![CDATA[Casa Avventura]]></attribute>
+    <attribute name="author" type="string"><![CDATA[Fabio e Stefano Cecere]]></attribute>
+    <attribute name="version" type="string"><![CDATA[1.0]]></attribute>
+    <attribute name="revision" type="integer"><![CDATA[9]]></attribute>
+    <attribute name="editing_action" type="string"><![CDATA[WRITING]]></attribute>
+    <attribute name="table_of_contents" type="string"><![CDATA[intro§P(ALL)]]></attribute>
+    <attribute name="editing_chapter" type="string"><![CDATA[5]]></attribute>
+  </entity>
+  <entity group="" name="intro" type="section">
+    <attribute name="description" type="string"><![CDATA[<p>introduzione al libro</p><p></p><p>inizia [1]</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[Introduzione]]></attribute>
+  </entity>
+  <entity group="" name="rules" type="section">
+    <attribute name="description" type="string"><![CDATA[<p>segui le frecce e risolvi gli enigmi</p>
+  ]]></attribute>
+    <attribute name="chapter_title" type="string"><![CDATA[Regole]]></attribute>
+  </entity>
+</entities>

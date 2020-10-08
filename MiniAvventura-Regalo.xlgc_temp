@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+<title></title>
+<style type="text/css">
+body { margin:0px;padding: 0px;background: transparent;color: black;font-family: "Times New Roman";font-size: 20pt;line-height: 1.2em;word-wrap: break-word; }
+a { font-weight: bold;color: black;text-decoration:none; }
+a.chapterlink { font-weight: bold;color: black;text-decoration:none; }
+p { text-align:justify;margin: 0pt;text-indent:0em; }
+.chapter { margin-bottom: 0px; }
+.chapternumber { text-align:center;margin-top:1cm;margin-bottom:0.1cm;padding: 0cm; }
+.chapternumberstyle { font-family: Times New Roman;font-size:20pt;font-weight:bold; }
+.chapterheaderdecorations { font-size: 40pt;color: black; }
+.chapterbody { margin: 0px 0px 20px 0px;padding: 0px 0px 0px 0px; }
+.attribute { color: blue;font-weight: bold; }
+.enemy { color: red;font-weight: bold; }
+.time { text-align: right;font-style: italic; }
+.codeword { font-style: italic; }
+.item { font-weight: bold;color: green; }
+.chapterheadersymbols { color:black;font-size: 40px; }
+h1 { margin-top:4em;margin-bottom:2em;page-break-after:avoid;font-size: 1.40em;text-align: center;text-indent:0em; }
+h2 { margin-top:3em;margin-right:0em;margin-bottom:2em;margin-left:0em;page-break-after:avoid;font-size: 1.20em;text-align: center;text-indent:0em; }
+h3 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: 1.10em;text-align: center;text-indent:0em; }
+h4 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: .90em;text-align: center;text-indent:0em; }
+h5 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: .90em;text-align: center;text-indent:0em; }
+h6 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: .90em;text-align: center;text-indent:0em; }
+</style>
+</head>
+<body>
+<div class="bookbody">
+<div class="chapter">
+	<a name="intro"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">intro</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	
+    <p>introduzione al libro
+    </p>
+    <p>&nbsp;</p>
+    <p>inizia <a class="chapterlink" href="#1">1</a>
+    </p>
+  
+	</div>
+</div><div class="chapter">
+	<a name="1"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">1</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	
+    <p>sei sulal porta di casa
+    </p>
+  
+	</div>
+</div><div class="chapter">
+	<a name="2"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">2</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	<p>(DIEGNO: si vede il cortile davanti alla casa)</p><p>&nbsp;</p><p>&nbsp;</p><p>entra nella casa <a class="chapterlink" href="#1">1</a></p><p>guarda il tavolo <a class="chapterlink" href="#5">5</a></p><p>vai verso l'orto <a class="chapterlink" href="#3">3</a></p>
+  
+	</div>
+</div><div class="chapter">
+	<a name="3"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">3</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	<p>sei davati all'orto</p><p>&nbsp;</p><p>apri il compost <a class="chapterlink" href="#10">10</a></p><p>&nbsp;</p><p>vai verso i pomodori<a class="chapterlink" href="#6">6</a></p>
+  
+	</div>
+</div><div class="chapter">
+	<a name="4"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">4</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	
+    <p>ciao Bruno
+    </p>
+    <p>&nbsp;</p>
+    <p>eccoti la Mappa
+    </p>
+    <p>&nbsp;</p>
+    <p>inizia la avventura andando a pagina <a class="chapterlink" href="#2">2</a>
+    </p>
+  
+	</div>
+</div><div class="chapter">
+	<a name="5"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">5</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	
+    <p>vedi un bel tavolo
+    </p>
+  
+	</div>
+</div><div class="chapter">
+	<a name="6"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">6</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	<p>&nbsp;</p>
+	</div>
+</div><div class="chapter">
+	<a name="10"></a>
+	<div class="chapternumber"><span class="chapternumberstyle">10</span><span class="chapterheadersymbols"></span></div>
+	<div class="chapterbody">
+	<p>ahhhh che puzzo!</p><p>torna subito a casa</p><p>&nbsp;</p><p>MUORI</p>
+  
+	</div>
+</div></div>
+</body>
+</html>
