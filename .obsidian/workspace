@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "e78853bdc0c0e417",
+    "type": "split",
+    "children": [
+      {
+        "id": "87716444c1cbd5f1",
+        "type": "leaf",
+        "dimension": 46.54226125137212,
+        "active": true,
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MiniAvventura-Regalo.png"
+          }
+        },
+        "group": "154e658bd77ccf7d"
+      },
+      {
+        "id": "46bd1d105d555ffb",
+        "type": "leaf",
+        "dimension": 53.45773874862788,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "MiniAvventura-Regalo.png",
+            "options": {
+              "search": "",
+              "localJumps": 5,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": true,
+              "textFadeMultiplier": -0.6,
+              "nodeSizeMultiplier": 1.06262289325843,
+              "lineSizeMultiplier": 5,
+              "centerStrength": 0.284375,
+              "repelStrength": 11.3290441176471,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.242707425968242
+            }
+          }
+        },
+        "group": "154e658bd77ccf7d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64f22ffab5113c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3a5316854d1ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af666cec90da3dfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f02a8cc891548b61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "09de40b248091a41",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f31c41452b426933",
+    "type": "split",
+    "children": [
+      {
+        "id": "75aac0011d32df12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961568cf73ac2675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MiniAvventura-Regalo.png"
+              }
+            }
+          },
+          {
+            "id": "3cb2fe16d358691c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "MiniAvventura-Regalo.png",
+    "giardino/1 - davanti casa.md",
+    "inizio.md",
+    "giardino/5 - bici grande.md",
+    "README.md",
+    "casa/10 - entrati in casa.md",
+    "giardino/8 - verso orto.md",
+    "giardino/7 - tavolo.md",
+    "giardino/6 - stendino.md",
+    "giardino/3 - bici piccola.md"
+  ]
+}

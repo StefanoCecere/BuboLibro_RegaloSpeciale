@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><entities>
   <entity group="Giardino" name="1" type="chapter">
-    <attribute name="description" type="string"><![CDATA[<p>Giardino</p><p></p><p>Vai al [10] per entrare in casa</p><p></p><p>Vai al [8] per andare verso l'orto</p><p></p><p>Vai al [7] per esaminare il tavolo</p>
+    <attribute name="description" type="string"><![CDATA[<p>Giardino</p><p>
+<img src="./img/dune.jpg" alt="" class="lgc_chapter_image">    </p><p></p><p></p><p>Vai al [10] per entrare in casa</p><p></p><p>Vai al [8] per andare verso l'orto</p><p></p><p>Vai al [7] per esaminare il tavolo</p>
   ]]></attribute>
     <attribute name="chapter_title" type="string"><![CDATA[davanti casa]]></attribute>
     <attribute name="flag_final" type="boolean"><![CDATA[false]]></attribute>
@@ -94,7 +95,7 @@
     <attribute name="title" type="string"><![CDATA[Casa Avventura]]></attribute>
     <attribute name="author" type="string"><![CDATA[Fabio e Stefano Cecere]]></attribute>
     <attribute name="version" type="string"><![CDATA[1.0]]></attribute>
-    <attribute name="revision" type="integer"><![CDATA[19]]></attribute>
+    <attribute name="revision" type="integer"><![CDATA[20]]></attribute>
     <attribute name="editing_action" type="string"><![CDATA[WRITING]]></attribute>
     <attribute name="table_of_contents" type="string"><![CDATA[intro§P(ALL)]]></attribute>
     <attribute name="editing_chapter" type="string"><![CDATA[1]]></attribute>
