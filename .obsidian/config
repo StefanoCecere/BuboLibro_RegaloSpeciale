@@ -7,13 +7,13 @@
     "graph": true,
     "backlink": true,
     "command-palette": true,
-    "markdown-importer": true,
-    "word-count": true,
-    "custom-css": false,
+    "markdown-importer": false,
+    "word-count": false,
+    "custom-css": true,
     "starred": true,
     "page-preview": true,
     "tag-pane": true,
-    "outline": false
+    "outline": true
   },
   "alwaysUpdateLinks": true
 }

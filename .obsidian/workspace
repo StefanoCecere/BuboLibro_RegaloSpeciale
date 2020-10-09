@@ -4,26 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "87716444c1cbd5f1",
+        "id": "1b79a892f27986a8",
         "type": "leaf",
-        "dimension": 46.54226125137212,
+        "dimension": 38.64774624373957,
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MiniAvventura-Regalo.png"
+            "file": "giardino/1 - davanti casa.md",
+            "mode": "source"
           }
         },
-        "group": "154e658bd77ccf7d"
+        "group": "e1e4db7467a7451c"
       },
       {
-        "id": "46bd1d105d555ffb",
+        "id": "846788183a0c657e",
         "type": "leaf",
-        "dimension": 53.45773874862788,
+        "dimension": 61.35225375626043,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "MiniAvventura-Regalo.png",
+            "file": "giardino/1 - davanti casa.md",
             "options": {
               "search": "",
               "localJumps": 5,
@@ -34,18 +35,18 @@
               "showAttachments": false,
               "hideUnresolved": false,
               "showArrow": true,
-              "textFadeMultiplier": -0.6,
-              "nodeSizeMultiplier": 1.06262289325843,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1.01940438034188,
               "lineSizeMultiplier": 5,
-              "centerStrength": 0.284375,
-              "repelStrength": 11.3290441176471,
+              "centerStrength": 0,
+              "repelStrength": 0,
               "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.242707425968242
+              "linkDistance": 153,
+              "scale": 2.182430313168397
             }
           }
         },
-        "group": "154e658bd77ccf7d"
+        "group": "e1e4db7467a7451c"
       }
     ],
     "direction": "vertical"
@@ -88,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
     "id": "f31c41452b426933",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MiniAvventura-Regalo.png"
+                "file": "giardino/1 - davanti casa.md"
               }
             }
           },
@@ -115,24 +116,34 @@
               "type": "tag",
               "state": {}
             }
+          },
+          {
+            "id": "8f8c269ecad3de42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "giardino/1 - davanti casa.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "MiniAvventura-Regalo.png",
     "giardino/1 - davanti casa.md",
-    "inizio.md",
-    "giardino/5 - bici grande.md",
-    "README.md",
     "casa/10 - entrati in casa.md",
+    "giardino/3 - bici piccola.md",
+    "orto/2 - orto.md",
     "giardino/8 - verso orto.md",
     "giardino/7 - tavolo.md",
-    "giardino/6 - stendino.md",
-    "giardino/3 - bici piccola.md"
+    "orto/11 - pomodori 2.md",
+    "orto/9  - pomodori.md",
+    "casa/123 - in strada.md",
+    "44.md"
   ]
 }
