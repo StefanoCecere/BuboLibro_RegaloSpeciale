@@ -1,3 +1,3 @@
-Ciao  ......... ecco il tuo regalo
+Ciao______ ecco il tuo regalo
 
-Vai a [[1 - davanti casa]] per iniziare
+Vai a [[1-davanti casa]] per iniziare

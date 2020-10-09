@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "1b79a892f27986a8",
+        "id": "87716444c1cbd5f1",
         "type": "leaf",
-        "dimension": 38.64774624373957,
-        "active": true,
+        "dimension": 46.54226125137212,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "giardino/1 - davanti casa.md",
+            "file": "giardino/17-canna.md",
             "mode": "source"
           }
         },
-        "group": "e1e4db7467a7451c"
+        "group": "154e658bd77ccf7d"
       },
       {
-        "id": "846788183a0c657e",
+        "id": "46bd1d105d555ffb",
         "type": "leaf",
-        "dimension": 61.35225375626043,
+        "dimension": 53.45773874862788,
+        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "giardino/1 - davanti casa.md",
+            "file": "giardino/17-canna.md",
             "options": {
               "search": "",
               "localJumps": 5,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": true,
+              "localInterlinks": false,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
               "showArrow": true,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1.01940438034188,
-              "lineSizeMultiplier": 5,
-              "centerStrength": 0,
-              "repelStrength": 0,
+              "textFadeMultiplier": -3,
+              "nodeSizeMultiplier": 1.31976495726496,
+              "lineSizeMultiplier": 3.63103632478632,
+              "centerStrength": 0.679700854700855,
+              "repelStrength": 20,
               "linkStrength": 1,
-              "linkDistance": 153,
-              "scale": 2.182430313168397
+              "linkDistance": 231,
+              "scale": 0.3939312106745777
             }
           }
         },
-        "group": "e1e4db7467a7451c"
+        "group": "154e658bd77ccf7d"
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 300
   },
   "right": {
     "id": "f31c41452b426933",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giardino/1 - davanti casa.md"
+                "file": "giardino/17-canna.md"
               }
             }
           },
@@ -116,34 +116,24 @@
               "type": "tag",
               "state": {}
             }
-          },
-          {
-            "id": "8f8c269ecad3de42",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "giardino/1 - davanti casa.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "giardino/1 - davanti casa.md",
-    "casa/10 - entrati in casa.md",
-    "giardino/3 - bici piccola.md",
-    "orto/2 - orto.md",
-    "giardino/8 - verso orto.md",
-    "giardino/7 - tavolo.md",
-    "orto/11 - pomodori 2.md",
-    "orto/9  - pomodori.md",
-    "casa/123 - in strada.md",
-    "44.md"
+    "giardino/17-canna.md",
+    "giardino/26-verso il secondo giardino.md",
+    "giardino/28-terrapieno(MORTE).md",
+    "orto/16-bastoni(MORTE).md",
+    "giardino/28-terrapieno.md",
+    "giardino/28.md",
+    "28.md",
+    "29.md",
+    "27.md",
+    "giardino/26.md"
   ]
 }

@@ -1,2 +1,0 @@
-# verso la lavatrice
-
