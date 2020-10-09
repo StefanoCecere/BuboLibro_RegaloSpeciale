@@ -1,0 +1,4 @@
+---
+area: Giardino
+---
+# Il giardino

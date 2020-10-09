@@ -7,10 +7,11 @@
         "id": "87716444c1cbd5f1",
         "type": "leaf",
         "dimension": 46.54226125137212,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "giardino/17-canna.md",
+            "file": "giardino/26_verso il secondo giardino.md",
             "mode": "source"
           }
         },
@@ -20,11 +21,10 @@
         "id": "46bd1d105d555ffb",
         "type": "leaf",
         "dimension": 53.45773874862788,
-        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "giardino/17-canna.md",
+            "file": "giardino/26_verso il secondo giardino.md",
             "options": {
               "search": "",
               "localJumps": 5,
@@ -42,7 +42,7 @@
               "repelStrength": 20,
               "linkStrength": 1,
               "linkDistance": 231,
-              "scale": 0.3939312106745777
+              "scale": 0.718452953221253
             }
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giardino/17-canna.md"
+                "file": "giardino/26_verso il secondo giardino.md"
               }
             }
           },
@@ -116,6 +116,16 @@
               "type": "tag",
               "state": {}
             }
+          },
+          {
+            "id": "d381a4da0ddddc96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "giardino/26_verso il secondo giardino.md"
+              }
+            }
           }
         ]
       }
@@ -125,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "giardino/17-canna.md",
     "giardino/26-verso il secondo giardino.md",
-    "giardino/28-terrapieno(MORTE).md",
-    "orto/16-bastoni(MORTE).md",
-    "giardino/28-terrapieno.md",
-    "giardino/28.md",
-    "28.md",
-    "29.md",
-    "27.md",
-    "giardino/26.md"
+    "inizio.md",
+    "orto/16_bastoni-MORTE.md",
+    "orto/15_lavatrice.md",
+    "orto/14_in mezzo all'orto.md",
+    "orto/13_altre lattughe.md",
+    "orto/12_lattughe.md",
+    "orto/11_ancora pomodori.md",
+    "orto/9_pomodori.md",
+    "orto/4_verso la lavatrice.md"
   ]
 }

@@ -1,3 +1,7 @@
-Ciao______ ecco il tuo regalo
+Ciao ........... !
+ecco il tuo regalo
 
-Vai a [[1-davanti casa]] per iniziare
+![](_img/inizio.jpg)
+
+
+Vai a [[1_davanti casa]] per iniziare

@@ -9,7 +9,7 @@
     "command-palette": true,
     "markdown-importer": false,
     "word-count": false,
-    "custom-css": true,
+    "custom-css": false,
     "starred": true,
     "page-preview": true,
     "tag-pane": true,
