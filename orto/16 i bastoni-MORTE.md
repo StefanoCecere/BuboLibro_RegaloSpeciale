@@ -1,8 +1,7 @@
 ---
-area: Giardino
+area:Orto
 ---
-# Il terrapieno
+# i bastoni
 
 **SEI MORTO**
-
 torna al [[inizio]]

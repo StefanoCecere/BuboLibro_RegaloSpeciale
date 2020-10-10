@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "giardino/27 le piante.md",
             "mode": "source"
           }
         },
@@ -24,13 +24,13 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "README.md",
+            "file": "giardino/27 le piante.md",
             "options": {
               "search": "",
               "localJumps": 5,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": true,
+              "localInterlinks": false,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
@@ -42,7 +42,7 @@
               "repelStrength": 20,
               "linkStrength": 1,
               "linkDistance": 231,
-              "scale": 2.6248328763682522
+              "scale": 0.3939312106745777
             }
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "giardino/27 le piante.md"
               }
             }
           },
@@ -118,12 +118,12 @@
             }
           },
           {
-            "id": "d381a4da0ddddc96",
+            "id": "12ad982bfccbb321",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "giardino/27 le piante.md"
               }
             }
           }
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "giardino/27 le piante.md",
+    "giardino/29 in mezzo al giardino.md",
+    "giardino/28 il terrapieno-MORTE.md",
+    "giardino/26 verso il secondo giardino.md",
+    "giardino/29 il giardino.md",
     "README.md",
-    "giardino/1_davanti casa.md",
     "inizio.md",
-    "giardino/6_stendino.md",
-    "giardino/5_bici grande.md",
-    "giardino/3_bici piccola.md",
-    "casa/10_in casa.md",
-    "_img/inizio.jpg",
-    "giardino/17_canna.md",
-    "giardino/7 - tavolo.md"
+    "orto/16 bastoni-MORTE.md",
+    "orto/15 lavatrice.md",
+    "orto/14 in mezzo all'orto.md"
   ]
 }

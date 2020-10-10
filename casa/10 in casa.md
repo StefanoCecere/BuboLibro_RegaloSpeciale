@@ -1,0 +1,4 @@
+---
+area:casa
+---
+# in casa
