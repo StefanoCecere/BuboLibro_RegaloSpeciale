@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "giardino/26_verso il secondo giardino.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -24,13 +24,13 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "giardino/26_verso il secondo giardino.md",
+            "file": "README.md",
             "options": {
               "search": "",
               "localJumps": 5,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": false,
+              "localInterlinks": true,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
@@ -42,7 +42,7 @@
               "repelStrength": 20,
               "linkStrength": 1,
               "linkDistance": 231,
-              "scale": 0.718452953221253
+              "scale": 2.6248328763682522
             }
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giardino/26_verso il secondo giardino.md"
+                "file": "README.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "giardino/26_verso il secondo giardino.md"
+                "file": "README.md"
               }
             }
           }
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "giardino/26-verso il secondo giardino.md",
+    "README.md",
+    "giardino/1_davanti casa.md",
     "inizio.md",
-    "orto/16_bastoni-MORTE.md",
-    "orto/15_lavatrice.md",
-    "orto/14_in mezzo all'orto.md",
-    "orto/13_altre lattughe.md",
-    "orto/12_lattughe.md",
-    "orto/11_ancora pomodori.md",
-    "orto/9_pomodori.md",
-    "orto/4_verso la lavatrice.md"
+    "giardino/6_stendino.md",
+    "giardino/5_bici grande.md",
+    "giardino/3_bici piccola.md",
+    "casa/10_in casa.md",
+    "_img/inizio.jpg",
+    "giardino/17_canna.md",
+    "giardino/7 - tavolo.md"
   ]
 }

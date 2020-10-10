@@ -15,5 +15,6 @@
     "tag-pane": true,
     "outline": true
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_img"
 }

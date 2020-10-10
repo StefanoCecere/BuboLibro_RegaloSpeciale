@@ -1,6 +1,5 @@
 # LibroGame bruno
 
-
 ## titolo
 (libro + kid + game + avventura)
 
