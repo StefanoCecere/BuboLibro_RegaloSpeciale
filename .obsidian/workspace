@@ -11,8 +11,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "giardino/27 le piante.md",
-            "mode": "source"
+            "file": "inizio.md",
+            "mode": "preview"
           }
         },
         "group": "154e658bd77ccf7d"
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "giardino/27 le piante.md",
+            "file": "inizio.md",
             "options": {
               "search": "",
               "localJumps": 5,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giardino/27 le piante.md"
+                "file": "inizio.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "giardino/27 le piante.md"
+                "file": "inizio.md"
               }
             }
           }
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "giardino/27 le piante.md",
-    "giardino/29 in mezzo al giardino.md",
-    "giardino/28 il terrapieno-MORTE.md",
-    "giardino/26 verso il secondo giardino.md",
-    "giardino/29 il giardino.md",
-    "README.md",
     "inizio.md",
-    "orto/16 bastoni-MORTE.md",
-    "orto/15 lavatrice.md",
-    "orto/14 in mezzo all'orto.md"
+    "giardino/23 la siepe 4-MORTE.md",
+    "giardino/19 in mezzo al giardino.md",
+    "giardino/17 canna.md",
+    "giardino/6 stendino.md",
+    "giardino/8 verso l'orto.md",
+    "giardino/1 davanti casa.md",
+    "giardino/33 il baule-MORTE.md",
+    "giardino/28 il terrapieno-MORTE.md",
+    "giardino/33 il baule.md"
   ]
 }
