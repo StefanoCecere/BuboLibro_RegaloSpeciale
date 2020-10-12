@@ -1,4 +1,0 @@
----
-area:Giardino
----
-# tavolo

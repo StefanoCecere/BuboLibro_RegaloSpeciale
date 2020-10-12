@@ -7,12 +7,11 @@
         "id": "87716444c1cbd5f1",
         "type": "leaf",
         "dimension": 46.54226125137212,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inizio.md",
-            "mode": "preview"
+            "file": "casa/39 la libreria.md",
+            "mode": "source"
           }
         },
         "group": "154e658bd77ccf7d"
@@ -21,10 +20,11 @@
         "id": "46bd1d105d555ffb",
         "type": "leaf",
         "dimension": 53.45773874862788,
+        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "inizio.md",
+            "file": "casa/39 la libreria.md",
             "options": {
               "search": "",
               "localJumps": 5,
@@ -38,11 +38,11 @@
               "textFadeMultiplier": -3,
               "nodeSizeMultiplier": 1.31976495726496,
               "lineSizeMultiplier": 3.63103632478632,
-              "centerStrength": 0.679700854700855,
+              "centerStrength": 0.344551282051282,
               "repelStrength": 20,
-              "linkStrength": 1,
-              "linkDistance": 231,
-              "scale": 0.3939312106745777
+              "linkStrength": 0.700213675213675,
+              "linkDistance": 282,
+              "scale": 0.1692636107590367
             }
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inizio.md"
+                "file": "casa/39 la libreria.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inizio.md"
+                "file": "casa/39 la libreria.md"
               }
             }
           }
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "inizio.md",
-    "giardino/23 la siepe 4-MORTE.md",
-    "giardino/19 in mezzo al giardino.md",
-    "giardino/17 canna.md",
-    "giardino/6 stendino.md",
-    "giardino/8 verso l'orto.md",
-    "giardino/1 davanti casa.md",
+    "casa/39 la libreria.md",
+    "casa/36 la camera.md",
+    "casa/39.md",
+    "casa/42 il letto grande-MORTE.md",
+    "casa/38 il letto.md",
     "giardino/33 il baule-MORTE.md",
-    "giardino/28 il terrapieno-MORTE.md",
-    "giardino/33 il baule.md"
+    "casa/37 il ripostiglio-MORTE.md",
+    "giardino/23 la siepe 4-MORTE.md",
+    "casa/37 il ripostiglio.md",
+    "casa/42.md"
   ]
 }

@@ -1,4 +1,4 @@
 ---
-area:casa
+area:Casa
 ---
 # in casa
