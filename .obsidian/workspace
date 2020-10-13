@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "casa/39 la libreria.md",
+            "file": "casa/10 in casa.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "casa/39 la libreria.md",
+            "file": "casa/10 in casa.md",
             "options": {
               "search": "",
               "localJumps": 5,
@@ -36,13 +36,13 @@
               "hideUnresolved": false,
               "showArrow": true,
               "textFadeMultiplier": -3,
-              "nodeSizeMultiplier": 1.31976495726496,
-              "lineSizeMultiplier": 3.63103632478632,
-              "centerStrength": 0.344551282051282,
-              "repelStrength": 20,
-              "linkStrength": 0.700213675213675,
-              "linkDistance": 282,
-              "scale": 0.1692636107590367
+              "nodeSizeMultiplier": 1.15224358974359,
+              "lineSizeMultiplier": 5,
+              "centerStrength": 0.659188034188034,
+              "repelStrength": 19.8846153846154,
+              "linkStrength": 0.761752136752137,
+              "linkDistance": 500,
+              "scale": 0.25822125998735634
             }
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "casa/39 la libreria.md"
+                "file": "casa/10 in casa.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "casa/39 la libreria.md"
+                "file": "casa/10 in casa.md"
               }
             }
           }
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "casa/39 la libreria.md",
-    "casa/36 la camera.md",
-    "casa/39.md",
+    "casa/10 in casa.md",
+    "43.md",
+    "45.md",
+    "44.md",
+    "giardino/1 davanti casa.md",
     "casa/42 il letto grande-MORTE.md",
-    "casa/38 il letto.md",
-    "giardino/33 il baule-MORTE.md",
+    "casa/36 la camera.md",
     "casa/37 il ripostiglio-MORTE.md",
-    "giardino/23 la siepe 4-MORTE.md",
-    "casa/37 il ripostiglio.md",
-    "casa/42.md"
+    "casa/38 il tuo letto.md",
+    "casa/39 la libreria.md"
   ]
 }
