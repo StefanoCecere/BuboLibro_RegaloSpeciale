@@ -15,3 +15,9 @@ AdventureKid
 - un regalo in casa
 - il compleanno
 - il regalo di compleanno
+
+## minigiochi
+- colorare alcuni disegni (che sono tutti in B&N)
+- in quale pagina si trova tale oggetto?
+- quante palle ci sono in giardino?
+- 
