@@ -3,4 +3,4 @@ area:Casa
 ---
 # il computer
 
-Vai al [[41 la scrivania]] per esaminare la scrivania
+Vai al [[41 la scrivania grande]] per esaminare la scrivania

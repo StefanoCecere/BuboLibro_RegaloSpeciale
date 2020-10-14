@@ -7,6 +7,7 @@
         "id": "87716444c1cbd5f1",
         "type": "leaf",
         "dimension": 46.54226125137212,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -20,7 +21,6 @@
         "id": "46bd1d105d555ffb",
         "type": "leaf",
         "dimension": 53.45773874862788,
-        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
@@ -42,7 +42,7 @@
               "repelStrength": 19.8846153846154,
               "linkStrength": 0.761752136752137,
               "linkDistance": 500,
-              "scale": 0.25822125998735634
+              "scale": 0.39393121067457815
             }
           }
         },
@@ -136,14 +136,14 @@
   },
   "lastOpenFiles": [
     "casa/10 in casa.md",
-    "43.md",
-    "45.md",
-    "44.md",
+    "casa/43 sul divano.md",
     "giardino/1 davanti casa.md",
-    "casa/42 il letto grande-MORTE.md",
-    "casa/36 la camera.md",
+    "inizio.md",
+    "casa/50 lo scaffale-VITTORIA.md",
+    "casa/48 il piano.md",
     "casa/37 il ripostiglio-MORTE.md",
-    "casa/38 il tuo letto.md",
-    "casa/39 la libreria.md"
+    "casa/36 in camera.md",
+    "casa/47 verso la cameretta.md",
+    "casa/52 la cucina.md"
   ]
 }
