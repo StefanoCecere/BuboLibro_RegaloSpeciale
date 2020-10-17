@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "casa/10 in casa.md",
+            "file": "giardino/1 davanti casa.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "casa/10 in casa.md",
+            "file": "giardino/1 davanti casa.md",
             "options": {
               "search": "",
               "localJumps": 5,
@@ -34,15 +34,15 @@
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "showArrow": true,
-              "textFadeMultiplier": -3,
-              "nodeSizeMultiplier": 1.15224358974359,
-              "lineSizeMultiplier": 5,
-              "centerStrength": 0.659188034188034,
-              "repelStrength": 19.8846153846154,
-              "linkStrength": 0.761752136752137,
-              "linkDistance": 500,
-              "scale": 0.39393121067457815
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.600964454867647
             }
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "casa/10 in casa.md"
+                "file": "giardino/1 davanti casa.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "casa/10 in casa.md"
+                "file": "giardino/1 davanti casa.md"
               }
             }
           }
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "casa/10 in casa.md",
-    "casa/43 sul divano.md",
     "giardino/1 davanti casa.md",
-    "inizio.md",
-    "casa/50 lo scaffale-VITTORIA.md",
-    "casa/48 il piano.md",
-    "casa/37 il ripostiglio-MORTE.md",
+    "casa/60 i cassetti-MORTE.md",
+    "casa/57 la vasca da bagno-MORTE.md",
+    "giardino/5 bici grande.md",
     "casa/36 in camera.md",
-    "casa/47 verso la cameretta.md",
-    "casa/52 la cucina.md"
+    "casa/60.md",
+    "60.md",
+    "casa/59 l'armadio.md",
+    "casa/53 in cima alle scale.md",
+    "casa/59.md"
   ]
 }
