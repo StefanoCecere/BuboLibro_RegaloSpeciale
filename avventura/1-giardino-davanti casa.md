@@ -1,15 +1,16 @@
 ---
-area:Giardino
+title: davanti casa
+area: giardino
 ---
-# davanti casa
-_Dove vuoi andare?_
-
-Vai al [[10-casa-in casa]] per entrare in casa
-
-Vai al [[8-giardino-verso l'orto]] per andare verso l'orto
-
-Vai al [[7-giardino-tavolo grande]] per esaminare il tavolo
-
-Vai al [[61-giardino-verso il cortile]] per andare verso il cortile
+_Sei davanti a casa. dove vuoi andare?_
 
 ![[foto_6.jpg]]
+
+👣CASA [[10-casa-in casa|10]]
+
+👣 ORTO [[8-giardino-verso l'orto|8]]
+
+👀TAVOLO [[7-giardino-tavolo grande|7]]
+
+👣CORTILE [[61-giardino-verso il cortile|61]] 
+

@@ -11,6 +11,6 @@ Vai al [[39-camera-la libreria]] per esaminare la libreria
 
 Vai al [[40-camera-il computer]] per guardare il computer del fratellone
 
-Vai al [[41-camera-la scrivania grande]] per guardare la scrivania
+Vai al [[41-camera-scrivania grande]] per guardare la scrivania
 
 ![[foto_61.jpg]]

@@ -1,7 +1,7 @@
 ---
-area:Giardino
+title: bici piccola
+area: giardino
 ---
-# bici piccola
 
 Vai al [[2-orto-orto]] per andare verso l'orto
 

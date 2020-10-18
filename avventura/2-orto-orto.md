@@ -1,7 +1,7 @@
 ---
-area:orto
+title: l'orto
+area: orto
 ---
-# l'orto
 
 Vai al [[9-orto-i pomodori]] per vedere i pomodori
 
