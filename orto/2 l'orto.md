@@ -3,6 +3,8 @@ area:Orto
 ---
 # l'orto
 
+![](_img/foto_29.jpg)
+
 Vai al [[9 i pomodori]] per vedere i pomodori
 
 Vai al [[11 ancora pomodori]] per vedere altri pomodori

@@ -2,6 +2,7 @@
 area:Giardino
 ---
 # davanti casa
+![](_img/foto_1.jpg)
 
 Vai al [[10 in casa]] per entrare in casa
 

@@ -3,6 +3,8 @@ area:Giardino
 ---
 # verso l'orto
 
+![](_img/foto_5.jpg)
+
 Vai al [[5 bici grande]] per esaminare la bici grande
 
 Vai al [[3 bici piccola]] per guardare la bici piccola
