@@ -11,7 +11,7 @@
     "word-count": false,
     "custom-css": false,
     "starred": true,
-    "page-preview": true,
+    "page-preview": false,
     "tag-pane": true,
     "outline": true
   },

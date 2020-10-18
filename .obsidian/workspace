@@ -4,27 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "87716444c1cbd5f1",
+        "id": "90a700469430a5e2",
         "type": "leaf",
-        "dimension": 46.54226125137212,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "giardino/64 nel cortile.md",
+            "file": "casa/53 in cima alle scale.md",
             "mode": "source"
           }
         },
-        "group": "154e658bd77ccf7d"
+        "group": "42257ee96572c04e"
       },
       {
-        "id": "46bd1d105d555ffb",
+        "id": "aea9812ea3124064",
         "type": "leaf",
-        "dimension": 53.45773874862788,
-        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "giardino/64 nel cortile.md",
+            "file": "casa/53 in cima alle scale.md",
             "options": {
               "search": "",
               "localJumps": 5,
@@ -42,11 +40,11 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.3939312106745776
+              "scale": 0.429678091434252
             }
           }
         },
-        "group": "154e658bd77ccf7d"
+        "group": "42257ee96572c04e"
       }
     ],
     "direction": "vertical"
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giardino/64 nel cortile.md"
+                "file": "casa/53 in cima alle scale.md"
               }
             }
           },
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "giardino/64 nel cortile.md"
+                "file": "casa/53 in cima alle scale.md"
               }
             }
           }
@@ -135,15 +133,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "giardino/64 nel cortile.md",
-    "67.md",
-    "66.md",
-    "68.md",
-    "giardino/63 la porta della baracchina.md",
-    "giardino/33 il baule-MORTE.md",
-    "giardino/34 il tavolo piccolo.md",
-    "giardino/35 il monopattino-MORTE.md",
-    "giardino/61 verso il cortile.md",
-    "giardino/62 l'orcio.md"
+    "casa/53 in cima alle scale.md",
+    "casa/73.md",
+    "73.md",
+    "casa/45 verso il bagno.md",
+    "giardino/72 affacciato dal tetto-MORTE.md",
+    "giardino/71 sul tetto.md",
+    "giardino/72.md",
+    "giardino/62 l'orcio.md",
+    "giardino/70 la bici piccolissima.md",
+    "giardino/27 le piante.md"
   ]
 }

@@ -3,7 +3,7 @@ area:Casa
 ---
 # verso il bagno
 
-Vai al [[53 in cima alle scale]] per salire le scale
+Vai al [[73 verso le scale]] per andare verso le scale
 
 Vai al [[54 la cassettiera]] per vedere la cassettiera
 
