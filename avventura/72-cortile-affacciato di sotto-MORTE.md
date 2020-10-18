@@ -1,9 +1,12 @@
 ---
-title: 
+title: affacciato di sotto
 area: giardino
 class: morte
 ---
-# affacciato di sotto
+# 72
+
+☠️
 
 **SEI MORTO**
-torna al [[inizio]]
+
+torna al [[1-inizio]]

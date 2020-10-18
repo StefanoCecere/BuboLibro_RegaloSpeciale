@@ -1,8 +1,8 @@
 ---
-title: 
+title: la lavatrice
 area: orto
 ---
-# la lavatrice
+# 15
 
 Vai al [[16-orto-i bastoni-MORTE]] per vedere i bastoni
 

@@ -2,7 +2,7 @@
 title: il cassettone aperto
 area: casa
 ---
-# il cassettone
+# 74
 
 torna indietro [[54-casa-cassettiera]]
 

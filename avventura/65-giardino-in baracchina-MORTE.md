@@ -1,11 +1,13 @@
 ---
-title: 
+title: in baracchina
 area: giardino
 class: morte
 ---
-# in baracchina
+# 65
+
+☠️
 
 **SEI MORTO**
-torna al [[inizio]]
+torna al [[1-inizio]]
 
 ![[foto_49.jpg]]

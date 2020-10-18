@@ -1,10 +1,12 @@
 ---
 title: inizio
+area: 
 ---
+# 1
 Ciao ........ !
 sei pronto per un'avventura?
 prendi questo libro e segui i numeri
 
-Vai a [[1-giardino-davanti casa]] per iniziare
+👣AVVENTURA [[2-giardino-davanti casa|2]]
 
 ![[inizio.jpg]]

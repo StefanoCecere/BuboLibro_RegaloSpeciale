@@ -1,8 +1,8 @@
 ---
-title: 
+title: la poltrona
 area: casa
 ---
-# la poltrona
+# 75
 
 Vai al [[43-casa-sul divano]] se vuoi andare sul divano
 

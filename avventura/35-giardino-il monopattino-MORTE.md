@@ -5,7 +5,9 @@ class: morte
 ---
 # il monopattino
 
+☠️
+
 **SEI MORTO**
-torna al [[inizio]]
+torna al [[1-inizio]]
 
 ![[foto_27.jpg]]

@@ -1,8 +1,8 @@
 ---
-title: 
+title: bici grande
 area: giardino
 ---
-# bici grande
+# 5
 
 Vai al [[3-giardino-bici piccola]] per vedere l'altra bici
 

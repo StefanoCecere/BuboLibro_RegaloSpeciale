@@ -2,7 +2,7 @@
 title: bici piccola
 area: giardino
 ---
-
-Vai al [[2-orto-orto]] per andare verso l'orto
+# 3
+Vai al [[49-orto-orto]] per andare verso l'orto
 
 ![[foto_2.jpg]]

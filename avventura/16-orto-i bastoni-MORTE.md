@@ -6,6 +6,6 @@ class: morte
 # i bastoni
 
 **SEI MORTO**
-torna al [[inizio]]
+torna al [[1-inizio]]
 
 ![[foto_37.jpg]]

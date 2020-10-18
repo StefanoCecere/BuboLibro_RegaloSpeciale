@@ -1,8 +1,8 @@
 ---
-title: 
+title: in mezzo all'orto
 area: orto
 ---
-# in mezzo all'orto
+# 14
 
 Vai al [[15-orto-la lavatrice]] per vedere la lavatrice
 

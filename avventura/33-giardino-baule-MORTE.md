@@ -5,7 +5,9 @@ class: morte
 ---
 # il baule
 
+☠️
+
 **SEI MORTO**
-torna al [[inizio]]
+torna al [[1-inizio]]
 
 ![[foto_23.jpg]]

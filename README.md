@@ -8,6 +8,15 @@ l'idea è che possa essere poi un regalo che anche altri possano fare ai propri 
 un libro facile da leggere, con pochissimi testi e giusto degli enigmi opzionali (da leggere insieme ad un collaboratore lettore). un disegno a pagina.
 diverse pagine di vittoria e altrettante di morte (che riportano indietro)
 
+## caratteristiche
+- lettura con i soli numeri
+- lettura con i testi aggiunti
+- personalizzabile
+- minigiochi di percezione, memoria, logica
+- colorabile
+- creato da un adolescente, con istruzioni online su come ha fatto e come ricrearlo
+- open source, in formato cartaceo, PDF ed ebook 
+
 ## requisiti
 il progetto ad ora si apre con Obsidian (un bellissimo e gratuito programma per scrivere e raccogliere note in markdown): <https://obsidian.md/>
 

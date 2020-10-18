@@ -8,4 +8,4 @@ _il divano è sempre comodo vero?_
 ![[foto_51.jpg]]
 
 👀PIANOFORTE [[48-casa-pianoforte|48]]
-👀POLTRONA [[49-casa-la poltrona|49]]
+👀POLTRONA [[75-casa-la poltrona|49]]

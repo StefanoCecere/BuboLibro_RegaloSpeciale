@@ -2,7 +2,7 @@
 title: verso le scale
 area: casa
 ---
-# verso le scale
+# 73
 
 Vai al [[54-casa-cassettiera]] per andare a vedere la cassettiera
 

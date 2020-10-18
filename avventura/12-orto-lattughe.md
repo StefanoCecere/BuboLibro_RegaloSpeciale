@@ -1,8 +1,8 @@
 ---
-title: 
+title: lattughe
 area: orto
 ---
-# lattughe
+# 12
 
 Vai al [[13-orto-altre lattughe]] per vedere altre lattughe
 

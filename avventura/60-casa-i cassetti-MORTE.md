@@ -1,11 +1,13 @@
 ---
-title: 
+title: i cassetti
 area: casa
 class: morte
 ---
-# i cassetti
+# 60
+
+☠️
 
 **SEI MORTO**
-torna al [[inizio]]
+torna al [[1-inizio]]
 
 ![[foto_76.jpg]]

@@ -10,6 +10,6 @@ Vai al [[63-giardino-la porta baracchina]] per andare alla porta della baracchin
 
 Vai al [[64-cortile-nel cortile]] per salire nel cortile
 
-Vai al [[1-giardino-davanti casa]] per tornare indietro
+Vai al [[2-giardino-davanti casa]] per tornare indietro
 
 ![[foto_38.jpg]]

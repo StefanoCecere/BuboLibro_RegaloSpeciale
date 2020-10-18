@@ -1,11 +1,13 @@
 ---
-title: 
+title: la vasca da bagno
 area: casa
 class: morte
 ---
-# la vasca da bagno
+# 57
+
+☠️
 
 **SEI MORTO**
-torna al [[inizio]]
+torna al [[1-inizio]]
 
 ![[foto_72.jpg]]
