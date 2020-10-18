@@ -5,3 +5,5 @@ area:Casa
 
 **SEI MORTO**
 torna al [[inizio]]
+
+![[foto_78.jpg]]

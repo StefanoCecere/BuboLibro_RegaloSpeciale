@@ -6,3 +6,5 @@ area:Giardino
 Vai al [[67 lo scivolo]] se vuoi scendere
 
 Vai al [[71 sul tetto]] se vuoi salire sul tetto
+
+![[foto_46.jpg]]

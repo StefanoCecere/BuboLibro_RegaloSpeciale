@@ -6,3 +6,5 @@ area:Orto
 Vai al [[15 la lavatrice]] per vedere la lavatrice
 
 Vai al [[16 i bastoni-MORTE]] per vedere i bastoni
+
+![[foto_32.jpg]]

@@ -6,3 +6,5 @@ area:Casa
 Vai al [[42 il letto grande-MORTE]] per vedere il letto del fratellone
 
 Vai al [[39 la libreria]]per guardare la libreria
+
+![[foto_64.jpg]]

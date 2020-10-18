@@ -5,3 +5,5 @@ area:Casa
 
 ### HAI VINTO
 torna al [[inizio]] se vuoi provare altre strade
+
+![[foto_56.jpg]]
