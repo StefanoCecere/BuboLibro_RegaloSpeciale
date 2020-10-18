@@ -1,10 +1,11 @@
 ---
-area:Casa
+title: sul divano
+area: casa
 ---
-# sul divano
-
-Vai al [[48-casa-pianoforte]] per vedere meglio il piano
-
-Vai al [[49-casa-la poltrona]] andare sulla poltrona
+# 43
+_il divano è sempre comodo vero?_
 
 ![[foto_51.jpg]]
+
+👀PIANOFORTE [[48-casa-pianoforte|48]]
+👀POLTRONA [[49-casa-la poltrona|49]]

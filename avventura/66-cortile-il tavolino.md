@@ -1,5 +1,6 @@
 ---
-area:Giardino
+title: 
+area: giardino
 ---
 # il tavolino
 

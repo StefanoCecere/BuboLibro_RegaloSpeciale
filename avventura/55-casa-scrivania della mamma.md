@@ -1,5 +1,6 @@
 ---
-area:Casa
+title: 
+area: casa
 ---
 # la scrivania della mamma
 

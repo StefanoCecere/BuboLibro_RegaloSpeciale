@@ -2,6 +2,7 @@
 title: davanti casa
 area: giardino
 ---
+# 1
 _Sei davanti a casa. dove vuoi andare?_
 
 ![[foto_6.jpg]]

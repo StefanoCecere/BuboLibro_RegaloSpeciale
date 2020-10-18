@@ -1,5 +1,6 @@
 ---
-area:Giardino
+title: 
+area: giardino
 ---
 # verso il tetto della baracchina
 

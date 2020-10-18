@@ -1,10 +1,13 @@
 ---
-area:Giardino
+title: il tavolo grande
+area: giardino
 ---
-# il tavolo grande
-
-Vai al [[10-casa-in casa]] per entrare in casa
-
-Vai al [[34-giardino-tavolo piccolo]] per vedere l'altro tavolo
+# 7
+_qui è dove si mangia in estate_
 
 ![[foto_7.jpg]]
+
+👣CASA [[10-casa-in casa|10]]
+
+👀TAVOLO PICCOLO [[34-giardino-tavolo piccolo|34]]
+

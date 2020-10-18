@@ -1,9 +1,11 @@
 ---
-area:Casa
+title: lo scaffale
+area: casa
+class: win
 ---
 # lo scaffale
 
-### HAI VINTO
+### HAI VINTO!
 torna al [[inizio]] se vuoi provare altre strade
 
 ![[foto_56.jpg]]

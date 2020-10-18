@@ -1,5 +1,6 @@
 ---
-area:Giardino
+title: 
+area: giardino
 ---
 # in mezzo al giardino
 

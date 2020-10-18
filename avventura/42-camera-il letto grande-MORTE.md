@@ -1,5 +1,7 @@
 ---
-area:Casa
+title: 
+area: casa
+class: morte
 ---
 # il letto grande
 

@@ -1,5 +1,7 @@
 ---
-area:orto
+title: i bastoni
+area: orto
+class: morte
 ---
 # i bastoni
 

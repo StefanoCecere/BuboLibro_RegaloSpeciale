@@ -1,5 +1,6 @@
 ---
-area:Casa
+title: verso le scale
+area: casa
 ---
 # verso le scale
 

@@ -1,5 +1,6 @@
 ---
-area:Casa
+title: il cassettone aperto
+area: casa
 ---
 # il cassettone
 

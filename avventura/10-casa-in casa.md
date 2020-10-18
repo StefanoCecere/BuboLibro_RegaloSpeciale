@@ -1,7 +1,8 @@
 ---
 title: in casa
-area: Casa
+area: casa
 ---
+# 10
 _ahhh che bella casetta!_
 
 ![[foto_50.jpg]]

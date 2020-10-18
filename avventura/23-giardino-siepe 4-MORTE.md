@@ -1,5 +1,7 @@
 ---
-area:Giardino
+title: 
+area: giardino
+class: morte
 ---
 # la siepe 4
 
