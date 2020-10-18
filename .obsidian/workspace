@@ -6,12 +6,10 @@
       {
         "id": "90a700469430a5e2",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "giardino/19 in mezzo al giardino.md",
-            "mode": "source"
+            "file": "_img/foto_29.jpg"
           }
         },
         "group": "42257ee96572c04e"
@@ -19,11 +17,11 @@
       {
         "id": "2db16c50fe902504",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "giardino/19 in mezzo al giardino.md",
-            "mode": "source"
+            "file": "_img/foto_29.jpg"
           }
         },
         "group": "42257ee96572c04e"
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giardino/19 in mezzo al giardino.md"
+                "file": "_img/foto_29.jpg"
               }
             }
           },
@@ -103,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "giardino/19 in mezzo al giardino.md"
+                "file": "_img/foto_29.jpg"
               }
             }
           }
@@ -115,15 +113,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "giardino/19 in mezzo al giardino.md",
-    "_img/foto_10.jpg",
-    "giardino/18 fine della canna.md",
-    "_img/foto_9.jpg",
-    "giardino/17 canna.md",
-    "_img/foto_8.jpg",
+    "_img/foto_29.jpg",
+    "_img/foto_28.jpg",
     "giardino/7 il tavolo grande.md",
-    "_img/foto_7.jpg",
-    "giardino/1 davanti casa.md",
-    "_img/foto_6.jpg"
+    "giardino/35 il monopattino-MORTE.md",
+    "_img/foto_27.jpg",
+    "_img/foto_26.jpg",
+    "_img/foto_25.jpg",
+    "giardino/34 il tavolo piccolo.md",
+    "_img/foto_24.jpg",
+    "giardino/33 il baule-MORTE.md"
   ]
 }
