@@ -10,38 +10,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "casa/53 in cima alle scale.md",
+            "file": "giardino/19 in mezzo al giardino.md",
             "mode": "source"
           }
         },
         "group": "42257ee96572c04e"
       },
       {
-        "id": "aea9812ea3124064",
+        "id": "2db16c50fe902504",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "casa/53 in cima alle scale.md",
-            "options": {
-              "search": "",
-              "localJumps": 5,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.429678091434252
-            }
+            "file": "giardino/19 in mezzo al giardino.md",
+            "mode": "source"
           }
         },
         "group": "42257ee96572c04e"
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "casa/53 in cima alle scale.md"
+                "file": "giardino/19 in mezzo al giardino.md"
               }
             }
           },
@@ -121,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "casa/53 in cima alle scale.md"
+                "file": "giardino/19 in mezzo al giardino.md"
               }
             }
           }
@@ -133,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "casa/53 in cima alle scale.md",
-    "casa/73.md",
-    "73.md",
-    "casa/45 verso il bagno.md",
-    "giardino/72 affacciato dal tetto-MORTE.md",
-    "giardino/71 sul tetto.md",
-    "giardino/72.md",
-    "giardino/62 l'orcio.md",
-    "giardino/70 la bici piccolissima.md",
-    "giardino/27 le piante.md"
+    "giardino/19 in mezzo al giardino.md",
+    "_img/foto_10.jpg",
+    "giardino/18 fine della canna.md",
+    "_img/foto_9.jpg",
+    "giardino/17 canna.md",
+    "_img/foto_8.jpg",
+    "giardino/7 il tavolo grande.md",
+    "_img/foto_7.jpg",
+    "giardino/1 davanti casa.md",
+    "_img/foto_6.jpg"
   ]
 }

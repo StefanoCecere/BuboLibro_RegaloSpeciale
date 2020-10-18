@@ -4,3 +4,4 @@ prendi questo libro e segui i numeri
 
 Vai a [[1 davanti casa]] per iniziare
 
+![[inizio.jpg]]
