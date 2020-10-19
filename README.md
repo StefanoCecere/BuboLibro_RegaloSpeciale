@@ -7,6 +7,8 @@ progettato da Fabio (e Stefano) come regalo per il fratellino di 5 anni.
 l'idea è che possa essere poi un regalo che anche altri possano fare ai propri fratellini/sorelline.
 
 ## come leggerlo
+una preview del libro è online qui: <https://publish.obsidian.md/fabio/>
+
 questo è il progetto base, da cui si esporta il PDF, l'ePub e la versione HTML.
 per leggerlo velocemente si può usare Obsidian (un bellissimo e gratuito programma per scrivere e raccogliere note in markdown): <https://obsidian.md/>, andando in preview della pagina 1 dell'avventura.
 
