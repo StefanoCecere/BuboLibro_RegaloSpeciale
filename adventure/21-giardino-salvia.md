@@ -7,7 +7,7 @@ _la salvia il papà la usa per cucinare_
 
 ![[foto_15.jpg]]
 
-👀SIEPE [[24-giardino-siepe 1|24]]
+👀SIEPE [[24-giardino-vaso|24]]
 
 👀ALBICOCCO [[25-giardino-albicocco|25]]
 

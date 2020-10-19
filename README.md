@@ -1,4 +1,4 @@
-# LibrinoAvventura: Il Regalo Nascosto
+# LibrinoAvventura: Il Regalo di Compleanno
 
 un libro avventura (LibroGame o Racconto a Bivi..)
 progettato da Fabio (e Stefano) come regalo per il fratellino di 5 anni.

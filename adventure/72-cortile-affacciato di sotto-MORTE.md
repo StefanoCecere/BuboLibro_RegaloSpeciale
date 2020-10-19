@@ -8,4 +8,4 @@ _troppo pericoloso_
 
 **SEI MORTO ☠️**
 
-torna al [[1-inizio|1]]
+torna al [[1-start|1]]

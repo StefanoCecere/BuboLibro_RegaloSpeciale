@@ -9,7 +9,7 @@ _che bel giardino_
 
 👀ORCIO [[62-giardino-orcio|62]]
 
-👣PORTA [[63-giardino-la porta baracchina|63]]
+👣BARACCHINA [[63-giardino-la porta baracchina|63]]
 
 👣CORTILE [[64-cortile-nel cortile|64]]
 

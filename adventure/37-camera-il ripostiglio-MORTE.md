@@ -8,5 +8,5 @@ class: morte
 
 ![[foto_62.jpg]]
 
-INIZIO [[1-inizio|1]]
+INIZIO [[1-start|1]]
 

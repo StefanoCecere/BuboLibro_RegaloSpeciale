@@ -9,5 +9,5 @@ _nooo la legna mi cade addosso_
 
 ![[foto_49.jpg]]
 
-INIZIO [[1-inizio|1]]
+INIZIO [[1-start|1]]
 
