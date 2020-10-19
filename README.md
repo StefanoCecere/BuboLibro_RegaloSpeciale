@@ -1,5 +1,7 @@
 # LibrinoAvventura: Il Regalo di Compleanno
 
+![](_img/project_obsidian.jpg)
+
 un libro avventura (LibroGame o Racconto a Bivi..)
 progettato da Fabio (e Stefano) come regalo per il fratellino di 5 anni.
 l'idea è che possa essere poi un regalo che anche altri possano fare ai propri fratellini/sorelline.
