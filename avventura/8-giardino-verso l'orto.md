@@ -3,13 +3,15 @@ title: verso l'orto
 area: giardino
 ---
 # 8
-
-Vai al [[5-giardino-bici grande]] per esaminare la bici grande
-
-Vai al [[3-giardino-bici piccola]] per guardare la bici piccola
-
-Vai al [[6-giardino-stendino]] per vedere lo stendino
-
-Vai al [[49-orto-orto]] per andare all'orto
+_andando verso l'orto_
 
 ![[foto_5.jpg]]
+
+👀BICI GRANDE [[5-giardino-bici grande|5]]
+
+👀BICI PICCOLA [[3-giardino-bici piccola|3]]
+
+👀STENDINO [[6-giardino-stendino|6]]
+
+👣ORTO [[49-orto-orto|49]]
+

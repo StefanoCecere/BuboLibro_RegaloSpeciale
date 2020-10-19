@@ -1,9 +1,11 @@
 ---
-title: 
+title: la scrivania grande
 area: casa
 ---
-# la scrivania grande
-
-Vai al [[34-giardino-tavolo piccolo]] per uscire dalla camera
+# 41
+_la scrivania per studiare_
 
 ![[foto_67.jpg]]
+
+👣GIARDINO [[34-giardino-tavolo piccolo|34]]
+

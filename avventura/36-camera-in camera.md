@@ -1,17 +1,18 @@
 ---
-title: 
+title: camerina
 area: casa
 ---
-# in camera
-
-Vai al [[37-camera-il ripostiglio-MORTE]] per vedere il ripostiglio
-
-Vai al [[38-camera-il tuo letto]] per vedere il tuo letto
-
-Vai al [[39-camera-la libreria]] per esaminare la libreria
-
-Vai al [[40-camera-il computer]] per guardare il computer del fratellone
-
-Vai al [[41-camera-scrivania grande]] per guardare la scrivania
+# 36
+_la nostra camerina_
 
 ![[foto_61.jpg]]
+
+👀RIPOSTIGLIO [[37-camera-il ripostiglio-MORTE|37]]
+
+👀TUO LETTO [[38-camera-il tuo letto|38]]
+
+👀LINRERIA[[39-camera-la libreria|39]]
+
+👀COMPUTER FRATELLONE[[40-camera-il computer|40]]
+
+👀SCRIVANIA [[41-camera-scrivania grande|41]]

@@ -3,5 +3,6 @@ title: verso la lavatrice
 area: orto
 ---
 # 4
+_andiamo verso la lavatrice_
 
-Vai al [[14-orto-in mezzo all'orto]] per avvicinarti alla lavatrice
+👣 LAVATRICE [[15-orto-la lavatrice]]

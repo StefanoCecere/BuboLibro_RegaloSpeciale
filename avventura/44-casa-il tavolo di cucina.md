@@ -1,13 +1,15 @@
 ---
-title: 
+title: il tavolo della cucina
 area: casa
 ---
-# il tavolo della cucina
-
-Vai al [[46-casa-la mensola-MORTE]] per vedere la mensola
-
-Vai al [[47-casa-verso la cameretta]] per andare verso la cameretta
-
-Vai al [[75-casa-la poltrona]] per andare sulla poltrona
+# 44
+_qui è dove si mangia_
 
 ![[foto_52.jpg]]
+
+👀CREDENZA [[46-casa-credenza-MORTE|46]]
+
+👣CAMERETTA [[47-casa-verso la cameretta|47]]
+
+👣POLTRONA [[75-casa-la poltrona|75]]
+

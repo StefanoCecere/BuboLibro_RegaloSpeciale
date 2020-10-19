@@ -1,13 +1,15 @@
 ---
-title: 
+title: la salvia
 area: giardino
 ---
-# la salvia
-
-Vai al [[24-giardino-siepe 1]] per vedere la prima parte della siepe
-
-Vai al [[25-giardino-albicocco]] per vedere l'albicocco
-
-Vai al [[61-giardino-verso il cortile]] per andare verso il cortile
+# 21
+_la salvia il papà la usa per cucinare_
 
 ![[foto_15.jpg]]
+
+👀SIEPE [[24-giardino-siepe 1|24]]
+
+👀ALBICOCCO [[25-giardino-albicocco|25]]
+
+👣CORTILE [[61-giardino-verso il cortile|61]]
+

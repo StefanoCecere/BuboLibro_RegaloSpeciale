@@ -1,9 +1,10 @@
 ---
-title: 
+title: lo scivolo
 area: giardino
 ---
-# lo scivolo
+# 67
+_non so sciare ma so scivolare_
 
-Vai al [[66-cortile-il tavolino]] per esaminare il tavolino
+👀TAVOLINO [[66-cortile-il tavolino|66]]
 
-Vai al [[68-cortile-verso il tetto della baracchina]] per arrampicarti sul tetto della baracchina
+👣SUL TETTINO [[68-cortile-verso il tetto della baracchina|68]]

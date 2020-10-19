@@ -3,7 +3,8 @@ title: stendino
 area: giardino
 ---
 # 6
-
-Vai al [[17-giardino-canna]] per vedere la canna dell'acqua
+_panni stesi oggi non ne abbiamo_
 
 ![[foto_4.jpg]]
+
+👀POMPA ACQUA [[17-giardino-pompa|17]]

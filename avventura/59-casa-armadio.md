@@ -1,11 +1,12 @@
 ---
-title: 
+title: l'armadio
 area: casa
 ---
-# l'armadio
-
-Vai al [[58-casa-lettone-VITTORIA]] per esaminare il lettone
-
-Vai al [[60-casa-i cassetti-MORTE]] per guardare i cassetti
+# 59
+_quante camicie_
 
 ![[foto_75.jpg]]
+
+👀LETTONE [[58-casa-lettone-VITTORIA|58]]
+
+👀CASSETTI[[60-casa-i cassetti-MORTE|60]]

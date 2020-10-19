@@ -3,7 +3,9 @@ title: bici grande
 area: giardino
 ---
 # 5
-
-Vai al [[3-giardino-bici piccola]] per vedere l'altra bici
+_la bici di fratellone_
 
 ![[foto_3.jpg]]
+
+👀ALTRA BICI [[3-giardino-bici piccola|3]]
+

@@ -1,11 +1,13 @@
 ---
-title: 
+title: l'albicocco
 area: giardino
 ---
-# l'albicocco
-
-Vai al [[26-giardino-verso il secondo giardino]] per andare verso il secondo giardino
-
-Vai al [[61-giardino-verso il cortile]] per andare verso il cortile
+# 25
+_che buone le albicocche_
 
 ![[foto_16.jpg]]
+
+👣GIARDINO [[26-giardino-verso il secondo giardino|26]]
+
+👣CORTILE [[61-giardino-verso il cortile|61]]
+

@@ -1,11 +1,13 @@
 ---
-title: 
+title: il tuo letto
 area: casa
 ---
-# il tuo letto
-
-Vai al [[42-camera-il letto grande-MORTE]] per vedere il letto del fratellone
-
-Vai al [[39-camera-la libreria]]per guardare la libreria
+# 38
+_il mio lettino_
 
 ![[foto_64.jpg]]
+
+⬆️LETTO FRATELLONE [[42-camera-il letto grande-MORTE|42]]
+
+👀LIBRERIA [[39-camera-la libreria|39]]
+

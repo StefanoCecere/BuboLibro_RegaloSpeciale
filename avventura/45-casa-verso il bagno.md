@@ -1,13 +1,15 @@
 ---
-title: 
+title: verso il bagno
 area: casa
 ---
-# verso il bagno
-
-Vai al [[73-casa-verso le scale]] per andare verso le scale
-
-Vai al [[54-casa-cassettiera]] per vedere la cassettiera
-
-Vai al [[55-casa-scrivania della mamma]] per esaminare la scrivania della mamma
+# 45
+_dove sto andando?_
 
 ![[foto_53.jpg]]
+
+👣SCALE [[73-casa-verso le scale|73]]
+
+👀CASSETTIERA [[54-casa-cassettiera|54]]
+
+👀SCRIVANIA [[55-casa-scrivania della mamma|55]]
+

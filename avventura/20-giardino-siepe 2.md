@@ -1,9 +1,10 @@
 ---
-title: 
+title: la siepe 2
 area: giardino
 ---
-# la siepe 2
-
-Vai al [[22-giardino-siepe 3]] per vedere la terza parte parte della siepe
+# 20
+_qui sotto sento rumori strani_
 
 ![[foto_12.jpg]]
+
+👀SIEPE 3 [[22-giardino-siepe 3|22]]

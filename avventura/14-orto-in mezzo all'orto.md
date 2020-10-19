@@ -3,9 +3,11 @@ title: in mezzo all'orto
 area: orto
 ---
 # 14
-
-Vai al [[15-orto-la lavatrice]] per vedere la lavatrice
-
-Vai al [[16-orto-i bastoni-MORTE]] per vedere i bastoni
+_da qui vedo tutto l'orto_
 
 ![[foto_32.jpg]]
+
+👀LAVATRICE [[15-orto-la lavatrice|15]]
+
+👀BASTONI [[16-orto-i bastoni-MORTE|16]]
+

@@ -2,10 +2,12 @@
 title: l'orcio
 area: giardino
 ---
-# l'orcio
-
-Vai al [[63-giardino-la porta baracchina]] per andare alla porta della baracchina
-
-Vai al [[27-giardino-le piante]] per vedere le piante
+# 62
+_che grande vaso!_
 
 ![[foto_47.jpg]]
+
+👣BARACCHINA [[63-giardino-la porta baracchina|63]]
+
+👀PIANTE[[27-giardino-le piante|27]]
+

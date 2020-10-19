@@ -1,11 +1,12 @@
 ---
-title: 
+title: in mezzo al giardino
 area: giardino
 ---
-# in mezzo al giardino
+# 29
+_il giardino è dove gioco quando non piove_
 
-Vai al [[28-giardino-terrapieno-MORTE]] per vedere cosa c'è nel buco del terrapieno
+👀BUCO [[28-giardino-terrapieno-MORTE|28]]
 
-Vai al [[31-giardino-canestro]] per guardare il canestro
+👀CANESTRO[[31-giardino-canestro|31]]
 
-Vai al [[32-giardino-griglia carrabile]] per vedere la griglia carrabile
+👀GRIGLIA [[32-giardino-griglia carrabile|32]]

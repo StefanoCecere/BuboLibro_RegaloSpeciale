@@ -1,9 +1,11 @@
 ---
-title: 
+title: la bici piccolissima
 area: giardino
 ---
-# la bici piccolissima
-
-Vai al [[69-cortile-trattore]] per tornare indietro
+# 70
+_la mia bici da piccolo_
 
 ![[foto_42.jpg]]
+
+👣INDIETRO [[69-cortile-trattore|69]]
+

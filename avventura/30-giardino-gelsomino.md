@@ -1,9 +1,10 @@
 ---
-title: 
+title: il gelsomino
 area: giardino
 ---
-# il gelsomino
-
-Vai al [[31-giardino-canestro]] per vedere il canestro
+# 30
+_che profumo il gelsomino!_
 
 ![[foto_18.jpg]]
+
+👀CANESTRO[[31-giardino-canestro|31]]

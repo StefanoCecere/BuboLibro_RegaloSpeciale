@@ -1,13 +1,11 @@
 ---
-title: la siepe 4
-area: giardino
+title: la credenza
+area: casa
 class: morte
 ---
-# 23
-
+# 46
 **SEI MORTO ☠️**
 
-![[foto_14.jpg]]
+![[foto_60.jpg]]
 
 torna al [[1-inizio|1]]
-

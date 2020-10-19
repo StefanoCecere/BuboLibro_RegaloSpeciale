@@ -1,13 +1,12 @@
 ---
-title: 
+title: il ripostiglio
 area: casa
 class: morte
 ---
-# il ripostiglio
-
-☠️
-
-**SEi MORTO**
-torna al [[1-inizio]]
+# 37
+**SEI MORTO ☠️**
 
 ![[foto_62.jpg]]
+
+INIZIO [[1-inizio|1]]
+

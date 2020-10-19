@@ -1,13 +1,13 @@
 ---
-title: 
+title: il tavolo piccolo
 area: giardino
 ---
-# il tavolo piccolo
-
-Vai la [[35-giardino-il monopattino-MORTE]] per vedere il monopattino
-
-Vai al [[7-giardino-tavolo grande]] per vedere l'altro tavolo
-
-Vai al [[36-camera-in camera]] per entrare in camera
-
+# 34
 ![[foto_24.jpg]]
+
+👀MONOPATTINO [[35-giardino-il monopattino-MORTE|35]]
+
+👀TAVOLONE[[7-giardino-tavolo grande|7]]
+
+👣CAMERINA [[36-camera-in camera|36]]
+

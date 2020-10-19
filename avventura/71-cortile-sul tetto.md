@@ -1,9 +1,10 @@
 ---
-title: 
+title: sul tetto
 area: giardino
 ---
-# sul tetto
+# 71
+_che bello qui sul tettino_
 
-Vai al [[72-cortile-affacciato di sotto-MORTE]] per affacciarti di sotto
+👣GUARDO GIU' [[72-cortile-affacciato di sotto-MORTE|72]]
 
-Vai al [[62-giardino-orcio]] per scendere piano piano dall'orcio
+👣 ORCIO [[62-giardino-orcio|62]]

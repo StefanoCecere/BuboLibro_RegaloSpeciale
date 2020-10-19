@@ -1,15 +1,17 @@
 ---
-title: 
+title: verso il cortile
 area: giardino
 ---
-# verso il cortile
-
-Vai al [[62-giardino-orcio]] per vedere l'orcio
-
-Vai al [[63-giardino-la porta baracchina]] per andare alla porta della baracchina
-
-Vai al [[64-cortile-nel cortile]] per salire nel cortile
-
-Vai al [[2-giardino-davanti casa]] per tornare indietro
+# 61
+_che bel giardino_
 
 ![[foto_38.jpg]]
+
+👀ORCIO [[62-giardino-orcio|62]]
+
+👣PORTA [[63-giardino-la porta baracchina|63]]
+
+👣CORTILE [[64-cortile-nel cortile|64]]
+
+👣INDIETRO [[2-giardino-davanti casa|2]]
+

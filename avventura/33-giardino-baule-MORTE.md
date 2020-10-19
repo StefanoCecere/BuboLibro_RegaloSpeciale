@@ -1,13 +1,14 @@
 ---
-title: 
+title: il baule
 area: giardino
 class: morte
 ---
-# il baule
+# 33
+_ahh che paura!_
 
-☠️
-
-**SEI MORTO**
-torna al [[1-inizio]]
+**SEI MORTO ☠️**
 
 ![[foto_23.jpg]]
+
+torna al [[1-inizio|1]]
+

@@ -1,9 +1,10 @@
 ---
-title: 
+title: le piante
 area: giardino
 ---
-# le piante
-
-Vai al [[30-giardino-gelsomino]] per vedere il gelsomino
+# 27
+_le piante si arrampicano!_
 
 ![[foto_19.jpg]]
+
+👀GELSOMINO[[30-giardino-gelsomino|30]]

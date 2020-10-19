@@ -3,5 +3,6 @@ title: i pomodori
 area: orto
 ---
 # 9
+_che buoni i pomodori_
 
-Vai al [[11-orto-ancora pomodori]] per vedere altri pomodori
+👀ZUCCHINEI [[11-orto-zucchine|11]]

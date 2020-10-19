@@ -1,11 +1,12 @@
 ---
-title: 
+title: il lettone
 area: casa
 class: win
 ---
-# il lettone
-
-### HAI VINTO
-torna al [[1-inizio]] se vuoi provare altre strade
+# 58
 
 ![[foto_77.jpg]]
+
+### HAI VINTO
+torna al [[1-inizio|1]] se vuoi provare altre strade
+

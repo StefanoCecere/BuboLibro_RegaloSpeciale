@@ -1,13 +1,15 @@
 ---
-title: 
+title: nel cortile
 area: giardino
 ---
-# nel cortile
-
-Vai al [[66-cortile-il tavolino]] per vedere il tavolino
-
-Vai al [[67-cortile-scivolo]] per esaminare lo scivolo
-
-Vai al [[68-cortile-verso il tetto della baracchina]] per arrampicarti sul tetto della baracchina
+# 64
+_il cortile è dove ci sono i giochi_
 
 ![[foto_39.jpg]]
+
+👀TAVOLINO [[66-cortile-il tavolino|66]]
+
+👀SCIVOLO [[67-cortile-scivolo|67]]
+
+🧗ARRAMPICATI [[68-cortile-verso il tetto della baracchina|68]]
+

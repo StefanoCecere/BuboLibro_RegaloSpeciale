@@ -1,11 +1,13 @@
 ---
-title: 
+title: in mezzo al giardino
 area: giardino
 ---
-# in mezzo al giardino
-
-Vai al [[17-giardino-canna]] per tornare alla canna
-
-Vai al [[23-giardino-siepe 4-MORTE]] per andare alla quarta parte della siepe
+# 19
+_il giardino_
 
 ![[foto_10.jpg]]
+
+👀POMPA [[17-giardino-pompa|17]]
+
+👀SIEPE [[23-giardino-siepe 4-MORTE|23]]
+

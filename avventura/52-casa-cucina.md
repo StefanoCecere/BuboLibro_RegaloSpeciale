@@ -1,9 +1,11 @@
 ---
-title: 
+title: la cucina
 area: casa
 ---
-# la cucina
-
-Vai al [[47-casa-verso la cameretta]] se vuoi andare verso la cameretta
+# 52
+_so cucinare le uova_
 
 ![[foto_58.jpg]]
+
+👣CAMERETTA [[47-casa-verso la cameretta|47]]
+

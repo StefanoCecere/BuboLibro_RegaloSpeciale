@@ -1,11 +1,13 @@
 ---
-title: 
+title: la siepe 3
 area: giardino
 ---
-# la siepe 3
-
-Vai al [[23-giardino-siepe 4-MORTE]] per vedere la quarta parte della siepe
-
-Vai al [[19-giardino-in mezzo al giardino]] per andare in mezzo al giardino
+# 22
+_una statua_
 
 ![[foto_13.jpg]]
+
+👀ALTRA SIEPE [[23-giardino-siepe 4-MORTE|23]]
+
+👣GIARDINO [[19-giardino-in mezzo al giardino|19]]
+

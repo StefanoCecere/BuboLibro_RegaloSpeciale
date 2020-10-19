@@ -1,13 +1,14 @@
 ---
-title: 
+title: il monopattino
 area: giardino
 class: morte
 ---
-# il monopattino
+# 35
+_senza casco meglio non andare in monopattino_
 
-☠️
-
-**SEI MORTO**
-torna al [[1-inizio]]
+**SEI MORTO ☠️**
 
 ![[foto_27.jpg]]
+
+torna al [[1-inizio|1]]
+

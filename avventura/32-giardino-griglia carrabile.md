@@ -1,13 +1,15 @@
 ---
-title: 
+title: la griglia carrabile
 area: giardino
 ---
-# la griglia carrabile
-
-Vai al [[31-giardino-canestro]] per vedere il canestro
-
-Vai al [[33-giardino-baule-MORTE]] vedere cosa c'è nel baule
-
-Vai al [[34-giardino-tavolo piccolo]] per vedere il tavolo
+# 32
+_qui cresce l'erba_
 
 ![[foto_22.jpg]]
+
+👀CANESTRO [[31-giardino-canestro|31]]
+
+🖐BAULE[[33-giardino-baule-MORTE|33]]
+
+👀TAVOLO [[34-giardino-tavolo piccolo|34]]
+

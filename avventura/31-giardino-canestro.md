@@ -1,9 +1,10 @@
 ---
-title: 
+title: il canestro
 area: giardino
 ---
-# il canestro
-
-Vai al [[32-giardino-griglia carrabile]] per andare sulla griglia carrabile
+# 31
+_sai giocare anche tu a pallacanestro?_
 
 ![[foto_21.jpg]]
+
+👣GRIGLIA [[32-giardino-griglia carrabile|32]]

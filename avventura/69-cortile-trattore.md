@@ -1,11 +1,12 @@
 ---
-title: 
+title: il trattore
 area: giardino
 ---
-# il trattore
-
-Vai al [[70-cortile-bici piccolissima]] per vedere la bici piccolissima
-
-Vai al [[67-cortile-scivolo]] per vederelo scivolo
+# 69
+_con questo vado a scuola_
 
 ![[foto_41.jpg]]
+
+👀BICI BABY [[70-cortile-bici piccolissima|70]]
+
+👀SCIVOLO [[67-cortile-scivolo|67]]

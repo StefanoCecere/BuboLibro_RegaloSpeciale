@@ -1,11 +1,13 @@
 ---
-title: 
+title:  in cima alle scale
 area: casa
 ---
-# in cima alle scale
-
-Vai al [[58-casa-lettone-VITTORIA]] per vedere il lettone
-
-Vai al [[59-casa-armadio]] per vedere l'armadio
+# 53
+_eheh sono arrivato quassù_
 
 ![[foto_74.jpg]]
+
+👀LETTONE [[58-casa-lettone-VITTORIA|58]]
+
+👀ARMADIO [[59-casa-armadio|59]]
+

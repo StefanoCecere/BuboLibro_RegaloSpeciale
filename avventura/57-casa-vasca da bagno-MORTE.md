@@ -4,10 +4,11 @@ area: casa
 class: morte
 ---
 # 57
+_lo sapevo che non dovevo fare il bagno da solo_
 
-☠️
-
-**SEI MORTO**
-torna al [[1-inizio]]
+**SEI MORTO ☠️**
 
 ![[foto_72.jpg]]
+
+torna al [[1-inizio|1]]
+

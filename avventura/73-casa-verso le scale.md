@@ -3,9 +3,11 @@ title: verso le scale
 area: casa
 ---
 # 73
-
-Vai al [[54-casa-cassettiera]] per andare a vedere la cassettiera
-
-Vai al [[53-casa-in cima alle scale]] per salire le scale
+_riuscirai a salire fin lassù?_
 
 ![[foto_73.jpg]]
+
+👣CASSETTIERA [[54-casa-cassettiera|54]]
+
+👣SCALE [[53-casa-in cima alle scale|53]]
+

@@ -1,13 +1,13 @@
 ---
-title: 
+title: il tavolino
 area: giardino
 ---
-# il tavolino
-
-Vai al [[69-cortile-trattore]] per vedere il trattore
-
-Vai al [[70-cortile-bici piccolissima]] per vedere la bici piccolissima
-
-Vai al [[67-cortile-scivolo]] per vedere lo scivolo
-
+# 66
 ![[foto_40.jpg]]
+
+👀TRATTORE [[69-cortile-trattore|69]]
+
+👀BICI BABY [[70-cortile-bici piccolissima|70]]
+
+👀SCIVOLO [[67-cortile-scivolo|67]]
+
