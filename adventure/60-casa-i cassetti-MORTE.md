@@ -10,5 +10,5 @@ _non dovevo sbirciare_
 
 ![[foto_76.jpg]]
 
-INIZIO [[1-inizio|1]]
+INIZIO [[1-start|1]]
 

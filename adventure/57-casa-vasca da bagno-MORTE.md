@@ -10,5 +10,5 @@ _lo sapevo che non dovevo fare il bagno da solo_
 
 ![[foto_72.jpg]]
 
-torna al [[1-inizio|1]]
+torna al [[1-start|1]]
 

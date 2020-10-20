@@ -10,5 +10,5 @@ _senza casco meglio non andare in monopattino_
 
 ![[foto_27.jpg]]
 
-torna al [[1-inizio|1]]
+torna al [[1-start|1]]
 

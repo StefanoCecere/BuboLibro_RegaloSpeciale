@@ -10,5 +10,5 @@ _lo sapevo che fratellone non voleva_
 
 ![[foto_78.jpg]]
 
-torna al [[1-inizio|1]]
+torna al [[1-start|1]]
 

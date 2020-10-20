@@ -10,5 +10,5 @@ _ahh che paura!_
 
 ![[foto_23.jpg]]
 
-torna al [[1-inizio|1]]
+torna al [[1-start|1]]
 

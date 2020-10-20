@@ -10,5 +10,5 @@ _lo sapevo che non dovevo mettere le mani lì_
 
 ![[foto_20.jpg]]
 
-torna al [[1-inizio|1]]
+torna al [[1-start|1]]
 

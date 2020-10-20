@@ -10,5 +10,5 @@ _AHI AHI AHI_
 
 ![[foto_37.jpg]]
 
-torna al [[1-inizio|1]]
+INIZIO [[1-start|1]]
 

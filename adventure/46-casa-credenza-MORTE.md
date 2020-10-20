@@ -8,4 +8,4 @@ class: morte
 
 ![[foto_60.jpg]]
 
-torna al [[1-inizio|1]]
+torna al [[1-start|1]]
