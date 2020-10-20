@@ -1,11 +1,9 @@
 ---
-title: tubo
-area: giardino
+title:tubo
+area:Giardino
 ---
 # 18
-_da qui esce l'acqua_
-
-![[foto_9.jpg]]
+_Da qui esce l'acqua_
 
 👀CANNA [[17-giardino-pompa|17]]
 
@@ -15,3 +13,4 @@ _da qui esce l'acqua_
 
 👀SIEPE 3 [[22-giardino-statua|22]]
 
+![[foto_9.jpg]]

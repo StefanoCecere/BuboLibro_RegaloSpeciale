@@ -1,13 +1,12 @@
 ---
-title: pompa
-area: giardino
+title:pompa
+area:Giardino
 ---
 # 17
-_qui arriva l'acqua piovana_
-
-![[foto_8.jpg]]
+_Qui arriva l'acqua piovana_
 
 👀TUBO [[18-giardino-tubo|18]]
 
 👣GIARDINO [[19-giardino-in mezzo al giardino|19]]
 
+![[foto_8.jpg]]

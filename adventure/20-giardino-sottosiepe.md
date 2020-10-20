@@ -1,10 +1,10 @@
 ---
-title: sotto siepe
-area: giardino
+title:sottosiepe
+area:Giardino
 ---
 # 20
-_qui sotto sento rumori strani_
-
-![[foto_12.jpg]]
+_Qui mangiano le mie quattro tartarughe_
 
 👀SIEPE 3 [[22-giardino-statua|22]]
+
+![[foto_12.jpg]]

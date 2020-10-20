@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/15-orto-la lavatrice.md",
+            "file": "adventure/25-giardino-l'albicocco.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/15-orto-la lavatrice.md",
+            "file": "adventure/25-giardino-l'albicocco.md",
             "mode": "preview"
           }
         },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventure/15-orto-la lavatrice.md"
+                "file": "adventure/25-giardino-l'albicocco.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventure/15-orto-la lavatrice.md"
+                "file": "adventure/25-giardino-l'albicocco.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "adventure/15-orto-la lavatrice.md",
-    "adventure/14-orto-in mezzo all'orto.md",
-    "adventure/13-orto-carciofi.md",
-    "adventure/28-giardino-terrapieno-MORTE.md",
-    "adventure/18-giardino-tubo.md",
-    "adventure/11-orto-zucchine.md",
-    "adventure/4-orto-verso la lavatrice.md",
-    "adventure/2-giardino-davanti casa.md",
-    "adventure/12-orto-lattughe.md",
-    "adventure/9-orto-i pomodori.md"
+    "adventure/25-giardino-albicocco.md",
+    "adventure/24-giardino-vaso.md",
+    "adventure/23-giardino-siepe 4-MORTE.md",
+    "adventure/1-start.md",
+    "adventure/16-orto-i bastoni-MORTE.md",
+    "_img/foto_14.jpg",
+    "_img/foto_13.jpg",
+    "_img/foto_12.jpg",
+    "_img/foto_11.jpg",
+    "_img/foto_10.jpg"
   ]
 }

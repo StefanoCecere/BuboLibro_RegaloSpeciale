@@ -1,13 +1,13 @@
 ---
-title:i bastoni
-area:Orto
+title:fine siepe
+area:Giardino
 class:morte
 ---
-# 16
+# 23
 _No sei morto!_
 
 **SEI MORTO**
 
 INIZIO [[1-start|1]]
 
-![[foto_37.jpg]]
+![[foto_14.jpg]]

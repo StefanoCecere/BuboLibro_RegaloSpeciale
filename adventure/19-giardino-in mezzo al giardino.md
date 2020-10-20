@@ -1,13 +1,12 @@
 ---
-title: in mezzo al giardino
-area: giardino
+title:in mezzo al giardino
+area:Giardino
 ---
 # 19
-_il giardino_
-
-![[foto_10.jpg]]
+_Da qui vedo bene tutto il giardino_
 
 👀POMPA [[17-giardino-pompa|17]]
 
-👀SIEPE [[23-giardino-siepe 4-MORTE|23]]
+👀SIEPE [[23-giardino-fine siepe-MORTE|23]]
 
+![[foto_10.jpg]]

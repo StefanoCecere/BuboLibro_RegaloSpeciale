@@ -1,15 +1,14 @@
 ---
-title: la salvia
-area: giardino
+title:la salvia
+area:Giardino
 ---
 # 21
-_la salvia il papà la usa per cucinare_
-
-![[foto_15.jpg]]
+_Usiamo la salvia per cucinare_
 
 👀SIEPE [[24-giardino-vaso|24]]
 
-👀ALBICOCCO [[25-giardino-albicocco|25]]
+👀ALBICOCCO [[25-giardino-l'albicocco|25]]
 
 👣CORTILE [[61-giardino-verso il cortile|61]]
 
+![[foto_15.jpg]]

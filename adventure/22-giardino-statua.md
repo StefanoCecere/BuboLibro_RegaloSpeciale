@@ -1,13 +1,12 @@
 ---
-title: la statua
-area: giardino
+title:la statua
+area:Giardino
 ---
 # 22
-_una statua_
+_Sembra una normale statua_
 
-![[foto_13.jpg]]
-
-👀ALTRA SIEPE [[23-giardino-siepe 4-MORTE|23]]
+👀ALTRA SIEPE [[23-giardino-fine siepe-MORTE|23]]
 
 👣GIARDINO [[19-giardino-in mezzo al giardino|19]]
 
+![[foto_13.jpg]]
