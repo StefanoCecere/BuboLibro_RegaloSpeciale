@@ -1,6 +1,6 @@
 ---
-title:davanti casa
-area:Giardino
+title: davanti casa
+area: giardino
 ---
 # 2
 _Sei davanti casa dove vai?_
@@ -9,7 +9,7 @@ _Sei davanti casa dove vai?_
 
 👣ORTO [[8-giardino-verso l'orto|8]]
 
-👀TAVOLO [[7-giardino-tavolo grande|7]]
+👀TAVOLO [[7-giardino-tavolo da giardino|7]]
 
 👣CORTILE [[61-giardino-verso il cortile|61]] 
 

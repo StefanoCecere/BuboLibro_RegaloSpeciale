@@ -11,5 +11,5 @@ _qui cresce l'erba_
 
 🖐BAULE[[33-giardino-baule-MORTE|33]]
 
-👀TAVOLO [[34-giardino-tavolo piccolo|34]]
+👀TAVOLO [[34-giardino-tavolino da giardino|34]]
 

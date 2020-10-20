@@ -1,6 +1,6 @@
 ---
-title:verso l'orto
-area:Giardino
+title: verso l'orto
+area: giardino
 ---
 # 8
 _Andiamo verso l'orto_

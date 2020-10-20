@@ -1,6 +1,6 @@
 ---
-title:verso la lavatrice
-area:Orto
+title: verso la lavatrice
+area: orto
 ---
 # 4
 _Andiamo verso la lavatrice!_

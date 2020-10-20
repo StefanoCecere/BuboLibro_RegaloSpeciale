@@ -1,12 +1,13 @@
 ---
 title: il lettone
 area: casa
-class: win
 ---
 # 58
+_ credo che ci sia qualcosa... UNA SCATOLA!__
+
+HAI LA CHIAVE? 
+
+SI [[76-il regalo|76]]
+NO [[10-casa-in casa|10]]
 
 ![[foto_77.jpg]]
-
-### HAI VINTO
-torna al [[1-start|1]] se vuoi provare altre strade
-

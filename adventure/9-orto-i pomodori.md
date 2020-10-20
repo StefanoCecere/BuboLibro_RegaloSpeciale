@@ -1,6 +1,6 @@
 ---
-title:i pomodori
-area:Orto
+title: i pomodori
+area: orto
 ---
 # 9
 _Ci sono molti pomodori_
