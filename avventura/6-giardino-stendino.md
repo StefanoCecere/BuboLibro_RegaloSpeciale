@@ -1,10 +1,10 @@
 ---
-title: stendino
-area: giardino
+title:stendino
+area:Giardino
 ---
 # 6
-_panni stesi oggi non ne abbiamo_
-
-![[foto_4.jpg]]
+_Non ci sono panni stesi_
 
 👀POMPA ACQUA [[17-giardino-pompa|17]]
+
+![[foto_4.jpg]]

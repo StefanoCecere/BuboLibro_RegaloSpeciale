@@ -1,10 +1,10 @@
 ---
-title: bici piccola
-area: giardino
+title:bici piccola
+area:Giardino
 ---
 # 3
-_ahh la mia bici_
-
-![[foto_2.jpg]]
+_Questa è la mia bici!_
 
 👣ORTO [[49-orto-orto|49]]
+
+![[foto_2.jpg]]

@@ -1,17 +1,16 @@
 ---
-title: davanti casa
-area: giardino
+title:davanti casa
+area:Giardino
 ---
 # 2
-_Sei davanti a casa. dove vuoi andare?_
+_Sei davanti casa dove vai?_
 
-![[foto_6.jpg]]
+👣CASA [[10-casa-in casa|10]]
 
- 👣CASA [[10-casa-in casa|10]]
-
-👣 ORTO [[8-giardino-verso l'orto|8]]
+👣ORTO [[8-giardino-verso l'orto|8]]
 
 👀TAVOLO [[7-giardino-tavolo grande|7]]
 
 👣CORTILE [[61-giardino-verso il cortile|61]] 
 
+![[foto_6.jpg]]

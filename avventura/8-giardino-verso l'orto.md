@@ -1,11 +1,9 @@
 ---
-title: verso l'orto
-area: giardino
+title:verso l'orto
+area:Giardino
 ---
 # 8
-_andando verso l'orto_
-
-![[foto_5.jpg]]
+_Andiamo verso l'orto_
 
 👀BICI GRANDE [[5-giardino-bici grande|5]]
 
@@ -15,3 +13,4 @@ _andando verso l'orto_
 
 👣ORTO [[49-orto-orto|49]]
 
+![[foto_5.jpg]]

@@ -1,11 +1,10 @@
 ---
-title: bici grande
-area: giardino
+title:bici grande
+area:Giardino
 ---
 # 5
-_la bici di fratellone_
-
-![[foto_3.jpg]]
+_La bici della mamma_
 
 👀ALTRA BICI [[3-giardino-bici piccola|3]]
 
+![[foto_3.jpg]]

@@ -6,10 +6,12 @@
       {
         "id": "90a700469430a5e2",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "_img/foto_29.jpg"
+            "file": "avventura/11-orto-zucchine.md",
+            "mode": "source"
           }
         },
         "group": "42257ee96572c04e"
@@ -17,11 +19,11 @@
       {
         "id": "2db16c50fe902504",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "_img/foto_29.jpg"
+            "file": "avventura/11-orto-zucchine.md",
+            "mode": "preview"
           }
         },
         "group": "42257ee96572c04e"
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_img/foto_29.jpg"
+                "file": "avventura/11-orto-zucchine.md"
               }
             }
           },
@@ -101,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_img/foto_29.jpg"
+                "file": "avventura/11-orto-zucchine.md"
               }
             }
           }
@@ -113,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_img/foto_29.jpg",
-    "_img/foto_28.jpg",
-    "giardino/7 il tavolo grande.md",
-    "giardino/35 il monopattino-MORTE.md",
-    "_img/foto_27.jpg",
-    "_img/foto_26.jpg",
-    "_img/foto_25.jpg",
-    "giardino/34 il tavolo piccolo.md",
-    "_img/foto_24.jpg",
-    "giardino/33 il baule-MORTE.md"
+    "avventura/11-orto-zucchine.md",
+    "avventura/10-casa-in casa.md",
+    "avventura/9-orto-i pomodori.md",
+    "avventura/4-orto-verso la lavatrice.md",
+    "avventura/5-giardino-bici grande.md",
+    "avventura/6-giardino-stendino.md",
+    "avventura/7-giardino-tavolo grande.md",
+    "avventura/8-giardino-verso l'orto.md",
+    "_img/foto_31.jpg",
+    "_img/foto_32.jpg"
   ]
 }

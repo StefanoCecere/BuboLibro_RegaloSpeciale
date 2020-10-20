@@ -1,8 +1,10 @@
 ---
-title: zucchine
-area: orto
+title:zucchine
+area:Orto
 ---
 # 11
-_le zucchine non so se mi piacciono_
+_Non mi piacciono molto le zucchine_
 
 👀LATTUGA [[12-orto-lattughe|12]]
+
+![[foto_32.jpg]]

@@ -1,8 +1,10 @@
 ---
-title: verso la lavatrice
-area: orto
+title:verso la lavatrice
+area:Orto
 ---
 # 4
-_andiamo verso la lavatrice_
+_Andiamo verso la lavatrice!_
 
-👣 LAVATRICE [[15-orto-la lavatrice]]
+👣LAVATRICE [[15-orto-la lavatrice|15]]
+
+![[foto_30.jpg]]

@@ -1,6 +1,6 @@
 ---
-title: inizio
-area: 
+title:inizio
+area:Nessauno
 ---
 # 1
 Ciao ........ !

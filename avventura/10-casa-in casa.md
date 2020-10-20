@@ -1,14 +1,14 @@
 ---
-title: in casa
-area: casa
+title:in casa
+area:Casa
 ---
 # 10
-_ahhh che bella casetta!_
+_Siamo in casa!_
 
-![[foto_50.jpg]]
-
-👣DIVANO  [[43-casa-sul divano|43]]
+👣DIVANO [[43-casa-sul divano|43]]
 
 👀TAVOLO CUCINA [[44-casa-il tavolo di cucina|44]] 
 
 👣BAGNO [[45-casa-verso il bagno|45]]
+
+![[foto_50.jpg]]
