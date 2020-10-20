@@ -1,11 +1,12 @@
 ---
-title: la lavatrice
-area: orto
+title:la lavatrice
+area:Orto
 ---
 # 15
-_dentro la lavatrice c'è un Universo_
-
-![[foto_36.jpg]]
+_Sta ancora lavando i vestiti_
 
 👣ORTO [[14-orto-in mezzo all'orto|14]]
+
 👀BASTONI [[16-orto-i bastoni-MORTE|16]]
+
+![[foto_36.jpg]]

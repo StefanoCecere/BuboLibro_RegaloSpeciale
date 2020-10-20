@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "avventura/6-giardino-stendino.md",
+            "file": "adventure/15-orto-la lavatrice.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "avventura/6-giardino-stendino.md",
+            "file": "adventure/15-orto-la lavatrice.md",
             "mode": "preview"
           }
         },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "avventura/6-giardino-stendino.md"
+                "file": "adventure/15-orto-la lavatrice.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "avventura/6-giardino-stendino.md"
+                "file": "adventure/15-orto-la lavatrice.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "avventura/6-giardino-stendino.md",
-    "avventura/5-giardino-bici grande.md",
-    "avventura/3-giardino-bici piccola.md",
-    "avventura/12-orto-lattughe.md",
-    "avventura/11-orto-zucchine.md",
-    "avventura/10-casa-in casa.md",
-    "avventura/9-orto-i pomodori.md",
-    "avventura/8-giardino-verso l'orto.md",
-    "avventura/7-giardino-tavolo grande.md",
-    "avventura/4-orto-verso la lavatrice.md"
+    "adventure/15-orto-la lavatrice.md",
+    "adventure/14-orto-in mezzo all'orto.md",
+    "adventure/13-orto-carciofi.md",
+    "adventure/28-giardino-terrapieno-MORTE.md",
+    "adventure/18-giardino-tubo.md",
+    "adventure/11-orto-zucchine.md",
+    "adventure/4-orto-verso la lavatrice.md",
+    "adventure/2-giardino-davanti casa.md",
+    "adventure/12-orto-lattughe.md",
+    "adventure/9-orto-i pomodori.md"
   ]
 }

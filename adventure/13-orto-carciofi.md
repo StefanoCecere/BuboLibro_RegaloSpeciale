@@ -1,11 +1,12 @@
 ---
-title: carciofi
-area: orto
+title:carciofi
+area:Orto
 ---
 # 13
-_i carciofi hanno dei bei fiori_
+_I carciofi hanno dei bei fiori_
+
+👣LAVATRICE [[15-orto-la lavatrice|15]]
+
+👣ORTO [[14-orto-in mezzo all'orto|14]]
 
 ![[foto_34.jpg]]
-
-👣LAVATRICE [[14-orto-in mezzo all'orto|14]]
-👣ORTO [[14-orto-in mezzo all'orto|14]]

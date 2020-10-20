@@ -1,13 +1,12 @@
 ---
-title: in mezzo all'orto
-area: orto
+title:in mezzo all'orto
+area:Orto
 ---
 # 14
-_da qui vedo tutto l'orto_
-
-![[foto_35.jpg]]
+_Da qui vedo tutto l'orto_
 
 👀LAVATRICE [[15-orto-la lavatrice|15]]
 
 👀CARCIOFI [[13-orto-carciofi|13]]
 
+![[foto_35.jpg]]
