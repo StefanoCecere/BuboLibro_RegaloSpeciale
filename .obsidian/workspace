@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/10-casa-in casa.md",
+            "file": "adventure/58-casa-lettone-VITTORIA.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/10-casa-in casa.md",
+            "file": "adventure/58-casa-lettone-VITTORIA.md",
             "mode": "preview"
           }
         },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventure/10-casa-in casa.md"
+                "file": "adventure/58-casa-lettone-VITTORIA.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventure/10-casa-in casa.md"
+                "file": "adventure/58-casa-lettone-VITTORIA.md"
               }
             }
           }
@@ -111,19 +111,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "adventure/58-casa-lettone-VITTORIA.md",
+    "76-il regalo.md",
+    "adventure/53-casa-in cima alle scale.md",
+    "adventure/73-casa-verso le scale.md",
+    "adventure/45-casa-verso il bagno.md",
     "adventure/10-casa-in casa.md",
-    "adventure/8-giardino-verso l'orto.md",
-    "adventure/6-giardino-stendino.md",
-    "adventure/4-orto-verso la lavatrice.md",
-    "adventure/2-giardino-davanti casa.md",
-    "adventure/25-giardino-l'albicocco.md",
-    "adventure/25-giardino-albicocco.md",
-    "adventure/24-giardino-vaso.md",
-    "adventure/23-giardino-siepe 4-MORTE.md",
-    "adventure/1-start.md"
+    "adventure/43-casa-sul divano.md",
+    "adventure/44-casa-il tavolo di cucina.md",
+    "adventure/75-casa-la poltrona.md",
+    "adventure/50-casa-scaffale-VITTORIA.md"
   ]
 }

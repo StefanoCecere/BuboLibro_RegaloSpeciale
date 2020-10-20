@@ -13,7 +13,8 @@
     "starred": true,
     "page-preview": false,
     "tag-pane": true,
-    "outline": true
+    "outline": true,
+    "publish": true
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_img"
