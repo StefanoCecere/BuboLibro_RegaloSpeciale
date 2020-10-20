@@ -7,7 +7,7 @@ _il cortile è dove ci sono i giochi_
 
 ![[foto_39.jpg]]
 
-👀TAVOLINO [[66-cortile-il tavolino|66]]
+👀TAVOLINO [[66-cortile-il tavolo in cortile|66]]
 
 👀SCIVOLO [[67-cortile-scivolo|67]]
 

@@ -1,6 +1,6 @@
 ---
-title:in casa
-area:Casa
+title: in casa
+area: casa
 ---
 # 10
 _Siamo in casa!_

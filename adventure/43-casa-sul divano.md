@@ -10,3 +10,5 @@ _il divano è sempre comodo vero?_
 👀PIANOFORTE [[48-casa-pianoforte|48]]
 
 👀POLTRONA [[75-casa-la poltrona|49]]
+
+👣INDIETRO [[10-casa-in casa|10]]

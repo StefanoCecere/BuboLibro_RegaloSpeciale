@@ -9,5 +9,5 @@ _qui è dove il papà si riposa sempre_
 
 👣DIVANO [[43-casa-sul divano|43]]
 
-👀SCRIVANIA PAPA' [[51-casa-scrivania del papà|51]]
+👀SCRIVANIA PAPA' [[51-casa-scrivania del papa|51]]
 

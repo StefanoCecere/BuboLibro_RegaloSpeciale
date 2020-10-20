@@ -3,6 +3,8 @@ title: il tavolino
 area: giardino
 ---
 # 66
+_una tavola rotonda per i cavalieri_
+
 ![[foto_40.jpg]]
 
 👀TRATTORE [[69-cortile-trattore|69]]
