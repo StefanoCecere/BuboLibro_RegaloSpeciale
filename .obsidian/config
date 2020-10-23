@@ -17,5 +17,6 @@
     "publish": true
   },
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_img"
+  "attachmentFolderPath": "_img",
+  "enabledPlugins": []
 }
