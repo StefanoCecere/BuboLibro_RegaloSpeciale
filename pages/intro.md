@@ -8,6 +8,8 @@ Il papà (io, Stefano) ho collaborato. Non è la prima volta che creiamo qualcos
 ## come preparare questo libro
 ci sono alcune didascalie in cui poter scrivere il nome del bambino/a a cui questo libro viene regalato. così da renderlo davvero personalizzato!
 
+le pagine da completare sono le: 1, ... (TODO)
+
 ## come leggerlo
 Il libro può essere lette in diversi modi:
 - in autonomia, seguendo giusto le frecce e i numeri sui disegni

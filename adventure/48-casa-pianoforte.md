@@ -5,6 +5,8 @@ area: casa
 # 48
 _mi piace suonare i suoni_
 
+(TODO: enigma della scala musicale)
+
 ![[foto_54.jpg]]
 
 👀POLTRONA [[75-casa-la poltrona|75]]
