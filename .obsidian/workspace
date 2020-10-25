@@ -10,11 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "adventure/31-giardino-canestro.md",
-=======
-            "file": "adventure/58-casa-lettone-VITTORIA.md",
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+            "file": "adventure/48-casa-pianoforte.md",
             "mode": "source"
           }
         },
@@ -26,11 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "adventure/31-giardino-canestro.md",
-=======
-            "file": "adventure/58-casa-lettone-VITTORIA.md",
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+            "file": "adventure/48-casa-pianoforte.md",
             "mode": "preview"
           }
         },
@@ -93,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "adventure/31-giardino-canestro.md"
-=======
-                "file": "adventure/58-casa-lettone-VITTORIA.md"
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+                "file": "adventure/48-casa-pianoforte.md"
               }
             }
           },
@@ -115,11 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "adventure/31-giardino-canestro.md"
-=======
-                "file": "adventure/58-casa-lettone-VITTORIA.md"
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+                "file": "adventure/48-casa-pianoforte.md"
               }
             }
           }
@@ -127,31 +111,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "adventure/31-giardino-canestro.md",
-    "adventure/30-giardino-gelsomino.md",
-    "adventure/29-giardino-in mezzo al giardino.md",
-    "adventure/25-giardino-l'albicocco.md",
-    "adventure/26-giardino-verso il secondo giardino.md",
-    "adventure/27-giardino-le piante.md",
-    "adventure/28-giardino-terrapieno-MORTE.md",
-    "_img/foto_22.jpg",
-    "_img/foto_21.jpg",
-    "_img/foto_19.jpg"
-=======
+    "adventure/48-casa-pianoforte.md",
+    "pages/appendices.md",
+    "pages/intro.md",
+    "README.md",
+    "_local/note segrete per noi.md",
+    "_local/Untitled.md",
     "adventure/58-casa-lettone-VITTORIA.md",
     "76-il regalo.md",
     "adventure/53-casa-in cima alle scale.md",
-    "adventure/73-casa-verso le scale.md",
-    "adventure/45-casa-verso il bagno.md",
-    "adventure/10-casa-in casa.md",
-    "adventure/43-casa-sul divano.md",
-    "adventure/44-casa-il tavolo di cucina.md",
-    "adventure/75-casa-la poltrona.md",
-    "adventure/50-casa-scaffale-VITTORIA.md"
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+    "adventure/73-casa-verso le scale.md"
   ]
 }
