@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/10-casa-in casa.md",
+            "file": "adventure/31-giardino-canestro.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/10-casa-in casa.md",
+            "file": "adventure/31-giardino-canestro.md",
             "mode": "preview"
           }
         },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventure/10-casa-in casa.md"
+                "file": "adventure/31-giardino-canestro.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventure/10-casa-in casa.md"
+                "file": "adventure/31-giardino-canestro.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "adventure/10-casa-in casa.md",
-    "adventure/8-giardino-verso l'orto.md",
-    "adventure/6-giardino-stendino.md",
-    "adventure/4-orto-verso la lavatrice.md",
-    "adventure/2-giardino-davanti casa.md",
+    "adventure/31-giardino-canestro.md",
+    "adventure/30-giardino-gelsomino.md",
+    "adventure/29-giardino-in mezzo al giardino.md",
     "adventure/25-giardino-l'albicocco.md",
-    "adventure/25-giardino-albicocco.md",
-    "adventure/24-giardino-vaso.md",
-    "adventure/23-giardino-siepe 4-MORTE.md",
-    "adventure/1-start.md"
+    "adventure/26-giardino-verso il secondo giardino.md",
+    "adventure/27-giardino-le piante.md",
+    "adventure/28-giardino-terrapieno-MORTE.md",
+    "_img/foto_22.jpg",
+    "_img/foto_21.jpg",
+    "_img/foto_19.jpg"
   ]
 }

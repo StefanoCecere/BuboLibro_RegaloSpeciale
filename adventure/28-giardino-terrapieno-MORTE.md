@@ -1,14 +1,13 @@
 ---
-title: il terrapieno
-area: giardino
-class: morte
+title:il terrapieno
+area:Giardino
+class:morte
 ---
 # 28
-_lo sapevo che non dovevo mettere le mani lì_
+_No sei morto!_
 
-**SEI MORTO ☠️**
-
-![[foto_20.jpg]]
+**SEI MORTO**
 
 torna al [[1-start|1]]
 
+![[foto_20.jpg]]

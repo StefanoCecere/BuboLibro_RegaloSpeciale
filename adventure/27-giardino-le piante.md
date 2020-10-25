@@ -1,10 +1,10 @@
 ---
-title: le piante
-area: giardino
+title:le piante
+area:Giardino
 ---
 # 27
-_le piante si arrampicano!_
+_Sono molto piccole_
+
+👀GELSOMINO [[30-giardino-gelsomino|30]]
 
 ![[foto_19.jpg]]
-
-👀GELSOMINO[[30-giardino-gelsomino|30]]
