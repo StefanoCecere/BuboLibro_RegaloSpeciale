@@ -10,7 +10,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "adventure/31-giardino-canestro.md",
+=======
+            "file": "adventure/58-casa-lettone-VITTORIA.md",
+>>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
             "mode": "source"
           }
         },
@@ -22,7 +26,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "adventure/31-giardino-canestro.md",
+=======
+            "file": "adventure/58-casa-lettone-VITTORIA.md",
+>>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
             "mode": "preview"
           }
         },
@@ -85,7 +93,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "adventure/31-giardino-canestro.md"
+=======
+                "file": "adventure/58-casa-lettone-VITTORIA.md"
+>>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
               }
             }
           },
@@ -103,7 +115,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "adventure/31-giardino-canestro.md"
+=======
+                "file": "adventure/58-casa-lettone-VITTORIA.md"
+>>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
               }
             }
           }
@@ -111,10 +127,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "adventure/31-giardino-canestro.md",
     "adventure/30-giardino-gelsomino.md",
     "adventure/29-giardino-in mezzo al giardino.md",
@@ -125,5 +141,17 @@
     "_img/foto_22.jpg",
     "_img/foto_21.jpg",
     "_img/foto_19.jpg"
+=======
+    "adventure/58-casa-lettone-VITTORIA.md",
+    "76-il regalo.md",
+    "adventure/53-casa-in cima alle scale.md",
+    "adventure/73-casa-verso le scale.md",
+    "adventure/45-casa-verso il bagno.md",
+    "adventure/10-casa-in casa.md",
+    "adventure/43-casa-sul divano.md",
+    "adventure/44-casa-il tavolo di cucina.md",
+    "adventure/75-casa-la poltrona.md",
+    "adventure/50-casa-scaffale-VITTORIA.md"
+>>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
   ]
 }
