@@ -7,5 +7,5 @@ _la mia bici da piccolo_
 
 ![[foto_42.jpg]]
 
-👣INDIETRO [[69-cortile-trattore|69]]
+👣INDIETRO [[69-giardino-trattore|69]]
 

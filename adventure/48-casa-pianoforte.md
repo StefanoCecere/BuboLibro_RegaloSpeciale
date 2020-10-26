@@ -11,5 +11,5 @@ _mi piace suonare i suoni_
 
 👀POLTRONA [[75-casa-la poltrona|75]]
 
-👀SCAFFALE [[50-casa-scaffale-VITTORIA|50]]
+👀SCAFFALE [[50-casa-scaffale-OGGETTO|50]]
 

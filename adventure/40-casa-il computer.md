@@ -7,5 +7,5 @@ _il computer per fare i compiti e giocare_
 
 ![[foto_66.jpg]]
 
-👀SCRIVANIA [[41-camera-scrivania grande|41]]
+👀SCRIVANIA [[41-casa-scrivania grande|41]]
 

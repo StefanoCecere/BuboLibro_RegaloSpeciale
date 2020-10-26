@@ -1,54 +1,33 @@
 {
   "main": {
-    "id": "e78853bdc0c0e417",
+    "id": "f5485bd18d122a4e",
     "type": "split",
     "children": [
       {
-        "id": "90a700469430a5e2",
+        "id": "724ceec4f59e438f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "adventure/31-giardino-canestro.md",
-=======
-            "file": "adventure/58-casa-lettone-VITTORIA.md",
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+            "file": "adventure/58-casa-lettone.md",
             "mode": "source"
           }
-        },
-        "group": "42257ee96572c04e"
-      },
-      {
-        "id": "2db16c50fe902504",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "adventure/31-giardino-canestro.md",
-=======
-            "file": "adventure/58-casa-lettone-VITTORIA.md",
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
-            "mode": "preview"
-          }
-        },
-        "group": "42257ee96572c04e"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "64f22ffab5113c42",
+    "id": "311c409711a8e3d6",
     "type": "split",
     "children": [
       {
-        "id": "6e3a5316854d1ea8",
+        "id": "520d7bbd7189d4d3",
         "type": "tabs",
         "children": [
           {
-            "id": "af666cec90da3dfe",
+            "id": "cf9a82f55e552f7d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +35,7 @@
             }
           },
           {
-            "id": "f02a8cc891548b61",
+            "id": "46b619cbc2f0939b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +45,7 @@
             }
           },
           {
-            "id": "09de40b248091a41",
+            "id": "ef0755fbfb39d476",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -80,29 +59,25 @@
     "width": 300
   },
   "right": {
-    "id": "f31c41452b426933",
+    "id": "f0577c131849f898",
     "type": "split",
     "children": [
       {
-        "id": "75aac0011d32df12",
+        "id": "0a08f45c56091842",
         "type": "tabs",
         "children": [
           {
-            "id": "961568cf73ac2675",
+            "id": "e74613e54eab5c1a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "adventure/31-giardino-canestro.md"
-=======
-                "file": "adventure/58-casa-lettone-VITTORIA.md"
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+                "file": "adventure/58-casa-lettone.md"
               }
             }
           },
           {
-            "id": "3cb2fe16d358691c",
+            "id": "47f4655d592966f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -110,16 +85,12 @@
             }
           },
           {
-            "id": "12ad982bfccbb321",
+            "id": "4184d77ac2ddcbdc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "adventure/31-giardino-canestro.md"
-=======
-                "file": "adventure/58-casa-lettone-VITTORIA.md"
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+                "file": "adventure/58-casa-lettone.md"
               }
             }
           }
@@ -127,31 +98,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "adventure/31-giardino-canestro.md",
-    "adventure/30-giardino-gelsomino.md",
-    "adventure/29-giardino-in mezzo al giardino.md",
-    "adventure/25-giardino-l'albicocco.md",
-    "adventure/26-giardino-verso il secondo giardino.md",
-    "adventure/27-giardino-le piante.md",
-    "adventure/28-giardino-terrapieno-MORTE.md",
-    "_img/foto_22.jpg",
-    "_img/foto_21.jpg",
-    "_img/foto_19.jpg"
-=======
-    "adventure/58-casa-lettone-VITTORIA.md",
-    "76-il regalo.md",
-    "adventure/53-casa-in cima alle scale.md",
-    "adventure/73-casa-verso le scale.md",
-    "adventure/45-casa-verso il bagno.md",
-    "adventure/10-casa-in casa.md",
-    "adventure/43-casa-sul divano.md",
-    "adventure/44-casa-il tavolo di cucina.md",
+    "adventure/58-casa-lettone.md",
     "adventure/75-casa-la poltrona.md",
-    "adventure/50-casa-scaffale-VITTORIA.md"
->>>>>>> 6cbf98b764322cbf8946696631c46e80c5e7ab82
+    "adventure/76-casa-il regalo-VITTORIA.md",
+    "adventure/50-casa-scaffale-OGGETTO.md",
+    "adventure/49-orto-orto.md",
+    "adventure/50-casa-scaffale-VITTORIA.md",
+    "adventure/48-casa-pianoforte.md",
+    "adventure/43-casa-sul divano.md",
+    "adventure/56-casa-in bagno.md",
+    "adventure/3-giardino-la mia bici.md"
   ]
 }

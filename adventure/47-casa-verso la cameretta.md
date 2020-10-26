@@ -7,4 +7,4 @@ _andiamo in camerina?_
 
 ![[foto_59.jpg]]
 
-👣CAMERINA [[36-camera-in camera|36]]
+👣CAMERINA [[36-casa-in camera|36]]

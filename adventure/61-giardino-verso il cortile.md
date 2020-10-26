@@ -11,7 +11,7 @@ _che bel giardino_
 
 👣BARACCHINA [[63-giardino-la porta baracchina|63]]
 
-👣CORTILE [[64-cortile-nel cortile|64]]
+👣CORTILE [[64-giardino-nel cortile|64]]
 
 👣INDIETRO [[2-giardino-davanti casa|2]]
 

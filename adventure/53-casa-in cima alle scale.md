@@ -7,7 +7,7 @@ _eheh sono arrivato quassù_
 
 ![[foto_74.jpg]]
 
-👀LETTONE [[58-casa-lettone-VITTORIA|58]]
+👀LETTONE [[58-casa-lettone|58]]
 
 👀ARMADIO [[59-casa-armadio|59]]
 

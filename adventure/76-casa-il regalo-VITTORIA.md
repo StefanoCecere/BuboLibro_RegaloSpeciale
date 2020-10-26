@@ -1,6 +1,6 @@
 ---
 title: il regalo
-area: 
+area: casa
 class: win
 ---
 # 76
