@@ -10,10 +10,30 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "adventure/58-casa-lettone.md",
             "mode": "source"
           }
         }
+=======
+            "file": "adventure/48-casa-pianoforte.md",
+            "mode": "source"
+          }
+        },
+        "group": "42257ee96572c04e"
+      },
+      {
+        "id": "2db16c50fe902504",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "adventure/48-casa-pianoforte.md",
+            "mode": "preview"
+          }
+        },
+        "group": "42257ee96572c04e"
+>>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
       }
     ],
     "direction": "vertical"
@@ -72,7 +92,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "adventure/58-casa-lettone.md"
+=======
+                "file": "adventure/48-casa-pianoforte.md"
+>>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
               }
             }
           },
@@ -90,7 +114,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "adventure/58-casa-lettone.md"
+=======
+                "file": "adventure/48-casa-pianoforte.md"
+>>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
               }
             }
           }
@@ -102,6 +130,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "adventure/58-casa-lettone.md",
     "adventure/75-casa-la poltrona.md",
     "adventure/76-casa-il regalo-VITTORIA.md",
@@ -112,5 +141,17 @@
     "adventure/43-casa-sul divano.md",
     "adventure/56-casa-in bagno.md",
     "adventure/3-giardino-la mia bici.md"
+=======
+    "adventure/48-casa-pianoforte.md",
+    "pages/appendices.md",
+    "pages/intro.md",
+    "README.md",
+    "_local/note segrete per noi.md",
+    "_local/Untitled.md",
+    "adventure/58-casa-lettone-VITTORIA.md",
+    "76-il regalo.md",
+    "adventure/53-casa-in cima alle scale.md",
+    "adventure/73-casa-verso le scale.md"
+>>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
   ]
 }
