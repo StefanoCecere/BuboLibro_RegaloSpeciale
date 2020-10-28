@@ -1,4 +1,4 @@
-# LibrinoAvventura: Il Regalo di Compleanno
+# PlayEdBook: Il Regalo di Compleanno
 
 ![](_img/project_obsidian.jpg)
 
