@@ -3,7 +3,7 @@ title:in mezzo al giardino
 area:Giardino
 ---
 # 29
-_il giardino è dove gioco quando non piove_
+_Il giardino è dove gioco quando non piove_
 
 👀BUCO [[28-giardino-terrapieno-MORTE|28]]
 

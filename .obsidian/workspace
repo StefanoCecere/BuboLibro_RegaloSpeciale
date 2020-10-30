@@ -1,53 +1,33 @@
 {
   "main": {
-    "id": "f5485bd18d122a4e",
+    "id": "b34c8b4286895f90",
     "type": "split",
     "children": [
       {
-        "id": "724ceec4f59e438f",
+        "id": "0ce0a56494bdeab0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "adventure/58-casa-lettone.md",
+            "file": "adventure/40-casa-il computer.md",
             "mode": "source"
           }
         }
-=======
-            "file": "adventure/48-casa-pianoforte.md",
-            "mode": "source"
-          }
-        },
-        "group": "42257ee96572c04e"
-      },
-      {
-        "id": "2db16c50fe902504",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "adventure/48-casa-pianoforte.md",
-            "mode": "preview"
-          }
-        },
-        "group": "42257ee96572c04e"
->>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "311c409711a8e3d6",
+    "id": "d71ec451fa669408",
     "type": "split",
     "children": [
       {
-        "id": "520d7bbd7189d4d3",
+        "id": "f002607b78dac464",
         "type": "tabs",
         "children": [
           {
-            "id": "cf9a82f55e552f7d",
+            "id": "5b39619883d1b217",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +35,7 @@
             }
           },
           {
-            "id": "46b619cbc2f0939b",
+            "id": "c66986819d90e545",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +45,7 @@
             }
           },
           {
-            "id": "ef0755fbfb39d476",
+            "id": "cb0acce8d8b6bf53",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -79,29 +59,25 @@
     "width": 300
   },
   "right": {
-    "id": "f0577c131849f898",
+    "id": "6c367a6e56464deb",
     "type": "split",
     "children": [
       {
-        "id": "0a08f45c56091842",
+        "id": "5f3e91dc7469cae5",
         "type": "tabs",
         "children": [
           {
-            "id": "e74613e54eab5c1a",
+            "id": "3a85ca94d0e071af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "adventure/58-casa-lettone.md"
-=======
-                "file": "adventure/48-casa-pianoforte.md"
->>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
+                "file": "adventure/40-casa-il computer.md"
               }
             }
           },
           {
-            "id": "47f4655d592966f9",
+            "id": "2851a50e491f9d01",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -109,16 +85,12 @@
             }
           },
           {
-            "id": "4184d77ac2ddcbdc",
+            "id": "e30f21b259e74176",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "adventure/58-casa-lettone.md"
-=======
-                "file": "adventure/48-casa-pianoforte.md"
->>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
+                "file": "adventure/40-casa-il computer.md"
               }
             }
           }
@@ -130,28 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "adventure/58-casa-lettone.md",
-    "adventure/75-casa-la poltrona.md",
-    "adventure/76-casa-il regalo-VITTORIA.md",
-    "adventure/50-casa-scaffale-OGGETTO.md",
-    "adventure/49-orto-orto.md",
-    "adventure/50-casa-scaffale-VITTORIA.md",
-    "adventure/48-casa-pianoforte.md",
-    "adventure/43-casa-sul divano.md",
-    "adventure/56-casa-in bagno.md",
-    "adventure/3-giardino-la mia bici.md"
-=======
-    "adventure/48-casa-pianoforte.md",
-    "pages/appendices.md",
-    "pages/intro.md",
-    "README.md",
-    "_local/note segrete per noi.md",
-    "_local/Untitled.md",
-    "adventure/58-casa-lettone-VITTORIA.md",
-    "76-il regalo.md",
-    "adventure/53-casa-in cima alle scale.md",
-    "adventure/73-casa-verso le scale.md"
->>>>>>> 91208653b2e605faa8d2ea88afdebdf6be01dd4d
+    "adventure/40-casa-il computer.md",
+    "adventure/39-casa-la libreria.md",
+    "adventure/38-casa-il tuo letto.md",
+    "adventure/37-casa-il ripostiglio-MORTE.md",
+    "adventure/36-casa-in camera.md",
+    "adventure/35-giardino-il monopattino-MORTE.md",
+    "adventure/34-giardino-tavolino del giardino.md",
+    "adventure/7-giardino-tavolo da giardino.md",
+    "adventure/34-giardino-tavolino da giardino.md",
+    "adventure/33-giardino-baule-MORTE.md"
   ]
 }

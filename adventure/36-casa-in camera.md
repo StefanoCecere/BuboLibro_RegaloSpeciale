@@ -3,7 +3,7 @@ title:camerina
 area:Casa
 ---
 # 36
-_la nostra camerina_
+_La nostra camerina_
 
 👀RIPOSTIGLIO [[37-casa-il ripostiglio-MORTE|37]]
 

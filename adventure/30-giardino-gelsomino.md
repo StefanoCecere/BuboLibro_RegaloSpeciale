@@ -3,7 +3,7 @@ title:il gelsomino
 area:Giardino
 ---
 # 30
-_che profumo!_
+_Che profumo!_
 
 👀CANESTRO [[31-giardino-canestro|31]]
 

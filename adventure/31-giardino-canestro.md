@@ -3,7 +3,7 @@ title:il canestro
 area:Giardino
 ---
 # 31
-_sai giocare anche tu a pallacanestro?_
+_Sai giocare anche tu a pallacanestro?_
 
 👣GRIGLIA [[32-giardino-griglia carrabile|32]]
 

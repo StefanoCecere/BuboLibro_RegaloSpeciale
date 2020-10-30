@@ -1,10 +1,10 @@
 ---
-title: la libreria
-area: casa
+title:la libreria
+area:Casa
 ---
 # 39
-_tutti i nostri libri!_
-
-![[foto_65.jpg]]
+_Tutti i nostri libri!_
 
 👀COMPUTER [[40-casa-il computer|40]]
+
+![[foto_65.jpg]]

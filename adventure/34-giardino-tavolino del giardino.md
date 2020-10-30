@@ -1,8 +1,9 @@
 ---
-title:il tavolino da giardino
+title:il tavolino del giardino
 area:Giardino
 ---
 # 34
+_Qui mangiamo in estate io e mio fratello_
 
 👀MONOPATTINO [[35-giardino-il monopattino-MORTE|35]]
 
