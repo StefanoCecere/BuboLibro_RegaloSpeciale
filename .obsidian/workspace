@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/40-casa-il computer.md",
+            "file": "adventure/50-casa-scaffale-OGGETTO.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventure/40-casa-il computer.md"
+                "file": "adventure/50-casa-scaffale-OGGETTO.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventure/40-casa-il computer.md"
+                "file": "adventure/50-casa-scaffale-OGGETTO.md"
               }
             }
           }
@@ -102,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "adventure/40-casa-il computer.md",
-    "adventure/39-casa-la libreria.md",
-    "adventure/38-casa-il tuo letto.md",
-    "adventure/37-casa-il ripostiglio-MORTE.md",
-    "adventure/36-casa-in camera.md",
-    "adventure/35-giardino-il monopattino-MORTE.md",
-    "adventure/34-giardino-tavolino del giardino.md",
-    "adventure/7-giardino-tavolo da giardino.md",
-    "adventure/34-giardino-tavolino da giardino.md",
-    "adventure/33-giardino-baule-MORTE.md"
+    "adventure/50-casa-scaffale-OGGETTO.md",
+    "adventure/49-orto-nell'orto.md",
+    "adventure/48-casa-pianoforte.md",
+    "adventure/76-casa-il regalo-VITTORIA.md",
+    "adventure/58-casa-lettone.md",
+    "adventure/47-casa-verso la cameretta.md",
+    "adventure/49-orto-orto.md",
+    "adventure/46-casa-credenza-MORTE.md",
+    "adventure/45-casa-verso il bagno.md",
+    "adventure/44-casa-il tavolo di cucina.md"
   ]
 }

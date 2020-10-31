@@ -1,11 +1,9 @@
 ---
-title: il tavolo della cucina
-area: casa
+title:il tavolo della cucina
+area:Casa
 ---
 # 44
-_qui è dove si mangia_
-
-![[foto_52.jpg]]
+_Qui è dove si mangia_
 
 👀CREDENZA [[46-casa-credenza-MORTE|46]]
 
@@ -13,3 +11,4 @@ _qui è dove si mangia_
 
 👣POLTRONA [[75-casa-la poltrona|75]]
 
+![[foto_52.jpg]]

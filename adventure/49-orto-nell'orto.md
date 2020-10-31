@@ -1,11 +1,9 @@
 ---
-title: l'orto
-area: orto
+title:nell'orto
+area:Orto
 ---
 # 49
-_orto orto_
-
-![[foto_29.jpg]]
+_Siamo nell'orto_
 
 👀POMODORI [[9-orto-i pomodori|9]]
 
@@ -13,4 +11,4 @@ _orto orto_
 
 👣LAVATRICE [[4-orto-verso la lavatrice|4]]
 
-
+![[foto_29.jpg]]

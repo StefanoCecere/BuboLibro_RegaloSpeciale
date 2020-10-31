@@ -1,11 +1,10 @@
 ---
-title: la scrivania grande
-area: casa
+title:la scrivania grande
+area:Casa
 ---
 # 41
-_la scrivania per studiare_
-
-![[foto_67.jpg]]
+_La scrivania per studiare_
 
 👣GIARDINO [[34-giardino-tavolino del giardino|34]]
 
+![[foto_67.jpg]]

@@ -11,6 +11,6 @@ _Andiamo verso l'orto_
 
 👀STENDINO [[6-giardino-stendino|6]]
 
-👣ORTO [[49-orto-orto|49]]
+👣ORTO [[49-orto-nell'orto|49]]
 
 ![[foto_5.jpg]]

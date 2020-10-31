@@ -1,11 +1,13 @@
 ---
-title: la credenza
-area: casa
-class: morte
+title:la credenza
+area:Casa
+class:morte
 ---
 # 46
-**SEI MORTO ☠️**
+_No sei morto!_
 
-![[foto_60.jpg]]
+**SEI MORTO**
 
 torna al [[1-start|1]]
+
+![[foto_60.jpg]]

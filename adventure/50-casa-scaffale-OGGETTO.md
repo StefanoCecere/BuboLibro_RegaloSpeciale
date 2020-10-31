@@ -1,10 +1,12 @@
 ---
-title: lo scaffale
-area: casa
-class: win
+title:lo scaffale
+area:Casa
+class:oggetto
 ---
 # 50
-_guarda cosa c'è li dietro ai libri_
+_Guardiamo dietro i libri_
+
+(Oggetto:ricordati di averlo)
 
 ### HAI TROVATO UNA CHIAVE!
 

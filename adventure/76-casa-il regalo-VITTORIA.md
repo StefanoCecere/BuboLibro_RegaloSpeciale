@@ -5,9 +5,5 @@ class: win
 ---
 # 76
 
-## HAI VINTO!
+### HAI VINTO!
 ecco il regalo
-
-
-
-

@@ -1,10 +1,10 @@
 ---
-title: verso la cameretta
-area: casa
+title:verso la cameretta
+area:Casa
 ---
 # 47
-_andiamo in camerina?_
-
-![[foto_59.jpg]]
+_Andiamo in camerina?_
 
 👣CAMERINA [[36-casa-in camera|36]]
+
+![[foto_59.jpg]]

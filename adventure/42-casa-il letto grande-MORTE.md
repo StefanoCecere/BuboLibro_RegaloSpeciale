@@ -1,14 +1,13 @@
 ---
-title: il letto grande
-area: casa
-class: morte
+title:il letto grande
+area:Casa
+class:morte
 ---
 # 42
-_lo sapevo che fratellone non voleva_
+_No sei morto!_
 
-**SEI MORTO ☠️**
-
-![[foto_78.jpg]]
+**SEI MORTO**
 
 torna al [[1-start|1]]
 
+![[foto_67.jpg]]

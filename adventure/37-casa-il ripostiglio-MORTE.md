@@ -4,10 +4,10 @@ area:Casa
 class:morte
 ---
 # 37
-_No sei morto_
+_No sei morto!_
 
 **SEI MORTO**
 
-INIZIO [[1-start|1]]
+torna al [[1-start|1]]
 
 ![[foto_62.jpg]]

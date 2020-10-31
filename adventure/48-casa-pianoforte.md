@@ -1,15 +1,13 @@
 ---
-title: il pianoforte
-area: casa
+title:il pianoforte
+area:Casa
+class:enigma
 ---
 # 48
-_mi piace suonare i suoni_
+_Mi piace suonare il pianoforte_
 
-(TODO: enigma della scala musicale)
-
-![[foto_54.jpg]]
+(Enigma:trova il numero nascosto)
 
 👀POLTRONA [[75-casa-la poltrona|75]]
 
-👀SCAFFALE [[50-casa-scaffale-OGGETTO|50]]
-
+![[foto_54.jpg]]

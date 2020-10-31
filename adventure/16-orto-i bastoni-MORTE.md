@@ -8,6 +8,6 @@ _No sei morto!_
 
 **SEI MORTO**
 
-INIZIO [[1-start|1]]
+torna al [[1-start|1]]
 
 ![[foto_37.jpg]]
