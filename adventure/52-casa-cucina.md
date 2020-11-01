@@ -1,11 +1,10 @@
 ---
-title: la cucina
-area: casa
+title:la cucina
+area:Casa
 ---
 # 52
-_so cucinare le uova_
-
-![[foto_58.jpg]]
+_So solo cucinare le uova_
 
 👣CAMERETTA [[47-casa-verso la cameretta|47]]
 
+![[foto_58.jpg]]

@@ -1,10 +1,10 @@
 ---
-title: sul tetto
-area: giardino
+title:sul tetto
+area:Giardino
 ---
 # 71
-_che bello qui sul tettino_
+_Che bello qui sul tettino_
 
-👣GUARDO GIU' [[72-giardino-affacciato di sotto-MORTE|72]]
+👣 AFFACCIATI [[72-giardino-affacciato di sotto-MORTE|72]]
 
 👣 ORCIO [[62-giardino-orcio|62]]

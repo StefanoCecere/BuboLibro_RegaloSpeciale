@@ -1,11 +1,9 @@
 ---
-title: verso il cortile
-area: giardino
+title:verso il cortile
+area:Giardino
 ---
 # 61
-_che bel giardino_
-
-![[foto_38.jpg]]
+_Da qui vedo molte cose!_
 
 👀ORCIO [[62-giardino-orcio|62]]
 
@@ -15,3 +13,4 @@ _che bel giardino_
 
 👣INDIETRO [[2-giardino-davanti casa|2]]
 
+![[foto_38.jpg]]

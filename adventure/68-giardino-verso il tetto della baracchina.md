@@ -1,13 +1,12 @@
 ---
-title: verso il tetto della baracchina
-area: giardino
+title:verso il tetto della baracchina
+area:Giardino
 ---
 # 68
-_mi sto arrampicando!_
+_Arrampichiamoci!_
+
+👣 SCENDI [[67-giardino-scivolo|67]]
+
+👣 SALI [[71-giardino-sul tetto|71]]
 
 ![[foto_46.jpg]]
-
-👣 [[67-giardino-scivolo|67]] se vuoi scendere
-
-👣 [[71-giardino-sul tetto|71]] se vuoi salire sul tetto
-

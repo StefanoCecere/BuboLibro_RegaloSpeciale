@@ -6,6 +6,9 @@ un libro avventura (LibroGame o Racconto a Bivi..)
 progettato da Fabio (e Stefano) come regalo per il fratellino di 5 anni.
 l'idea è che possa essere poi un regalo che anche altri possano fare ai propri fratellini/sorelline.
 
+# Emojii
+https://gist.github.com/rxaviers/7360908
+
 ## come leggerlo
 una preview del libro è online qui: <https://publish.obsidian.md/fabio/>
 

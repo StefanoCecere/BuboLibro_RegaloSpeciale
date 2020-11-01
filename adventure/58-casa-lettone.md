@@ -1,9 +1,9 @@
 ---
-title: il lettone
-area: casa
+title:il lettone
+area:Casa
 ---
 # 58
-_ credo che ci sia qualcosa... UNA SCATOLA!__
+_Ho trovato una scatola!_
 
 HAI LA CHIAVE? 
 

@@ -13,7 +13,20 @@
             "file": "adventure/50-casa-scaffale-OGGETTO.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d53f2e167970974d"
+      },
+      {
+        "id": "672e682ee322ebcb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "adventure/50-casa-scaffale-OGGETTO.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d53f2e167970974d"
       }
     ],
     "direction": "vertical"
@@ -103,14 +116,14 @@
   },
   "lastOpenFiles": [
     "adventure/50-casa-scaffale-OGGETTO.md",
-    "adventure/49-orto-nell'orto.md",
-    "adventure/48-casa-pianoforte.md",
     "adventure/76-casa-il regalo-VITTORIA.md",
+    "adventure/65-giardino-in baracchina-MORTE.md",
     "adventure/58-casa-lettone.md",
-    "adventure/47-casa-verso la cameretta.md",
-    "adventure/49-orto-orto.md",
-    "adventure/46-casa-credenza-MORTE.md",
-    "adventure/45-casa-verso il bagno.md",
-    "adventure/44-casa-il tavolo di cucina.md"
+    "adventure/48-casa-pianoforte.md",
+    "adventure/75-casa-la poltrona.md",
+    "adventure/74-casa-cassettone aperto.md",
+    "adventure/73-casa-verso le scale.md",
+    "adventure/72-giardino-affacciato di sotto-MORTE.md",
+    "adventure/71-giardino-sul tetto.md"
   ]
 }

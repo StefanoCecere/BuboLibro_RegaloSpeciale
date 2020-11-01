@@ -14,7 +14,7 @@
     "page-preview": false,
     "tag-pane": true,
     "outline": true,
-    "publish": true
+    "publish": false
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_img",

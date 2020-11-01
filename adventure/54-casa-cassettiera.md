@@ -1,12 +1,12 @@
 ---
-title: la cassettiera
-area: casa
+title:la cassettiera
+area:Casa
 ---
 # 54
-_la cassettiera grande_
-
-![[foto_68.jpg]]
+_Vediamo cosa c'è nel cassetto_
 
 🖐APRI CASSETTO [[74-casa-cassettone aperto|74]]
 
 👀SCRIVANIA MAMMA [[55-casa-scrivania della mamma|55]]
+
+![[foto_68.jpg]]

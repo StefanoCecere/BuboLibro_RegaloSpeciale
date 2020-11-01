@@ -1,10 +1,10 @@
 ---
-title: il cassettone aperto
-area: casa
+title:il cassettone aperto
+area:Casa
 ---
 # 74
-_non c'è niente :(_
-
-![[foto_69.jpg]]
+_Non c'è niente!_
 
 👣INDIETRO [[54-casa-cassettiera|54]]
+
+![[foto_69.jpg]]

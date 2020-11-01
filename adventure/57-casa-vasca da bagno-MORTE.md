@@ -1,14 +1,13 @@
 ---
-title: la vasca da bagno
-area: casa
-class: morte
+title:la vasca da bagno
+area:Casa
+class:morte
 ---
 # 57
-_lo sapevo che non dovevo fare il bagno da solo_
+_No sei morto!_
 
-**SEI MORTO ☠️**
-
-![[foto_72.jpg]]
+**SEI MORTO**
 
 torna al [[1-start|1]]
 
+![[foto_72.jpg]]

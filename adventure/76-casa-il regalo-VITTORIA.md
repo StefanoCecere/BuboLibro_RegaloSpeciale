@@ -1,9 +1,11 @@
 ---
-title: il regalo
-area: casa
-class: win
+title:il regalo
+area:Casa
+class:vittoria
 ---
 # 76
+_Hai vinto!_
 
 ### HAI VINTO!
-ecco il regalo
+
+torna al [[1-start]] se vuoi provare altre strade

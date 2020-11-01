@@ -1,11 +1,9 @@
 ---
-title: nel cortile
-area: giardino
+title:nel cortile
+area:Giardino
 ---
 # 64
-_il cortile è dove ci sono i giochi_
-
-![[foto_39.jpg]]
+_Siamo nel cortile_
 
 👀TAVOLINO [[66-giardino-il tavolo in cortile|66]]
 
@@ -13,3 +11,4 @@ _il cortile è dove ci sono i giochi_
 
 🧗ARRAMPICATI [[68-giardino-verso il tetto della baracchina|68]]
 
+![[foto_44.jpg]]

@@ -10,6 +10,6 @@ _Guardiamo dietro i libri_
 
 ### HAI TROVATO UNA CHIAVE!
 
-Vai [[10-casa-in casa|10]]
+👀ENTRATA [[10-casa-in casa|10]]
 
 ![[foto_56.jpg]]

@@ -1,11 +1,9 @@
 ---
-title: il tavolino
-area: giardino
+title:il tavolino
+area:Giardino
 ---
 # 66
-_una tavola rotonda per i cavalieri_
-
-![[foto_40.jpg]]
+_Un piccolo e rotondo tavolino_
 
 👀TRATTORE [[69-giardino-trattore|69]]
 
@@ -13,3 +11,4 @@ _una tavola rotonda per i cavalieri_
 
 👀SCIVOLO [[67-giardino-scivolo|67]]
 
+![[foto_40.jpg]]

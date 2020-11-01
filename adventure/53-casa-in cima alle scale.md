@@ -1,13 +1,12 @@
 ---
-title:  in cima alle scale
-area: casa
+title:in cima alle scale
+area:Casa
 ---
 # 53
-_eheh sono arrivato quassù_
-
-![[foto_74.jpg]]
+_Sono salito su tutti i gradini_
 
 👀LETTONE [[58-casa-lettone|58]]
 
 👀ARMADIO [[59-casa-armadio|59]]
 
+![[foto_74.jpg]]

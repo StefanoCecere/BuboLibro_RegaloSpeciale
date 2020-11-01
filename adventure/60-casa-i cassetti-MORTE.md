@@ -1,14 +1,13 @@
 ---
-title: i cassetti
-area: casa
-class: morte
+title:i cassetti
+area:Casa
+class:morte
 ---
 # 60
-_non dovevo sbirciare_
+_No sei morto!_
 
-**SEI MORTO ☠️**
+**SEI MORTO**
+
+torna al [[1-start|1]]
 
 ![[foto_76.jpg]]
-
-INIZIO [[1-start|1]]
-
