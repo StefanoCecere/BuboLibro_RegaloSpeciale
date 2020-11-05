@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 35
-_No sei morto!_
+_Devi usare il casco quando vai sul monopattino!_
 
 **SEI MORTO**
 

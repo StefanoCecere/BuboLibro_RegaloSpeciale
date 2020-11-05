@@ -4,7 +4,7 @@ area:Casa
 class:morte
 ---
 # 37
-_No sei morto!_
+_No hai fatto cadere delle scatole sui tuoi piedi!_
 
 **SEI MORTO**
 

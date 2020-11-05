@@ -4,7 +4,7 @@ area:Casa
 class:morte
 ---
 # 46
-_No sei morto!_
+_No hai fatto cadere tutti i piatti!_
 
 **SEI MORTO**
 

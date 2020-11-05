@@ -1,6 +1,6 @@
 ---
-title: compost
-area: giardino
+title:compost
+area:Giardino
 ---
 # 5
 _Che puzza!_

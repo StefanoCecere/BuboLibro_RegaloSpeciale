@@ -1,6 +1,6 @@
 ---
-title: davanti casa
-area: giardino
+title:davanti casa
+area:Giardino
 ---
 # 2
 _Sei davanti casa dove vai?_

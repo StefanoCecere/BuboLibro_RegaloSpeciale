@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 33
-_No sei morto!_
+_Non dovevi aprirlo!_
 
 **SEI MORTO**
 

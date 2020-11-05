@@ -1,6 +1,6 @@
 ---
-title: tavolo da giardino
-area: giardino
+title:tavolo da giardino
+area:Giardino
 ---
 # 7
 _Qui è dove si mangia in estate_

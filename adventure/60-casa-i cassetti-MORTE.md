@@ -4,7 +4,7 @@ area:Casa
 class:morte
 ---
 # 60
-_No sei morto!_
+_No è pieno di calzini puzzolenti!_
 
 **SEI MORTO**
 

@@ -4,7 +4,7 @@ area:Casa
 class:morte
 ---
 # 57
-_No sei morto!_
+_Ahhh un piedone nella vasca!_
 
 **SEI MORTO**
 

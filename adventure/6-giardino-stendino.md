@@ -1,6 +1,6 @@
 ---
-title: stendino
-area: giardino
+title:stendino
+area:Giardino
 ---
 # 6
 _Non ci sono panni stesi_

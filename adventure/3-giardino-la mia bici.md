@@ -1,6 +1,6 @@
 ---
-title: mia bici
-area: giardino
+title:mia bici
+area:Giardino
 ---
 # 3
 _Questa è la mia bici!_

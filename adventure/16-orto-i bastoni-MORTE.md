@@ -4,7 +4,7 @@ area:Orto
 class:morte
 ---
 # 16
-_No sei morto!_
+_Non dovevi toccare i bastoni appuntiti!_
 
 **SEI MORTO**
 

@@ -3,7 +3,7 @@ title:in bagno
 area:Casa
 ---
 # 56
-_Il bagno è vuoto_
+_Non c'è nessuno in bagno_
 
 👀VASCA DA BAGNO [[57-casa-vasca da bagno-MORTE|57]]
 

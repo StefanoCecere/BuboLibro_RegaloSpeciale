@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 28
-_No sei morto!_
+_No ti sei tagliato con un ferro arrugginito!_
 
 **SEI MORTO**
 

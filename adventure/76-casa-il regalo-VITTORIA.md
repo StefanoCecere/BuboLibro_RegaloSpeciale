@@ -4,7 +4,7 @@ area:Casa
 class:vittoria
 ---
 # 76
-_Hai vinto!_
+_Hai trovato il regalo!_
 
 ### HAI VINTO!
 

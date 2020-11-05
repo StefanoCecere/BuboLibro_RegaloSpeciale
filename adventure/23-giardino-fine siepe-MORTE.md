@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 23
-_No sei morto!_
+_Non dovevi toccare il topo morto!_
 
 **SEI MORTO**
 

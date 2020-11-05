@@ -1,6 +1,6 @@
 ---
-title: zucchine
-area: orto
+title:zucchine
+area:Orto
 ---
 # 11
 _Non mi piacciono molto le zucchine_

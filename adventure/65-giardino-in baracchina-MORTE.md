@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 65
-_No sei morto!_
+_No un topo vivo!_
 
 **SEI MORTO**
 

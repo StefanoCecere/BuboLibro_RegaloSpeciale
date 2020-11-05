@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 72
-_No sei morto!_
+_No sei caduto!_
 
 **SEI MORTO**
 

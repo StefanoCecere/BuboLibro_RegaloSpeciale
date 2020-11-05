@@ -3,7 +3,7 @@ title:in cima alle scale
 area:Casa
 ---
 # 53
-_Sono salito su tutti i gradini_
+_Sono al piano di sopra_
 
 👀LETTONE [[58-casa-lettone|58]]
 
