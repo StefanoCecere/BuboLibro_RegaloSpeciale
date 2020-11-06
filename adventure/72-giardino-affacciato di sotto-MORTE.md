@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 72
-_No sei caduto!_
+_Il papà ti ha brontolato!_
 
 **SEI MORTO**
 

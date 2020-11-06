@@ -4,7 +4,7 @@ area:Giardino
 class:morte
 ---
 # 23
-_Non dovevi toccare il topo morto!_
+_No il serpente ti ha morso!_
 
 **SEI MORTO**
 
