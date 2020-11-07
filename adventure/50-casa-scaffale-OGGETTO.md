@@ -1,7 +1,7 @@
 ---
-title:lo scaffale
-area:Casa
-class:oggetto
+title: lo scaffale
+area: Casa
+class: oggetto
 ---
 # 50
 _Cosa c'è vicino al micronde?_

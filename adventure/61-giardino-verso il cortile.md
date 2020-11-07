@@ -13,4 +13,4 @@ _Da qui vedo molte cose!_
 
 👣INDIETRO [[2-giardino-davanti casa|2]]
 
-![[foto_38.jpg]]
+![[foto_92.jpg]]

@@ -1,7 +1,7 @@
 ---
-title:il ripostiglio
-area:Casa
-class:morte
+title: ripostiglio cade tutto!
+area: Casa
+class: morte
 ---
 # 37
 _No hai fatto cadere delle scatole sui tuoi piedi!_

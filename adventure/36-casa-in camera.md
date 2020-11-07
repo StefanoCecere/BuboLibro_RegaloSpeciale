@@ -5,11 +5,11 @@ area:Casa
 # 36
 _La nostra camerina_
 
-👀RIPOSTIGLIO [[37-casa-il ripostiglio-MORTE|37]]
+👀RIPOSTIGLIO [[81_ripostiglio]]
 
 👀TUO LETTO [[38-casa-il tuo letto|38]]
 
-👀LINRERIA [[39-casa-la libreria|39]]
+👀LIBRERIA [[39-casa-la libreria|39]]
 
 👀COMPUTER FRATELLONE [[40-casa-il computer|40]]
 
