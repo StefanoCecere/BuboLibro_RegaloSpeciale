@@ -12,6 +12,6 @@ dove vai?_
 
 👀TAVOLO [[7-giardino-tavolo da giardino|7]]
 
-⬇︎ [[130-giardino-girato|130]] 
+⬇️ [[130-giardino-girato|130]] 
 
 ![[foto_6.jpg]]

@@ -8,5 +8,5 @@ _Non dovevi toccare i bastoni appuntiti!_
 
 **#MALUS: -1**
 
-👣INDIETRO [[114-orto-i bastoni]]
+⬇️ [[114-orto-i bastoni]]
 

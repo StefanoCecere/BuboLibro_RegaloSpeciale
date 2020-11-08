@@ -11,6 +11,6 @@ USA PILOZZO [[111-orto-usa-pilozzo]]
 
 👣LAVATRICE [[15-orto-la lavatrice|15]]
 
-👣INDIETRO [[49-orto-nell'orto]]
+⬇️ [[49-orto-nell'orto]]
 
 ![[foto_30.jpg]]

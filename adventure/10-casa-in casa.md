@@ -11,4 +11,6 @@ _Siamo in casa!_
 
 👣BAGNO [[45-casa-verso il bagno|45]]
 
+⬇️ [[2-giardino-davanti casa|2]]
+
 ![[foto_50.jpg]]

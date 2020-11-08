@@ -13,6 +13,6 @@ _Andiamo verso l'orto_
 
 👣ORTO [[49-orto-nell'orto|49]]
 
-👣INDIETRO [[2-giardino-davanti casa]]
+⬇️ [[2-giardino-davanti casa]]
 
 ![[foto_5.jpg]]

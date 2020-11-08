@@ -11,6 +11,6 @@ PRENDI ALBICOCCA [[84-giardino-albicocca-OGGETTO|84]]
 
 👣CORTILE [[61-giardino-sud|61]]
 
-👣INDIETRO [[130-giardino-girato|130]]
+⬇️ [[130-giardino-girato|130]]
 
 ![[foto_16.jpg]]

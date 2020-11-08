@@ -9,6 +9,6 @@ _Sta ancora lavando i vestiti_
 
 👣BASTONI [[114-orto-i bastoni]]
 
-👣INDIETRO [[4-orto-pilozzo]]
+⬇️ [[4-orto-pilozzo]]
 
 ![[foto_36.jpg]]

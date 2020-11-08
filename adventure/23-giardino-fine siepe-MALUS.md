@@ -1,7 +1,7 @@
 ---
-title:fine siepe
-area:Giardino
-class:morte
+title: fine siepe
+area: Giardino
+class: morte
 ---
 # 23
 **#MALUS**

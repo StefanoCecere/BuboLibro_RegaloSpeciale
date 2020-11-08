@@ -7,7 +7,7 @@ _Qui è dove ci laviamo mani e denti_
 
 LAVO LE MANI [[124-bagno-lavo_mani-BONUS]]
 
-APRO ARMADIETTO [[125-bagno-armadietto]]
+APRO ARMADIETTO [[48-bagno-armadietto]]
 
 👣INDIETRO [[56-bagno]]
 

@@ -11,6 +11,6 @@ _Sono in mezzo al giardino_
 
 👣AVANTI [[29-giardino-prato|29]]
 
-👣INDIETRO [[25-giardino-l'albicocco]]
+⬇️ [[25-giardino-l'albicocco]]
 
 ![[foto_17.jpg]]

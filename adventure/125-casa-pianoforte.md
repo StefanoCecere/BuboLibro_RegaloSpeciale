@@ -1,9 +1,9 @@
 ---
-title:il pianoforte
-area:Casa
-class:enigma
+title: il pianoforte
+area: Casa
+class: enigma
 ---
-# 48
+# 125
 _C'è qualcosa di nascosto sul piano?_
 
 👀PIANO [[77-tasti-pianoforte|77]]

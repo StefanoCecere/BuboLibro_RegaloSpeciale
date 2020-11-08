@@ -1,5 +1,5 @@
 ---
-title: l'orcio
+title: orcio
 area: Giardino
 ---
 # 62

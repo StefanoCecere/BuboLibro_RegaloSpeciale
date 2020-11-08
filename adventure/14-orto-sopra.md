@@ -7,7 +7,7 @@ _Da qui vedo tutto l'orto e i giardini! CHE BELLO!_
 
 **#BONUS +1**
 
-👣INDIETRO [[4-orto-pilozzo]]
+⬇️  [[4-orto-pilozzo]]
 
 
 ![[foto_35.jpg]]

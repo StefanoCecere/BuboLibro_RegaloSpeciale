@@ -9,6 +9,6 @@ _No ti sei tagliato con un ferro arrugginito!_
 
 **#MALUS -1**
 
-👣INDIETRO [[29-giardino-prato]]
+⬇️ [[29-giardino-prato]]
 
 ![[foto_20.jpg]]

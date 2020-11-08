@@ -7,6 +7,6 @@ _Questo è il nostro COMPOST. dove il rifiuto prende vita_
 
 APRI [[119-giardino-compost_aperto]]
 
-👣INDIETRO [[8-giardino-verso_orto]]
+⬇️ [[8-giardino-verso_orto]]
 
 ![[foto_127.jpg]]
