@@ -9,6 +9,6 @@ _No hai fatto cadere delle scatole sui tuoi piedi!_
 
 **SEI MORTO**
 
-torna al [[1-start|1]]
+torna al [[81-ripostiglio]]
 
 ![[foto_62.jpg]]

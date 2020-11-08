@@ -5,7 +5,7 @@ area: cortile
 # 64
 _Siamo nel cortile_
 
-👀AVANTI [[66-cortile_2|66]]
+⬆︎ [[66-cortile_2|66]]
 
 👀SCIVOLO [[67-cortile-scivolo|67]]
 

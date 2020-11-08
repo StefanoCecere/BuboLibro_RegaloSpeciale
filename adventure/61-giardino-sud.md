@@ -9,7 +9,7 @@ _Da qui vedo molte cose!_
 
 👣BARACCHINA [[63-giardino-la porta baracchina|63]]
 
-👣CORTILE [[64-cortile|64]]
+⬆︎ [[64-cortile|64]]
 
 👣INDIETRO [[130-giardino-girato|130]]
 

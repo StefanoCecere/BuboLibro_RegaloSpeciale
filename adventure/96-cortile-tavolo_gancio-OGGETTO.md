@@ -3,7 +3,7 @@ title: ganci sul tavolino
 area: cortile
 ---
 # 96
-_hai trovato dei ganci da arrampicata!_
+_hai trovato un gancio da arrampicata!_
 
 #INVENTARIO: GANCIO
 

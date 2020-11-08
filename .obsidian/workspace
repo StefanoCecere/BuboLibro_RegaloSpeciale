@@ -6,11 +6,12 @@
       {
         "id": "0ce0a56494bdeab0",
         "type": "leaf",
+        "dimension": 44.354838709677416,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/72-giardino-affacciato di sotto-MORTE.md",
+            "file": "adventure/25-giardino-l'albicocco.md",
             "mode": "source"
           }
         },
@@ -19,10 +20,11 @@
       {
         "id": "672e682ee322ebcb",
         "type": "leaf",
+        "dimension": 55.64516129032258,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventure/72-giardino-affacciato di sotto-MORTE.md",
+            "file": "adventure/25-giardino-l'albicocco.md",
             "mode": "preview"
           }
         },
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#BONUS"
               }
             }
           },
@@ -69,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260
   },
   "right": {
     "id": "6c367a6e56464deb",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventure/72-giardino-affacciato di sotto-MORTE.md"
+                "file": "adventure/25-giardino-l'albicocco.md"
               }
             }
           },
@@ -103,27 +105,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventure/72-giardino-affacciato di sotto-MORTE.md"
+                "file": "adventure/25-giardino-l'albicocco.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 224
   },
   "lastOpenFiles": [
-    "adventure/72-giardino-affacciato di sotto-MORTE.md",
-    "adventure/71-giardino-sul tetto.md",
-    "adventure/65-giardino-in baracchina-MORTE.md",
-    "adventure/58-casa-lettone.md",
-    "adventure/57-casa-vasca da bagno-MORTE.md",
-    "adventure/50-casa-scaffale-OGGETTO.md",
-    "adventure/48-casa-pianoforte.md",
-    "adventure/46-casa-credenza-MORTE.md",
-    "adventure/42-casa-il letto grande-MORTE.md",
-    "adventure/37-casa-il ripostiglio-MORTE.md"
+    "adventure/25-giardino-l'albicocco.md",
+    "adventure/17-giardino-pompa.md",
+    "adventure/16-orto-i bastoni-MALUS.md",
+    "adventure/13-orto-carciofi.md",
+    "adventure/14-orto-sopra.md",
+    "adventure/78-piano-tasto_do-BONUS.md",
+    "adventure/112-orto-pilozzo_lavo_mani-BONUS.md",
+    "adventure/124-bagno-lavo_mani-BONUS.md",
+    "adventure/128-mamma-aiuto_male.md",
+    "adventure/115-orto-uova-BONUS.md"
   ]
 }

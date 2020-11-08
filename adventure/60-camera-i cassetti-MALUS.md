@@ -9,6 +9,6 @@ _No è pieno di calzini puzzolenti!_
 
 **#MALUS -1**
 
-torna al [[1-start|1]]
+torna al [[59-camera-armadio]]
 
 ![[foto_76.jpg]]
