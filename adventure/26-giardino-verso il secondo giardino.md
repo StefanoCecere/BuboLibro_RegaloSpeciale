@@ -7,8 +7,10 @@ _Sono in mezzo al giardino_
 
 👀PIANTE [[27-giardino-le piante|27]]
 
-👀BUCO [[28-giardino-terrapieno-MORTE|28]]
+👀BUCO [[28-giardino-terrapieno-MALUS|28]]
 
-👣GIARDINO [[29-giardino-in mezzo al giardino|29]]
+👣AVANTI [[29-giardino-prato|29]]
+
+👣INDIETRO [[25-giardino-l'albicocco]]
 
 ![[foto_17.jpg]]

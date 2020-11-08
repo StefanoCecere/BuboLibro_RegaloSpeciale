@@ -5,8 +5,10 @@ area:Orto
 # 13
 _I carciofi hanno dei bei fiori_
 
-👣LAVATRICE [[15-orto-la lavatrice|15]]
+USA PALETTA [[115-orto-uova-BONUS]]
 
-👣ORTO [[14-orto-in mezzo all'orto|14]]
+👣BASTONI [[114-orto-i bastoni]]
+
+👣ZUCCHINE [[11-orto-zucchine]]
 
 ![[foto_34.jpg]]

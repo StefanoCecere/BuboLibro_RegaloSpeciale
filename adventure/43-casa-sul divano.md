@@ -9,6 +9,10 @@ _Il divano è comodissimo!_
 
 👀POLTRONA [[75-casa-la poltrona|49]]
 
+👀DIVANO [[135-casa-divano_cerca]]
+
+👣DESTRA [[139-casa-batteria]]
+
 👣INDIETRO [[10-casa-in casa|10]]
 
 ![[foto_51.jpg]]

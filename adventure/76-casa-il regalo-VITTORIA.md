@@ -1,7 +1,7 @@
 ---
-title:il regalo
-area:Casa
-class:vittoria
+title: il regalo
+area: Casa
+class: vittoria
 ---
 # 76
 _Hai trovato il regalo!_

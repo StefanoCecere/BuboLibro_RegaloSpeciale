@@ -1,10 +1,14 @@
 ---
-title:i pomodori
-area:Orto
+title: i pomodori
+area: Orto
 ---
 # 9
 _Quanti pomodori!_
 
-👀ZUCCHINEI [[11-orto-zucchine|11]]
+PRENDO UN POMODORO [[109-orto-pomodoro-OGGETTO]]
+
+👀ZUCCHINE [[11-orto-zucchine|11]]
+
+👣INDIETRO [[49-orto-nell'orto]]
 
 ![[foto_31.jpg]]

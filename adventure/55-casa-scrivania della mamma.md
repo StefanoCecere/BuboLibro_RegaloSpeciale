@@ -5,6 +5,6 @@ area:Casa
 # 55
 _Qui è dove la mamma usa il computer_
 
-👣BAGNO [[56-casa-in bagno|56]]
+👀INDIETRO [[45-casa-verso il bagno]]
 
 ![[foto_70.jpg]]

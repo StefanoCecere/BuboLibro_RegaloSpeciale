@@ -6,12 +6,12 @@ area:Giardino
 _Sei davanti casa.
 dove vai?_
 
-👣CASA 10 [[10-casa-in casa|10]]
+⬆︎ [[10-casa-in casa|10]]
 
-👣ORTO 8 [[8-giardino-verso l'orto|8]]
+👣DESTRA [[8-giardino-verso_orto|8]]
 
-👀TAVOLO 7 [[7-giardino-tavolo da giardino|7]]
+👀TAVOLO [[7-giardino-tavolo da giardino|7]]
 
-👣CORTILE 7 [[61-giardino-verso il cortile|61]] 
+⬇︎ [[130-giardino-girato|130]] 
 
 ![[foto_6.jpg]]

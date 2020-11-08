@@ -5,8 +5,10 @@ area:Orto
 # 15
 _Sta ancora lavando i vestiti_
 
-👣ORTO [[14-orto-in mezzo all'orto|14]]
+👀APRI  [[97-orto-lavatrice_apri]]
 
-👀BASTONI [[16-orto-i bastoni-MORTE|16]]
+👣BASTONI [[114-orto-i bastoni]]
+
+👣INDIETRO [[4-orto-pilozzo]]
 
 ![[foto_36.jpg]]

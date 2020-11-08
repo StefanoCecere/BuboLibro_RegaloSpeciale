@@ -9,6 +9,8 @@ _Siamo nell'orto_
 
 👀ZUCCHINE [[11-orto-zucchine|11]]
 
-👣LAVATRICE [[4-orto-verso la lavatrice|4]]
+👣SINISTRA [[4-orto-pilozzo|4]]
+
+👣INDIETRO [[8-giardino-verso_orto]]
 
 ![[foto_29.jpg]]

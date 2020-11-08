@@ -1,10 +1,12 @@
 ---
-title:compost
-area:Giardino
+title: compost
+area: giardino
 ---
 # 5
-_Che puzza!_
+_Questo è il nostro COMPOST. dove il rifiuto prende vita_
 
-👀ALTRA BICI [[3-giardino-la mia bici|3]]
+APRI [[119-giardino-compost_aperto]]
 
-![[foto_3.jpg]]
+👣INDIETRO [[8-giardino-verso_orto]]
+
+![[foto_127.jpg]]

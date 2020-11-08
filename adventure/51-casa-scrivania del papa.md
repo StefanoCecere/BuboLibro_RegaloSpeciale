@@ -9,4 +9,4 @@ _La scrivania del papà è sempre piena di giochi e libri_
 
 👀POLTRONA [[75-casa-la poltrona|75]]
 
-![[foto_57.jpg]]
+![[foto_142.jpg]]

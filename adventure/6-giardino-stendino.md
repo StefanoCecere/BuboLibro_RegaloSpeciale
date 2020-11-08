@@ -7,4 +7,6 @@ _Non ci sono panni stesi_
 
 👀POMPA ACQUA [[17-giardino-pompa|17]]
 
+👣INDIETRO [[8-giardino-verso_orto]]
+
 ![[foto_4.jpg]]

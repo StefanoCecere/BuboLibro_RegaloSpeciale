@@ -1,10 +1,16 @@
 ---
-title:la cucina
-area:Casa
+title: la cucina
+area: Casa
 ---
 # 52
 _So solo cucinare le uova_
 
-👣CAMERETTA [[47-casa-verso la cameretta|47]]
+👀ANTA [[99-cucina-anta]]
+
+👀FORNO [[100-cucina-forno]]
+
+👀FRIGO [[101-cucina-frigo]]
+
+👣INDIETRO [[44-cucina-il tavolo]]
 
 ![[foto_58.jpg]]

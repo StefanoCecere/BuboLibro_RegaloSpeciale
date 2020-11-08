@@ -5,7 +5,7 @@ area:Giardino
 # 22
 _Sembra una normale statua_
 
-👀ALTRA SIEPE [[23-giardino-fine siepe-MORTE|23]]
+👀ALTRA SIEPE [[23-giardino-fine siepe-MALUS|23]]
 
 👣GIARDINO [[19-giardino-in mezzo al giardino|19]]
 

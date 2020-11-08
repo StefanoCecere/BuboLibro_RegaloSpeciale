@@ -1,12 +1,14 @@
 ---
-title:tavolo da giardino
-area:Giardino
+title: tavolo da giardino
+area: giardino
 ---
 # 7
 _Qui è dove si mangia in estate_
 
-👣CASA [[10-casa-in casa|10]]
+RICORDA [[126-giardino-pranzo]]
 
 👀TAVOLO PICCOLO [[34-giardino-tavolino del giardino|34]]
+
+👣CASA [[10-casa-in casa|10]]
 
 ![[foto_7.jpg]]
