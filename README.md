@@ -1,4 +1,4 @@
-# BuboLibro: Il Regalo di Compleanno
+# BuboLibro: Un Regalo Speciale 
 
 ![](_img/project_obsidian.jpg)
 
