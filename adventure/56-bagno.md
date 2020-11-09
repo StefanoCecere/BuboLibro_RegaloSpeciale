@@ -5,11 +5,11 @@ area:Casa
 # 56
 _Non c'è nessuno in bagno_
 
-👀VASCA DA BAGNO [[57-bagno-vasca|57]]
+🔍[[57-bagno-vasca]]
 
-FACCIO PIPI' [[122-bagno-pipi]]
+🔍 [[122-bagno-pipi]]
 
-👀LAVANDINO [[123-bagno-lavandino]]
+➡️ [[123-bagno-lavandino]]
 
 ⬇️ [[45-casa-verso il bagno]]
 

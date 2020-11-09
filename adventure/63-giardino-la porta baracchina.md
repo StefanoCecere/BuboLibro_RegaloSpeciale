@@ -5,8 +5,8 @@ area:Giardino
 # 63
 _Devo proprio andarci?_
 
-🖐APRI LA PORTA [[65-baracchina|65]]
+🔍 [[65-baracchina]]
 
-⬇️ [[61-giardino-sud]]
+⬇️ [[61-giardino-vialetto-sud]]
 
 ![[foto_48.jpg]]

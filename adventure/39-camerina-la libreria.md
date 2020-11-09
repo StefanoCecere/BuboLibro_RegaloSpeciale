@@ -5,10 +5,12 @@ area: camerina
 # 39
 _Tutti i nostri libri!_
 
-👀LIBRI [[121-camerina-libri]]
+🔍 [[121-camerina-libri]]
 
-👣COMPUTER [[40-camerina-il computer|40]]
+⬅️ [[40-camerina-il computer]]
 
-👣NDIETRO [[36-camerina]]
+➡️[[38-camerina-il tuo letto]]
+
+⬇️ [[36-camerina]]
 
 ![[foto_65.jpg]]

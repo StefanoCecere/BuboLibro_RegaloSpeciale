@@ -5,6 +5,6 @@ area:Giardino
 # 30
 _Che profumo!_
 
-👀CANESTRO [[31-giardino-canestro|31]]
+⬇️[[27-giardino-le piante]] 
 
 ![[foto_18.jpg]]

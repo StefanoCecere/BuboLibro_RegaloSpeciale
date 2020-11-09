@@ -5,12 +5,12 @@ area:Casa
 # 10
 _Siamo in casa!_
 
-👣DIVANO [[43-casa-sul divano|43]]
+🔍DIVANO [[43-casa-sul divano]]
 
-👣CUCINA [[44-cucina-il tavolo|44]] 
+⬆️ [[44-cucina-il tavolo]] 
 
-👣BAGNO [[45-casa-verso il bagno|45]]
+➡️ [[45-casa-verso il bagno]]
 
-⬇️ [[2-giardino-davanti casa|2]]
+⬇️ [[2-giardino-nord]]
 
 ![[foto_50.jpg]]

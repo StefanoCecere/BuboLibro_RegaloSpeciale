@@ -5,9 +5,11 @@ area: Orto
 # 111
 _Cosa vuoi fare?_
 
-LAVO LE MANI [[112-orto-pilozzo_lavo_mani-BONUS]]
+🔍 [[112-orto-pilozzo_lavo_mani-BONUS]]
 
-LAVO IL POMODORO [[113-orto-pilozzo_lavo_pomodoro-BONUS]]
+🔍POMODORO [[113-orto-pilozzo_lavo_pomodoro-BONUS]]
+
+🔍 [[152-orto-bagnato-MALUS]]
 
 ⬇️ [[4-orto-pilozzo]]
 

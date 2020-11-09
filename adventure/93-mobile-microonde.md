@@ -6,7 +6,7 @@ class: oggetto
 # 93
 _Cosa c'è vicino al microonde?_
 
-👀CHIAVE [[50-casa-scaffale_chiave-OGGETTO]]
+🔍 [[50-casa-scaffale_chiave-OGGETTO]]
 
 ⬇️ [[139-casa-batteria]]
 

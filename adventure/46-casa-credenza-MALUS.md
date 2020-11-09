@@ -10,5 +10,4 @@ _Nooo hai fatto cadere tutti i piatti!_
 
 ⬇️ [[103-cucina-credenza]]
 
-
 ![[foto_82.jpg]]

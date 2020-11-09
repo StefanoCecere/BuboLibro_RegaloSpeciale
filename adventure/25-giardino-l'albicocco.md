@@ -5,12 +5,10 @@ area:Giardino
 # 25
 _Le albicocche non sono ancora mature_
 
-PRENDI ALBICOCCA [[84-giardino-albicocca-OGGETTO|84]]
+🔍 [[84-giardino-albicocca-OGGETTO]]
 
-👣AVANTI [[26-giardino-verso il secondo giardino|26]]
+⬆️ [[26-giardino-ovest]]
 
-👣CORTILE [[61-giardino-sud|61]]
-
-⬇️ [[130-giardino-girato|130]]
+⬇️ [[130-giardino-sud]]
 
 ![[foto_16.jpg]]

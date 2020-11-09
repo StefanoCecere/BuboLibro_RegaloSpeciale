@@ -5,7 +5,7 @@ area: camerina
 # 140
 _qui ci sono tutti i gioci in scatola!_
 
-👀APRI [[141-camerina-anta_segreta]]
+🔍 [[141-camerina-anta_segreta]]
 
 ⬇️ [[41-camerina-scrivania]]
 

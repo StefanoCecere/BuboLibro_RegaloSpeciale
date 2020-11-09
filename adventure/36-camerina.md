@@ -5,14 +5,14 @@ area: Casa
 # 36
 _La nostra camerina_
 
-👀SCRIVANIA [[41-camerina-scrivania|41]]
+⬅️ [[41-camerina-scrivania]]
 
-👀LIBRERIA [[39-camerina-la libreria|39]]
+⬆️ [[39-camerina-la libreria]]
 
-👀TUO LETTO [[38-camerina-il tuo letto|38]]
+⬆️ [[38-camerina-il tuo letto]]
 
-👀RIPOSTIGLIO [[81-ripostiglio]]
+➡️ [[81-ripostiglio]]
 
-⬇️ [[47-casa-verso_camerina]]
+⬇️ [[47-casa-camerina_porta]]
 
 ![[foto_61.jpg]]

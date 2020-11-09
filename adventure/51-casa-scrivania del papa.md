@@ -5,8 +5,8 @@ area:Casa
 # 51
 _La scrivania del papà è sempre piena di giochi e libri_
 
-👀CUCINA [[52-casa-cucina|52]]
+⬆️ [[52-casa-cucina]]
 
-👀POLTRONA [[75-casa-la poltrona|75]]
+⬇️ [[75-casa-la poltrona]]
 
 ![[foto_142.jpg]]

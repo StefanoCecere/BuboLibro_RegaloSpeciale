@@ -5,6 +5,6 @@ area: giardino
 # 21
 _Usiamo la salvia per cucinare_
 
-⬇️ [[61-giardino-sud|61]]
+⬇️ [[143-giardino-est]]
 
 ![[foto_15.jpg]]

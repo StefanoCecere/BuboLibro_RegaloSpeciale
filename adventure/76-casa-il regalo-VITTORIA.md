@@ -7,5 +7,3 @@ class: vittoria
 _Hai trovato il regalo!_
 
 ### HAI VINTO!
-
-torna al [[1-start]] se vuoi provare altre strade

@@ -5,7 +5,7 @@ area: camera
 # 59
 _Ci sono un sacco di vestiti_
 
-👀CASSETTI [[60-camera-i cassetti-MALUS|60]]
+⬅️ [[60-camera-i cassetti-MALUS]]
 
 ⬇️ [[53-camera]]
 

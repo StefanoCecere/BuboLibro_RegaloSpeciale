@@ -3,10 +3,10 @@ title: baule
 area: giardino
 ---
 # 132
-_Il baulone.. chissà cosa c'è dentro!_
+_un grosso baule_
 
-🖐APRI BAULE [[142-giardino-baule_aperto]]
+🔍 [[142-giardino-baule_aperto]]
 
-⬇️ [[29-giardino-prato|29]]
+⬇️ [[29-giardino-prato]]
 
 ![[foto_122.jpg]]

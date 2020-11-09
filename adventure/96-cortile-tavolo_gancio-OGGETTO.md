@@ -1,5 +1,5 @@
 ---
-title: ganci sul tavolino
+title: gancio sul tavolino
 area: cortile
 ---
 # 96

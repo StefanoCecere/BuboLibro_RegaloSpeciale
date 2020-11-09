@@ -1,13 +1,13 @@
 ---
 title: affacciato di sotto
 area: cortile
-class: morte
+class: malus
 ---
 # 72
 _Lo sapevi che era pericoloso... Il papà ti ha brontolato!_
 
 **#MALUS -2**
 
-Torna al [[1-start|1]]
+⬇️[[71-cortile-sul tetto]] 
 
 ![[foto_95.jpg]]

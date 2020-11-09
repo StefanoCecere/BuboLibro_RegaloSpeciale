@@ -5,10 +5,10 @@ area: giardino
 # 7
 _Qui è dove si mangia in estate_
 
-RICORDA [[126-giardino-pranzo]]
+🔍 [[126-giardino-pranzo]]
 
-👀TAVOLO PICCOLO [[34-giardino-tavolino del giardino|34]]
+⬆️ [[34-giardino-giochi]]
 
-⬇️ [[10-casa-in casa|10]]
+⬇️ [[10-casa-in casa]]
 
 ![[foto_7.jpg]]

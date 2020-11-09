@@ -8,4 +8,4 @@ _NOOO NON SI TOCCANO LE UOVA DI TARTARUGA!_
 
 **#MALUS -2**
 
-torna al [[1-start|1]]
+⬇️[[13-orto-carciofi]] 

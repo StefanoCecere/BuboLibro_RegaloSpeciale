@@ -3,10 +3,10 @@ title: il monopattino
 area: giardino
 ---
 # 139
-_Qui mangiamo in estate io e mio fratello_
+_per andare in monopattino serve sempre il CASCO_
 
-HAI IL CASCO? [[35-giardino-il monopattino-MALUS]]
+🔍 [[35-giardino-il monopattino-MALUS]]
 
-⬇️ [[7-giardino-tavolo da giardino|7]]
+⬇️ [[34-giardino-giochi]]
 
 ![[foto_89.jpg]]

@@ -5,11 +5,13 @@ area: camerina
 # 41
 _La scrivania per studiare_
 
-👀RICORDA [[105-camerina-ricordo]]
+🔍RICORDA [[105-camerina-ricordo]]
 
-👣GIARDINO [[34-giardino-tavolino del giardino|34]]
+⬅️[[140-camerina-armadio_giochi]]
 
-👣ARMADIO GIOCHI [[140-camerina-armadio_giochi]]
+➡️[[40-camerina-il computer]]
+
+⬆️ [[34-giardino-giochi]]
 
 ⬇️ [[36-camerina]]
 

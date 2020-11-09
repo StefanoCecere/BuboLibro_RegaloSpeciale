@@ -9,6 +9,6 @@ _hai bisogno di aiuto?_
 - dove è il regalo? [[129-mamma-aiuto_regalo]]
 - mi sono perso! [[131-mamma-aiuto_mappa-OGGETTO]]
 
-⬇️ [[130-giardino-girato]] 
+⬇️ [[130-giardino-sud]] 
 
 ![[foto_130.jpg]]

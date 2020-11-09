@@ -5,9 +5,9 @@ area: Orto
 # 9
 _Quanti pomodori!_
 
-PRENDO UN POMODORO [[109-orto-pomodoro-OGGETTO]]
+🔍 POMODORO [[109-orto-pomodoro-OGGETTO]]
 
-👀ZUCCHINE [[11-orto-zucchine|11]]
+🔍ZUCCHINE [[11-orto-zucchine|11]]
 
 ⬇️ [[49-orto-nell'orto]]
 

@@ -7,8 +7,8 @@ _Ho trovato una scatola!_
 
 HAI LA CHIAVE? 
 
-SI [[76-casa-il regalo-VITTORIA|76]]
+USO LA CHIAVE[[76-casa-il regalo-VITTORIA|76]]
 
-NO [[10-casa-in casa|10]]
+⬇️ [[10-casa-in casa|10]]
 
 ![[foto_104.jpg]]

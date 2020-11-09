@@ -1,14 +1,12 @@
 ---
 title: i cassetti
 area: camera
-class: malus
+class:
 ---
 # 60
 
-_No è pieno di calzini puzzolenti!_
+_I calzini e le mutande di mamma e papà!_
 
-**#MALUS -1**
-
-torna al [[59-camera-armadio]]
+⬇️ [[59-camera-armadio]]
 
 ![[foto_76.jpg]]

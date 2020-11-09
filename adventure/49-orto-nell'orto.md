@@ -5,11 +5,11 @@ area:Orto
 # 49
 _Siamo nell'orto_
 
-👀POMODORI [[9-orto-i pomodori|9]]
+🔍 [[9-orto-i pomodori]]
 
-👀ZUCCHINE [[11-orto-zucchine|11]]
+🔍 [[11-orto-zucchine]]
 
-👣SINISTRA [[4-orto-pilozzo|4]]
+⬅️ [[4-orto-pilozzo]]
 
 ⬇️ [[8-giardino-verso_orto]]
 

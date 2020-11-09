@@ -5,7 +5,7 @@ area: casa
 # 139
 _la batteria!_
 
-👣SCAFFALE [[93-mobile-microonde]]
+⬆️ [[93-mobile-microonde]]
 
 ⬇️ [[43-casa-sul divano]]
 

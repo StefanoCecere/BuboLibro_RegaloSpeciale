@@ -5,7 +5,7 @@ area: Orto
 # 4
 _Qui c'è il pilozzo e la lavatrice_
 
-USA PILOZZO [[111-orto-usa-pilozzo]]
+🔍 [[111-orto-usa-pilozzo]]
 
 ⬆︎ [[14-orto-sopra]]
 

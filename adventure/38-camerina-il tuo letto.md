@@ -5,8 +5,12 @@ area: camerina
 # 38
 _Il mio lettino_
 
-⬆️LETTO FRATELLONE [[42-camerina-letto fratellone|42]]
+🔍[[149-oggetto-torcia_elettrica]]
 
-👀LIBRERIA [[39-camerina-la libreria|39]]
+⬆️ [[150-camerina-divieto]]
 
-![[foto_64.jpg]]
+⬅️ [[39-camerina-la libreria]]
+
+⬇️[[36-camerina]] 
+
+![[foto_152.jpg]]

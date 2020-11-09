@@ -7,11 +7,9 @@ _Siamo nel cortile_
 
 ⬆︎ [[66-cortile_2|66]]
 
-👀SCIVOLO [[67-cortile-scivolo|67]]
+➡️ [[67-cortile-scivolo|67]]
 
-🧗ARRAMPICATI [[68-cortile-verso il tetto della baracchina|68]]
-
-⬇️ [[61-giardino-sud]]
+⬇️ [[61-giardino-vialetto-sud]]
 
 
 ![[foto_44.jpg]]

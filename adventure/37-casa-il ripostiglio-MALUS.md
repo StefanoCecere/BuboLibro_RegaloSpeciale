@@ -4,11 +4,11 @@ area: Casa
 class: morte
 ---
 # 37
-**#MALUS**
+
 _No hai fatto cadere delle scatole sui tuoi piedi!_
 
-**SEI MORTO**
+**#MALUS -1**
 
-torna al [[81-ripostiglio]]
+⬇️ [[81-ripostiglio]]
 
 ![[foto_62.jpg]]

@@ -5,12 +5,10 @@ area: Giardino
 # 62
 _che grande vaso!_
 
-👀PRENDI GANCIO [[88-giardino-orcio_gancio-OGGETTO]]
+🔍 [[88-giardino-orcio_gancio-OGGETTO]]
 
-👣PARETE [[89-parete_arrampicata]]
+➡️ [[89-parete_arrampicata]]
 
-👀PIANTE [[27-giardino-le piante|27]]
-
-👣BARACCHINA [[63-giardino-la porta baracchina|63]]
+⬇️ [[63-giardino-la porta baracchina]]
 
 ![[foto_107.jpg]]

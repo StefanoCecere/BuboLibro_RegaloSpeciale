@@ -9,5 +9,4 @@ _Da qui vedo tutto l'orto e i giardini! CHE BELLO!_
 
 ⬇️  [[4-orto-pilozzo]]
 
-
 ![[foto_35.jpg]]
