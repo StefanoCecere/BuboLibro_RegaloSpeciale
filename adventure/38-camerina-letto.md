@@ -5,7 +5,7 @@ area: camerina
 # 38
 _Il mio lettino_
 
-🔍[[149-oggetto-torcia_elettrica]]
+🔍[[149-camerina-torcia_elettrica-OGGETTO]]
 
 ⬆️ [[150-camerina-divieto]]
 

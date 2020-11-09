@@ -7,7 +7,7 @@ class:
 
 _NON SI VEDE NIENTE_
 
-HAI LA TORCIA ELETTRICA? [[144-giardino-buco_regalo]]
+HAI LA TORCIA ELETTRICA? [[144-giardino-draghetto-OGGETTO]]
 
 ⬇️ [[29-giardino-prato]]
 

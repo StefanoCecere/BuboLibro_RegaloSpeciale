@@ -9,7 +9,7 @@ _Da qui vedo bene tutto il giardino_
 
 ⬅️ [[23-giardino-siepe_4]]
 
-🔍[[146-special-occhini]]
+🔍[[146-special-occhini-BONUS]]
 
 ⬆️ [[130-giardino-sud]]
 

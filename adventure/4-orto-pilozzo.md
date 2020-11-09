@@ -7,7 +7,7 @@ _Qui c'è il pilozzo e la lavatrice_
 
 🔍 [[111-orto-usa-pilozzo]]
 
-⬆︎ [[14-orto-sopra]]
+⬆︎ [[14-orto-sopra_BONUS]]
 
 ⬆︎ [[15-orto-lavatrice]]
 
