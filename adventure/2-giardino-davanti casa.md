@@ -1,6 +1,6 @@
 ---
-title:davanti casa
-area:Giardino
+title: davanti casa
+area: giardino
 ---
 # 2
 _Sei davanti casa.
