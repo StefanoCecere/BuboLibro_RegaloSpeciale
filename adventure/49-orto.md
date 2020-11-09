@@ -9,6 +9,8 @@ _Siamo nell'orto_
 
 🔍 [[11-orto-zucchine]]
 
+➡️ [[14-giardino-compost]]
+
 ⬅️ [[4-orto-pilozzo]]
 
 ⬇️ [[8-giardino-verso_orto]]

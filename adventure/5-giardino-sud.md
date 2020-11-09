@@ -3,7 +3,7 @@ title: in giardino verso sud
 area: giardino
 ---
 # 5
-_che bel giardino vero_
+_Da qui vedo molte cose_
 
 🔍ALBICOCCO [[25-giardino-albicocco]]
 
