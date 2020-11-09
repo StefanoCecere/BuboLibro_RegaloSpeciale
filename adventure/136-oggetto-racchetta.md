@@ -8,3 +8,5 @@ _questa è la migliore nemica delle zanzare!_
 #INVENTARIO racchetta
 
 ⬇️ [[135-casa-divano_cerca]]
+
+#TODO_disegno

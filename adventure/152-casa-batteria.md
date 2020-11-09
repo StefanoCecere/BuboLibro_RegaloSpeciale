@@ -2,7 +2,7 @@
 title: batteria
 area: casa
 ---
-# 139
+# 152
 _la batteria!_
 
 ⬆️ [[93-mobile-microonde]]

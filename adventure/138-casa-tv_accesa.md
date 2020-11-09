@@ -9,4 +9,4 @@ _TANTI AUGURI!!!_
 
 ![[foto_120.jpg]]
 
-#TODO_foto scritta tanti auguri
+#TODO_disegno scritta tanti auguri

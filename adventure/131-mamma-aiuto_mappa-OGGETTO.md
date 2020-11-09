@@ -9,4 +9,4 @@ _AHH VA BEH eccoti una mappa_
 
 ⬇️ [[127-giardino-mamma]] 
 
-#TODO_foto mappa
+![[gioco_mappa.png]]

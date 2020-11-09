@@ -9,7 +9,7 @@ _Cosa vuoi fare?_
 
 🔍POMODORO [[113-orto-pilozzo_lavo_pomodoro-BONUS]]
 
-🔍 [[152-orto-bagnato-MALUS]]
+🔍 [[84-orto-bagnato-MALUS]]
 
 ⬇️ [[4-orto-pilozzo]]
 

@@ -3,9 +3,9 @@ title: forno spento
 area: Casa
 ---
 # 118
-_IL FORNO E' SPENTO!_
+_WOW HAI TROVATO DELLE CROSTAT..INE_
 
-**#INVENTARIO: crostatine**
+**#BONUS +1**
 
 ⬇️ [[100-cucina-forno]]
 

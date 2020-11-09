@@ -1,10 +1,10 @@
 ---
 title: gioco zanzare
-area: giardino
+area: gioco
 ---
 # 120
-_collega tutte le zanzare_
+_#GIOCO collega tutte le zanzare_
 
 ⬇️ [[5-giardino-compost]]
 
-#TODO_foto disegno zanzare
+![[gioco_zanzara.png]]

@@ -4,7 +4,7 @@ area:Casa
 class:enigma
 ---
 # 77
-_DOMANDA: quale è il DO?_
+_#GIOCO DOMANDA: quale è il DO?_
 
 
 🔍1a  [[78-piano-tasto_do-BONUS]]

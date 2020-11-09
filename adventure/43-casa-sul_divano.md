@@ -11,7 +11,7 @@ _Il divano è comodissimo!_
 
 ⬆️ [[75-casa-poltrona]]
 
-➡️ [[139-casa-batteria]]
+➡️ [[152-casa-batteria]]
 
 ⬇️ [[10-casa-in_casa]]
 

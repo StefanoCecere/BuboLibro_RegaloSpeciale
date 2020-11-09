@@ -5,6 +5,8 @@ area: orto
 # 109
 _IL POMODORO FA BENE_
 
-**#INVENTARIO +1**
+#INVENTARIO POMODORO
 
 ⬇️ [[9-orto-pomodori]]
+
+#TODO_disegno

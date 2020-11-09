@@ -5,7 +5,7 @@ area: giardino
 # 32
 _Ma guarda un po'!_
 
-#INVENTARIO tartaruga
+#BONUS +1
 
 ⬇️ [[29-giardino-prato]]
 

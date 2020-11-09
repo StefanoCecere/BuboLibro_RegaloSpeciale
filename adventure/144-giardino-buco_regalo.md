@@ -11,4 +11,4 @@ _HAI TROVATO UN DRAGHETTO!! CHE BELLINO_
 
 ⬇️ [[28-giardino-buco_buio]]
 
-#TODO_foto draghetto
+#TODO_disegno draghetto
