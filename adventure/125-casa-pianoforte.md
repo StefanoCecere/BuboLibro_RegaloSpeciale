@@ -10,6 +10,6 @@ _C'è qualcosa di nascosto sul piano?_
 
 👀TV [[134-casa-tv]]
 
-👣INDIETRO [[43-casa-sul divano]]
+⬇️ [[43-casa-sul divano]]
 
 ![[foto_143.jpg]]

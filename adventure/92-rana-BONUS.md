@@ -10,4 +10,4 @@ _con il bastone aiuti la rana ad uscire_
 
 **#BONUS +2**
 
-👀INDIETRO [[89-parete_arrampicata]]
+⬇️ [[89-parete_arrampicata]]

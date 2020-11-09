@@ -7,6 +7,6 @@ _Ma guarda un po'!_
 
 #INVENTARIO tartaruga
 
-👣INDIETRO [[29-giardino-prato]]
+⬇️ [[29-giardino-prato]]
 
 ![[foto_134.jpg]]

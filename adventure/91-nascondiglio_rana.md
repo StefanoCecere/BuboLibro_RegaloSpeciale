@@ -7,6 +7,6 @@ _WOW! hai raggiunto la cima e trovato la Rana!_
 
 Ho UN BASTONE [[92-rana-BONUS]]
 
-👣TORNO INDIETRO [[89-parete_arrampicata]]
+⬇️ [[89-parete_arrampicata]]
 
 ![[foto_114.jpg]].jpg]]

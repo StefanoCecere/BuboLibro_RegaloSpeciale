@@ -7,6 +7,6 @@ _la tv!_
 
 AHI IL TELECOMANDO? [[138-casa-tv_accesa]]
 
-👣INDIETRO [[125-casa-pianoforte]]
+⬇️ [[125-casa-pianoforte]]
 
 ![[foto_120.jpg]]

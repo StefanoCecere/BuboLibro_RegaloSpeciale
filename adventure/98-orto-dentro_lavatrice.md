@@ -8,4 +8,4 @@ _MA QUI C'E' UN PASSAGGIO SEGRETO_
 
 AVANTI [[107-luogo_segreto-BONUS]]
 
-👀INDIETRO [[97-orto-lavatrice_apri]]
+⬇️ [[97-orto-lavatrice_apri]]

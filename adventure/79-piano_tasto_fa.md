@@ -8,4 +8,4 @@ class: error
 SBAGLIATO!
 questo ì un FA, non un DO
 
-👀TORNA INDIETRO [[77-tasti-pianoforte]]
+⬇️ [[77-tasti-pianoforte]]

@@ -9,6 +9,6 @@ _la dispensa!_
 
 👀FINESTRA [[104-cucina-finestra]]
 
-👣INDIETRO [[44-cucina-il tavolo]]
+⬇️ [[44-cucina-il tavolo]]
 
 ![[foto_117.jpg]]

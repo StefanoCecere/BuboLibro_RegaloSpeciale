@@ -13,6 +13,6 @@ _Andiamo verso il bagno!_
 
 👀SCRIVANIA [[55-casa-scrivania della mamma|55]]
 
-👣INDIETRO [[10-casa-in casa|10]]
+⬇️ [[10-casa-in casa|10]]
 
 ![[foto_53.jpg]]

@@ -9,6 +9,6 @@ _Mi piace un sacco andare sullo scivolo_
 
 👣SUL TETTINO [[68-cortile-verso il tetto della baracchina|68]]
 
-👀INDIETRO [[64-cortile]]
+⬇️ [[64-cortile]]
 
 ![[foto_39.jpg]]

@@ -7,4 +7,4 @@ _BRAVO! quando si rientra da fuori è bene lavarsi le mani_
 
 **#BONUS +1**
 
-👣INDIETRO [[123-bagno-lavandino]]
+⬇️ [[123-bagno-lavandino]]

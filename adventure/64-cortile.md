@@ -11,7 +11,7 @@ _Siamo nel cortile_
 
 🧗ARRAMPICATI [[68-cortile-verso il tetto della baracchina|68]]
 
-👀INDIETRO [[61-giardino-sud]]
+⬇️ [[61-giardino-sud]]
 
 
 ![[foto_44.jpg]]

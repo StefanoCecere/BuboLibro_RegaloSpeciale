@@ -11,6 +11,6 @@ _DOMANDA: quale è il DO?_
 2a  [[79-piano_tasto_fa]]
 3a  [[80-piano_tasto_si]]
 
-⇩ [[125-casa-pianoforte]]
+⬇️[[125-casa-pianoforte]]
 
 ![[foto_79.jpg]]

@@ -11,7 +11,7 @@ _La scrivania per studiare_
 
 👣ARMADIO GIOCHI [[140-camerina-armadio_giochi]]
 
-👣INDIETRO [[36-camerina]]
+⬇️ [[36-camerina]]
 
 
 ![[foto_67.jpg]]

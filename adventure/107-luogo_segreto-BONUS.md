@@ -10,6 +10,6 @@ mi sento benissimo
 
 **#BONUS +3**
 
-👀INDIETRO [[98-orto-dentro_lavatrice]]
+⬇️ [[98-orto-dentro_lavatrice]]
 
 ![[foto_115.jpg]]

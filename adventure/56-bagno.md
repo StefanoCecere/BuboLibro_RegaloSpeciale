@@ -11,6 +11,6 @@ FACCIO PIPI' [[122-bagno-pipi]]
 
 👀LAVANDINO [[123-bagno-lavandino]]
 
-👣INDIETRO [[45-casa-verso il bagno]]
+⬇️ [[45-casa-verso il bagno]]
 
 ![[foto_71.jpg]]

@@ -9,7 +9,7 @@ _Vediamo cosa c'è nel cassetto_
 
 👀SCRIVANIA MAMMA [[55-casa-scrivania della mamma|55]]
 
-👣INDIETRO [[45-casa-verso il bagno]]
+⬇️ [[45-casa-verso il bagno]]
 
 
 ![[foto_68.jpg]]

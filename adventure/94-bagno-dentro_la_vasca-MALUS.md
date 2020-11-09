@@ -8,6 +8,6 @@ _Ahhh un piedone nella vasca!_
 
 **#MALUS -1**
 
-👣INDIETRO [[57-bagno-vasca]]
+⬇️ [[57-bagno-vasca]]
 
 ![[foto_86.jpg]]

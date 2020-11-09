@@ -8,4 +8,4 @@ _BRAVO! questo è un DO_
 
 **#BONUS +1**
 
-👀ESCI [[125-casa-pianoforte]]
+⬇️ [[125-casa-pianoforte]]

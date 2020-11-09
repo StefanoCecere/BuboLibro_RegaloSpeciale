@@ -9,6 +9,6 @@ LAVO LE MANI [[124-bagno-lavo_mani-BONUS]]
 
 APRO ARMADIETTO [[48-bagno-armadietto]]
 
-👣INDIETRO [[56-bagno]]
+⬇️ [[56-bagno]]
 
 ![[foto_139.jpg]]

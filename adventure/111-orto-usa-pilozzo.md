@@ -9,6 +9,6 @@ LAVO LE MANI [[112-orto-pilozzo_lavo_mani-BONUS]]
 
 LAVO IL POMODORO [[113-orto-pilozzo_lavo_pomodoro-BONUS]]
 
-👣INDIETRO [[4-orto-pilozzo]]
+⬇️ [[4-orto-pilozzo]]
 
 ![[foto_123.jpg]]

@@ -7,6 +7,6 @@ _AHH VA BEH eccoti una mappa_
 
 #INVENTARIO mappa
 
-👣INDIETRO [[127-giardino-mamma]] 
+⬇️ [[127-giardino-mamma]] 
 
 #TODO_foto mappa

@@ -15,6 +15,6 @@ _Il giardino è dove gioco quando non piove_
 
 👣DESTRA [[34-giardino-tavolino del giardino]]
 
-👣INDIETRO [[26-giardino-verso il secondo giardino|26]]
+⬇️ [[26-giardino-verso il secondo giardino|26]]
 
 ![[foto_135.jpg]]

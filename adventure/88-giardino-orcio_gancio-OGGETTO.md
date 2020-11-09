@@ -8,4 +8,4 @@ _HAI TROVATO UN GANCIO!_
 
 #INVENTARIO: GANCIO
 
-👣INDIETRO [[62-giardino-orcio]]
+⬇️ [[62-giardino-orcio]]

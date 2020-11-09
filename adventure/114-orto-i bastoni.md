@@ -8,6 +8,6 @@ _i bastoni appuntiti per l'orto_
 
 TOCCALI! [[16-orto-i bastoni-MALUS]]
 
-👣INDIETRO [[15-orto-la lavatrice]]
+⬇️ [[15-orto-la lavatrice]]
 
 ![[foto_37.jpg]]

@@ -7,4 +7,4 @@ _LAVARSI LE MANI FA SEMPRE BENE!_
 
 **#BONUS +1**
 
-👣INDIETRO [[111-orto-usa-pilozzo]]
+⬇️ [[111-orto-usa-pilozzo]]

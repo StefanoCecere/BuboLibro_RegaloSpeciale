@@ -5,6 +5,6 @@ area: bagno
 # 48
 _Vuoi lavare il pavimento?_
 
-👣INDIETRO [[123-bagno-lavandino]]
+⬇️ [[123-bagno-lavandino]]
 
 ![[foto_140.jpg]]

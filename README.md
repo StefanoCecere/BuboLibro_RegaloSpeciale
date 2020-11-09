@@ -40,5 +40,7 @@ per lo sviluppo usiamo questi tags per trovare facilmente i nodi:
 ## emojii
 https://gist.github.com/rxaviers/7360908
 
+⬆️⬇️⬅️➡️👀🔍✋👍👎💬♥️⚙️
+
 ## copyright
 il progetto è di Fabio (12 anni) e in quanto tale ci dispiacerebbe che fosse spudoratamente plagiato. magari se ti interessa contattaci che si collabora!

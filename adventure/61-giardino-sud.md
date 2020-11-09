@@ -11,6 +11,6 @@ _Da qui vedo molte cose!_
 
 ⬆︎ [[64-cortile|64]]
 
-👣INDIETRO [[130-giardino-girato|130]]
+⬇️ [[130-giardino-girato|130]]
 
 ![[foto_132.jpg]]

@@ -5,7 +5,7 @@ area: casa
 # 138
 _TANTI AUGURI!!!_
 
-👣INDIETRO [[43-casa-sul divano]]
+⬇️ [[43-casa-sul divano]]
 
 ![[foto_120.jpg]]
 

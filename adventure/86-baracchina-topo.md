@@ -7,4 +7,4 @@ _E' scappato dentro la legna_
 
 PRENDI LEGNO [[87-baracchina-legno-OGGETTO]]
 
-👣INDIETRO [[65-baracchina]]
+⬇️ [[65-baracchina]]

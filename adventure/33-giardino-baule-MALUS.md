@@ -8,6 +8,6 @@ _ahh c'era scritto NON APRIRE!_
 
 **#MALUS -1**
 
-INDIETRO [[132-giardino-baule]]
+⬇️ [[132-giardino-baule]]
 
 ![[foto_23.jpg]]

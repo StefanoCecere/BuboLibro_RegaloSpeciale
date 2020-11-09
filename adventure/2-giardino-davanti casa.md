@@ -8,7 +8,7 @@ dove vai?_
 
 ⬆︎ [[10-casa-in casa|10]]
 
-👣DESTRA [[8-giardino-verso_orto|8]]
+➡️ [[8-giardino-verso_orto|8]]
 
 👀TAVOLO [[7-giardino-tavolo da giardino|7]]
 

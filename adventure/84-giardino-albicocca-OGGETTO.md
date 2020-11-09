@@ -8,6 +8,6 @@ _Guarda quante belle albicocche invisibili!_
 
 #INVENTARIO: ALBICOCCA INVISIBILE
 
-👣INDIETRO [[25-giardino-l'albicocco]]
+⬇️ [[25-giardino-l'albicocco]]
 
 #TODO_foto 

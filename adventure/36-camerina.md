@@ -13,6 +13,6 @@ _La nostra camerina_
 
 👀RIPOSTIGLIO [[81-ripostiglio]]
 
-👣INDIETRO [[47-casa-verso_camerina]]
+⬇️ [[47-casa-verso_camerina]]
 
 ![[foto_61.jpg]]

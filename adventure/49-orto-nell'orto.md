@@ -11,6 +11,6 @@ _Siamo nell'orto_
 
 👣SINISTRA [[4-orto-pilozzo|4]]
 
-👣INDIETRO [[8-giardino-verso_orto]]
+⬇️ [[8-giardino-verso_orto]]
 
 ![[foto_29.jpg]]

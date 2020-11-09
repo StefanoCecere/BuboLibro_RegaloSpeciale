@@ -9,6 +9,6 @@ _ahh il rispostiglio!_
 
 👀APRI RIPOSTIGLIO [[83-ripostiglio_aperto]]
 
-INDIETRO [[36-camerina]]
+⬇️ [[36-camerina]]
 
 ![[foto_116.jpg]]

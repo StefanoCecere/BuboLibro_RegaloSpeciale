@@ -13,6 +13,6 @@ _Il divano è comodissimo!_
 
 👣DESTRA [[139-casa-batteria]]
 
-👣INDIETRO [[10-casa-in casa|10]]
+⬇️ [[10-casa-in casa|10]]
 
 ![[foto_51.jpg]]

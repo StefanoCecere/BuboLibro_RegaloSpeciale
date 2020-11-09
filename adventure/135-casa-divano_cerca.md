@@ -9,6 +9,6 @@ _nel divano ci sono sempre cose che si perdono_
 
 👀TELECOMANDO [[137-oggetto-telecomando]]
 
-👣INDIETRO [[43-casa-sul divano]]
+⬇️ [[43-casa-sul divano]]
 
 ![[foto_121.jpg]]

@@ -7,6 +7,6 @@ _la frutta!_
 
 MANGIO UVO [[110-cucina-uva-BONUS]]
 
-👣INDIETRO [[103-cucina-credenza]]
+⬇️ [[103-cucina-credenza]]
 
 ![[foto_83.jpg]]

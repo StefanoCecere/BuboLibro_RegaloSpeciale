@@ -7,6 +7,6 @@ _HAI TROVATO UN GIOCO NUOVO!_
 
 **#INVENTARIO: gioco_nuovo**
 
-👣INDIETRO [[140-camerina-armadio_giochi]]
+⬇️ [[140-camerina-armadio_giochi]]
 
 ![[foto_146.jpg]]

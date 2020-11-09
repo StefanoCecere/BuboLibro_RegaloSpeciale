@@ -8,5 +8,5 @@ _LO SAI CHE IL FORNO ACCESO NON SI TOCCA!_
 
 **#MALUS -1**
 
-👣INDIETRO [[100-cucina-forno]]
+⬇️ [[100-cucina-forno]]
 

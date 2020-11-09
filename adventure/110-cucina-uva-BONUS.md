@@ -7,4 +7,4 @@ _UVA BUONISSIMA_
 
 **#BONUS +1**
 
-👣INDIETRO [[104-cucina-finestra]]
+⬇️ [[104-cucina-finestra]]

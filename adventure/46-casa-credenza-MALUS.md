@@ -8,7 +8,7 @@ _Nooo hai fatto cadere tutti i piatti!_
 
 **#MALUS -1**
 
-👣INDIETRO [[103-cucina-credenza]]
+⬇️ [[103-cucina-credenza]]
 
 
 ![[foto_82.jpg]]

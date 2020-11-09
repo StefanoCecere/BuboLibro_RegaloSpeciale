@@ -10,6 +10,6 @@ _WOW_
 
 #INVENTARIO: CHIAVE
 
-INDIETRO [[139-casa-batteria]]
+⬇️ [[139-casa-batteria]]
 
 ![[foto_113.jpg]]

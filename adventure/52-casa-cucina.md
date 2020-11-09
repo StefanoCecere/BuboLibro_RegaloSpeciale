@@ -11,6 +11,6 @@ _So solo cucinare le uova_
 
 👀FRIGO [[101-cucina-frigo]]
 
-👣INDIETRO [[44-cucina-il tavolo]]
+⬇️ [[44-cucina-il tavolo]]
 
 ![[foto_58.jpg]]

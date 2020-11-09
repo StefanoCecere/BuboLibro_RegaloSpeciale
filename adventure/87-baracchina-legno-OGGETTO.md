@@ -8,4 +8,4 @@ _Questo legno può bruciare bene!_
 
 #INVENTARIO: LEGNO
 
-👣INDIETRO [[65-baracchina]]
+⬇️ [[65-baracchina]]

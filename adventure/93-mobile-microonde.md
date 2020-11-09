@@ -8,6 +8,6 @@ _Cosa c'è vicino al microonde?_
 
 👀CHIAVE [[50-casa-scaffale_chiave-OGGETTO]]
 
-👀INDIETRO [[139-casa-batteria]]
+⬇️ [[139-casa-batteria]]
 
 ![[foto_56.jpg]]

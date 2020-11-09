@@ -9,6 +9,6 @@ LO SAPEVI CHE NON DOVEVI TOCCARLA!_
 
 **#MALUS -1**
 
-👀INDIETRO [[65-baracchina]]
+⬇️ [[65-baracchina]]
 
 ![[foto_93.jpg]]
