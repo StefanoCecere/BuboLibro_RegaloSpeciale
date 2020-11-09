@@ -5,7 +5,7 @@ area: camerina
 # 81
 _ahh il rispostiglio!_
 
-🔍 [[82-quadro_dinosauri]]
+🔍 [[106-quadro_dinosauri]]
 
 🔍 [[83-ripostiglio_aperto]]
 

@@ -7,6 +7,6 @@ _Arrampichiamoci!_
 
 ⬆️ [[71-cortile-su_tetto_baracchina]]
 
-⬇️ [[67-cortile-scivolo]]
+⬇️ [[77-cortile-scivolo]]
 
 ![[foto_46.jpg]]

@@ -11,6 +11,6 @@ _Da qui vedo molte cose!_
 
 ⬆︎ [[64-cortile]]
 
-⬇️ [[130-giardino-sud]]
+⬇️ [[5-giardino-sud]]
 
 ![[foto_132.jpg]]

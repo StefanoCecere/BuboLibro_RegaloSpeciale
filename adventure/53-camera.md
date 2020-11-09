@@ -5,7 +5,7 @@ area: camera
 # 53
 _Sono al piano di sopra.. nella camera di mamma e papà_
 
-🔍 [[59-camera-armadio]]
+🔍 [[87-camera-armadio]]
 
 🔍 [[58-camera-lettone]]
 

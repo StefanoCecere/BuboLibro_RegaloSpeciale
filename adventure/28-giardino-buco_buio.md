@@ -7,8 +7,8 @@ class:
 
 _NON SI VEDE NIENTE_
 
-HAI LA TORCIA ELETTRICA? [[144-giardino-draghetto-OGGETTO]]
+HAI LA TORCIA ELETTRICA? [[240-giardino-draghetto-OGGETTO]]
 
-⬇️ [[29-giardino-prato]]
+⬇️ [[20-giardino-prato]]
 
 ![[foto_20.jpg]]

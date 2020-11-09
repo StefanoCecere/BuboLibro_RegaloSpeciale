@@ -5,10 +5,10 @@ area: camerina
 # 40
 _Il computer del fratellone, non so come si usa_
 
-🔍 [[106-camerina-musica-BONUS]]
+🔍 [[206-camerina-musica-BONUS]]
 
-⬅️ [[41-camerina-scrivania]]
+⬅️ [[46-camerina-scrivania]]
 
-➡️ [[39-camerina-libreria]]
+➡️ [[69-camerina-libreria]]
 
 ![[foto_66.jpg]]

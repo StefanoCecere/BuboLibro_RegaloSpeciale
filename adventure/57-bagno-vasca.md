@@ -6,7 +6,7 @@ class: morte
 # 57
 _Ahhh un piedone nella vasca!_
 
-🔍 [[94-bagno-dentro_la_vasca-MALUS]]
+🔍 [[242-bagno-dentro_la_vasca-MALUS]]
 
 ⬇️ [[56-bagno]]
 

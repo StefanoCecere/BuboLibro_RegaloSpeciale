@@ -7,7 +7,7 @@ _Siamo nel cortile_
 
 ⬆︎ [[66-cortile_2]]
 
-➡️ [[67-cortile-scivolo]]
+➡️ [[77-cortile-scivolo]]
 
 ⬇️ [[61-giardino-vialetto-sud]]
 

@@ -9,7 +9,7 @@ _Andiamo verso il bagno!_
 
 ⬅️[[73-casa-salgo_scale]]
 
-➡️ [[54-casa-cassettiera]]
+➡️ [[84-casa-cassettiera]]
 
 🔍 [[55-casa-scrivania_mamma]]
 

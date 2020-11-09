@@ -5,8 +5,8 @@ area: Giardino
 # 31
 _Sai giocare anche tu a pallacanestro?_
 
-🔍 [[117-giardino-canestro-GIOCO]]
+🔍 [[223-giardino-canestro-GIOCO]]
 
-⬇️ [[29-giardino-prato]]
+⬇️ [[20-giardino-prato]]
 
 ![[foto_21.jpg]]

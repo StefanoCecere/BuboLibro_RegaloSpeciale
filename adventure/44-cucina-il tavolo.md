@@ -5,7 +5,7 @@ area: Casa
 # 44
 _Qui è dove si mangia_
 
-⬅️ [[103-cucina-credenza]]
+⬅️ [[85-cucina-credenza]]
 
 ⬆️ [[47-casa-camerina_porta]]
 

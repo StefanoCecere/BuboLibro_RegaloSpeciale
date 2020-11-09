@@ -5,6 +5,6 @@ area:Casa
 # 74
 _Non c'è niente!_
 
-⬇️ [[54-casa-cassettiera]]
+⬇️ [[84-casa-cassettiera]]
 
 ![[foto_69.jpg]]

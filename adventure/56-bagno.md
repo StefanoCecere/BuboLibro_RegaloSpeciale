@@ -7,9 +7,9 @@ _Non c'è nessuno in bagno_
 
 🔍[[57-bagno-vasca]]
 
-🔍 [[122-bagno-pipi]]
+🔍 [[32-bagno-pipi]]
 
-➡️ [[123-bagno-lavandino]]
+➡️ [[88-bagno-lavandino]]
 
 ⬇️ [[45-casa-davanti_bagno]]
 

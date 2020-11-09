@@ -7,6 +7,6 @@ Ciao ........ !
 sei pronto per un'avventura?
 prendi questo libro e segui i numeri
 
-⬆️ [[2-giardino-nord]]
+⬆️ [[3-giardino-nord]]
 
 ![[foto_inizio.jpg]]

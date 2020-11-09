@@ -5,9 +5,9 @@ area: Casa
 # 36
 _La nostra camerina_
 
-⬅️ [[41-camerina-scrivania]]
+⬅️ [[46-camerina-scrivania]]
 
-⬆️ [[39-camerina-libreria]]
+⬆️ [[69-camerina-libreria]]
 
 ⬆️ [[38-camerina-letto]]
 

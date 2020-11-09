@@ -7,7 +7,7 @@ _Sta ancora lavando i vestiti_
 
 🔍  [[97-orto-lavatrice_apri]]
 
-➡️ [[114-orto-i bastoni]]
+➡️ [[94-orto-i bastoni]]
 
 ⬇️ [[4-orto-pilozzo]]
 

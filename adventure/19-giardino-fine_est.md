@@ -9,8 +9,8 @@ _Da qui vedo bene tutto il giardino_
 
 ⬅️ [[23-giardino-siepe_4]]
 
-🔍[[146-special-occhini-BONUS]]
+🔍[[245-special-occhini-BONUS]]
 
-⬆️ [[130-giardino-sud]]
+⬆️ [[5-giardino-sud]]
 
 ![[foto_90.jpg]]

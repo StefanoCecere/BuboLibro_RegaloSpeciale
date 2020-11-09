@@ -5,7 +5,7 @@ area: Casa
 # 83
 _quanta roba!_
 
-⬆️ [[37-casa-il ripostiglio-MALUS]]
+⬆️ [[239-casa-il ripostiglio-MALUS]]
 
 ⬇️ [[81-ripostiglio]]
 

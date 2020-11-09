@@ -7,6 +7,6 @@ class:
 
 _I calzini e le mutande di mamma e papà!_
 
-⬇️ [[59-camera-armadio]]
+⬇️ [[87-camera-armadio]]
 
 ![[foto_76.jpg]]

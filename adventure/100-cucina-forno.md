@@ -5,9 +5,9 @@ area: Casa
 # 100
 _IL FORNO E' ACCESO!_
 
-🔍 [[102-cucina-forno-MALUS]]
+🔍 [[202-cucina-forno-MALUS]]
 
-🔍 [[118-cucina-forno_spento-OGGETTO]]
+🔍 [[218-cucina-forno_spento-OGGETTO]]
 
 ⬇️ [[52-casa-cucina]]
 

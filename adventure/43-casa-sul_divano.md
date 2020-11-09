@@ -5,13 +5,13 @@ area: casa
 # 43
 _Il divano è comodissimo!_
 
-👀PIANOFORTE [[125-casa-pianoforte]]
+👀PIANOFORTE [[103-casa-pianoforte]]
 
-👀DIVANO [[135-casa-divano_cerca]]
+👀DIVANO [[92-casa-divano_cerca]]
 
 ⬆️ [[75-casa-poltrona]]
 
-➡️ [[152-casa-batteria]]
+➡️ [[80-casa-batteria]]
 
 ⬇️ [[10-casa-in_casa]]
 

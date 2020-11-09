@@ -5,7 +5,7 @@ area: giardino
 # 24
 _Sembra una normale statua_
 
-🔍[[146-special-occhini-BONUS]]
+🔍[[245-special-occhini-BONUS]]
 
 ⬅️ [[23-giardino-siepe_4]]
 
