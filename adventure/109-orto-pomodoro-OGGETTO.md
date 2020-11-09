@@ -7,4 +7,4 @@ _IL POMODORO FA BENE_
 
 **#INVENTARIO +1**
 
-⬇️ [[9-orto-i pomodori]]
+⬇️ [[9-orto-pomodori]]

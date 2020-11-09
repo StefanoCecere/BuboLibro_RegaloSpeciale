@@ -11,6 +11,6 @@ _Qui è dove si mangia_
 
 ⬆️ [[52-casa-cucina]]
 
-⬇️ [[10-casa-in casa]]
+⬇️ [[10-casa-in_casa]]
 
 ![[foto_52.jpg]]

@@ -7,6 +7,6 @@ _Usavo questa bici quando ero piccolo_
 
 **#BONUS +1**
 
-⬇️ [[69-cortile-trattore|69]]
+⬇️ [[69-cortile-trattore]]
 
 ![[foto_42.jpg]]

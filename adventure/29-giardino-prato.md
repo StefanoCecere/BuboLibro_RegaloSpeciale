@@ -5,13 +5,13 @@ area: giardino
 # 29
 _Il giardino è dove gioco quando non piove_
 
-🔍BAULE [[132-giardino-baule|132]]
+🔍BAULE [[132-giardino-baule]]
 
-🔍CANESTRO [[31-giardino-canestro|31]]
+🔍CANESTRO [[31-giardino-canestro]]
 
-🔍DIETRO ORCIO [[133-giardino-dietro_orcio|133]]
+🔍DIETRO ORCIO [[133-giardino-dietro_orcio]]
 
-🔍PRATO GRIGLIA [[32-giardino-prato_griglia|32]]
+🔍PRATO GRIGLIA [[32-giardino-prato_griglia]]
 
 ➡️ [[34-giardino-giochi]]
 

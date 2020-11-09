@@ -7,9 +7,9 @@ _La nostra camerina_
 
 ⬅️ [[41-camerina-scrivania]]
 
-⬆️ [[39-camerina-la libreria]]
+⬆️ [[39-camerina-libreria]]
 
-⬆️ [[38-camerina-il tuo letto]]
+⬆️ [[38-camerina-letto]]
 
 ➡️ [[81-ripostiglio]]
 

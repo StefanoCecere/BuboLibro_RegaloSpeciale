@@ -5,7 +5,7 @@ area: giardino
 # 130
 _che bel giardino vero_
 
-🔍ALBICOCCO [[25-giardino-l'albicocco]]
+🔍ALBICOCCO [[25-giardino-albicocco]]
 
 🔍MAMMA [[127-giardino-mamma]]
 

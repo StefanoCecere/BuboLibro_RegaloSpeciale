@@ -1,11 +1,11 @@
 ---
-title:nell'orto
-area:Orto
+title: nell'orto
+area: orto
 ---
 # 49
 _Siamo nell'orto_
 
-🔍 [[9-orto-i pomodori]]
+🔍 [[9-orto-pomodori]]
 
 🔍 [[11-orto-zucchine]]
 

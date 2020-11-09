@@ -8,6 +8,6 @@ _Lo sapevi che era pericoloso... Il papà ti ha brontolato!_
 
 **#MALUS -2**
 
-⬇️[[71-cortile-sul tetto]] 
+⬇️[[71-cortile-su_tetto_baracchina]] 
 
 ![[foto_95.jpg]]

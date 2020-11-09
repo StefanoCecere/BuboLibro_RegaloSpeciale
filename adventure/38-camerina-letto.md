@@ -9,7 +9,7 @@ _Il mio lettino_
 
 ⬆️ [[150-camerina-divieto]]
 
-⬅️ [[39-camerina-la libreria]]
+⬅️ [[39-camerina-libreria]]
 
 ⬇️[[36-camerina]] 
 

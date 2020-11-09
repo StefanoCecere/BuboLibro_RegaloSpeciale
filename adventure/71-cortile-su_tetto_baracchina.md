@@ -7,8 +7,8 @@ _Che bello qui sul tettino.. è PERICOLOSO però_
 
 🔍 [[151-cortile-uva]]
 
-⬆️ [[72-cortile-affacciato di sotto-MALUS|72]]
+⬆️ [[72-cortile-tetto_baracchina-MALUS]]
 
-⬇️ [[68-cortile-verso il tetto della baracchina|68]]
+⬇️ [[68-cortile-arrampico_albero]]
 
 ![[foto_94.jpg]]

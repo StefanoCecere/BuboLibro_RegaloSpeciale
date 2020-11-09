@@ -11,6 +11,6 @@ _Non c'è nessuno in bagno_
 
 ➡️ [[123-bagno-lavandino]]
 
-⬇️ [[45-casa-verso il bagno]]
+⬇️ [[45-casa-davanti_bagno]]
 
 ![[foto_71.jpg]]

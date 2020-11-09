@@ -5,9 +5,9 @@ area: cortile
 # 64
 _Siamo nel cortile_
 
-⬆︎ [[66-cortile_2|66]]
+⬆︎ [[66-cortile_2]]
 
-➡️ [[67-cortile-scivolo|67]]
+➡️ [[67-cortile-scivolo]]
 
 ⬇️ [[61-giardino-vialetto-sud]]
 

@@ -9,6 +9,6 @@ _Qui è dove si mangia in estate_
 
 ⬆️ [[34-giardino-giochi]]
 
-⬇️ [[10-casa-in casa]]
+⬇️ [[10-casa-in_casa]]
 
 ![[foto_7.jpg]]

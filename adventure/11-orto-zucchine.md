@@ -7,6 +7,6 @@ _Non mi piacciono molto le zucchine_
 
 ⬆️ [[12-orto-lattughe]]
 
-⬇️  [[9-orto-i pomodori]]
+⬇️  [[9-orto-pomodori]]
 
 ![[foto_32.jpg]]

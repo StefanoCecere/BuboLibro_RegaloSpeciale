@@ -5,7 +5,7 @@ area:Giardino
 # 6
 _Non ci sono panni stesi_
 
-➡️ [[17-giardino-pompa|17]]
+➡️ [[17-giardino-pompa]]
 
 ⬇️ [[8-giardino-verso_orto]]
 

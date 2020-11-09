@@ -9,8 +9,8 @@ _Qui c'è il pilozzo e la lavatrice_
 
 ⬆︎ [[14-orto-sopra]]
 
-⬆︎ [[15-orto-la lavatrice|15]]
+⬆︎ [[15-orto-lavatrice]]
 
-⬇️ [[49-orto-nell'orto]]
+⬇️ [[49-orto]]
 
 ![[foto_30.jpg]]

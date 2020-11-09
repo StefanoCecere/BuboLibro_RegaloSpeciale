@@ -8,6 +8,6 @@ _Non dovevi stare qui, lo sai!_
 
 **#MALUS -1**
 
-⬇️ [[42-camerina-letto fratellone]]
+⬇️ [[42-camerina-letto_fratellone]]
 
 ![[foto_149.jpg]]

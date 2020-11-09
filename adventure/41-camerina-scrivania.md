@@ -9,7 +9,7 @@ _La scrivania per studiare_
 
 ⬅️[[140-camerina-armadio_giochi]]
 
-➡️[[40-camerina-il computer]]
+➡️[[40-camerina-computer]]
 
 ⬆️ [[34-giardino-giochi]]
 

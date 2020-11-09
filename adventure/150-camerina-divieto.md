@@ -5,8 +5,8 @@ area: camerina
 # 150
 _C'è scritto NON SALIRE_
 
-⬆️ [[42-camerina-letto fratellone]]
+⬆️ [[42-camerina-letto_fratellone]]
 
-⬇️ [[38-camerina-il tuo letto]]
+⬇️ [[38-camerina-letto]]
 
 ![[foto_153.jpg]]

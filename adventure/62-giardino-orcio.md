@@ -9,6 +9,6 @@ _che grande vaso!_
 
 ➡️ [[89-parete_arrampicata]]
 
-⬇️ [[63-giardino-la porta baracchina]]
+⬇️ [[63-giardino-porta_baracchina]]
 
 ![[foto_107.jpg]]

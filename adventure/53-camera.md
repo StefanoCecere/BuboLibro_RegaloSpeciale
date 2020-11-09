@@ -9,6 +9,6 @@ _Sono al piano di sopra.. nella camera di mamma e papà_
 
 🔍 [[58-camera-lettone]]
 
-➡️ [[73-casa-verso le scale]]
+➡️ [[73-casa-salgo_scale]]
 
 ![[foto_74.jpg]]

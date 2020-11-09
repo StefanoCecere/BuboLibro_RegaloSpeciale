@@ -9,6 +9,6 @@ _Il computer del fratellone, non so come si usa_
 
 ⬅️ [[41-camerina-scrivania]]
 
-➡️ [[39-camerina-la libreria]]
+➡️ [[39-camerina-libreria]]
 
 ![[foto_66.jpg]]

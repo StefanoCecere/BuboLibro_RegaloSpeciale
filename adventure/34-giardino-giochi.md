@@ -15,6 +15,6 @@ _ahh i nostri giochi_
 
 ⬅️ [[29-giardino-prato]]
 
-➡️ [[7-giardino-tavolo da giardino]]
+➡️ [[7-giardino-tavolo]]
 
 ![[foto_150.jpg]]

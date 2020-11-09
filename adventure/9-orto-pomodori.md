@@ -7,8 +7,8 @@ _Quanti pomodori!_
 
 🔍 POMODORO [[109-orto-pomodoro-OGGETTO]]
 
-🔍ZUCCHINE [[11-orto-zucchine|11]]
+🔍ZUCCHINE [[11-orto-zucchine]]
 
-⬇️ [[49-orto-nell'orto]]
+⬇️ [[49-orto]]
 
 ![[foto_31.jpg]]

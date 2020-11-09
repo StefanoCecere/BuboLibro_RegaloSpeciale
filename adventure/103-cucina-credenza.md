@@ -5,7 +5,7 @@ area: Casa
 # 103
 _la dispensa!_
 
-🔍 [[46-casa-credenza-MALUS|46]]
+🔍 [[46-casa-credenza-MALUS]]
 
 ⬅️ [[104-cucina-finestra]]
 

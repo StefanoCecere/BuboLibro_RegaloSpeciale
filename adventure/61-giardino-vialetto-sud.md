@@ -7,7 +7,7 @@ _Da qui vedo molte cose!_
 
 🔍 [[62-giardino-orcio]]
 
-🔍 [[63-giardino-la porta baracchina]]
+🔍 [[63-giardino-porta_baracchina]]
 
 ⬆︎ [[64-cortile]]
 
