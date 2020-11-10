@@ -4,7 +4,8 @@ area: cortile
 class: malus
 ---
 # 212
-_Lo sapevi che era pericoloso... Il papà ti ha brontolato!_
+_LO SAPEVI CHE ERA PERICOLOSO...
+IL PAPÀ TI HA BRONTOLATO!_
 
 **#MALUS -2**
 

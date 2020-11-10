@@ -13,7 +13,7 @@ _La scrivania per studiare_
 
 ⬆️ [[34-giardino-giochi]]
 
-⬇️ [[36-camerina]]
+⬇️ [[35-camerina]]
 
 
 ![[foto_67.jpg]]

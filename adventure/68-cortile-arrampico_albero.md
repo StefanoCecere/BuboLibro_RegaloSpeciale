@@ -3,7 +3,8 @@ title: arrampicato albero
 area: cortile
 ---
 # 68
-_Arrampichiamoci!_
+ARRAMPICHIAMOCI SUL TETTO DELLA BARACCHINA!
+PERÒ IL PAPÀ NON VUOLE..._
 
 ⬆️ [[71-cortile-su_tetto_baracchina]]
 

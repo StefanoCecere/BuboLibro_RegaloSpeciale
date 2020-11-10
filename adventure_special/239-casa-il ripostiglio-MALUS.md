@@ -5,7 +5,7 @@ class: malus
 ---
 # 239
 
-_No hai fatto cadere delle scatole sui tuoi piedi!_
+_Noooo hai fatto cadere delle scatole sui tuoi piedi!_
 
 **#MALUS -1**
 

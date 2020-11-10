@@ -2,7 +2,7 @@
 title: lattughe
 area: Orto
 ---
-# 42
+# 106
 _Non ci sono molte lattughe_
 
 ⬆️ [[13-orto-carciofi]]

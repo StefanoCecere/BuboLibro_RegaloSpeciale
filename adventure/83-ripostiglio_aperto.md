@@ -3,7 +3,8 @@ title: ripostiglio aperto
 area: Casa
 ---
 # 83
-_quanta roba!_
+_QUANTA ROBA NEL RIPOSTIGLIO!
+NON VORRAI MICA ARRAMPICARTI VERO?_
 
 ⬆️ [[239-casa-il ripostiglio-MALUS]]
 

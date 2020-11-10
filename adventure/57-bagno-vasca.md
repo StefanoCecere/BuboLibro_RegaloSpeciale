@@ -1,10 +1,10 @@
 ---
 title: la vasca da bagno
 area: Casa
-class: morte
+class:
 ---
 # 57
-_Ahhh un piedone nella vasca!_
+_LA VASCA DOVE FACCIO IL BAGNETTO_
 
 🔍 [[242-bagno-dentro_la_vasca-MALUS]]
 

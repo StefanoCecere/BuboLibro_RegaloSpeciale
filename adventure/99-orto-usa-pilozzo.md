@@ -3,7 +3,7 @@ title: usa pilozzo
 area: Orto
 ---
 # 99
-_Cosa vuoi fare?_
+_COSA VUOI FARE CON IL PILOZZO?_
 
 🔍 [[211-orto-pilozzo_lavo_mani-BONUS]]
 

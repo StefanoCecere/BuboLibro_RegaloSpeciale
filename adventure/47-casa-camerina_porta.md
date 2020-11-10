@@ -3,9 +3,10 @@ title: camerina porta
 area: casa
 ---
 # 47
-_Andiamo in camerina?_
+_ANDIAMO IN CAMERINA?
+SENZA LE SCARPE EH_
 
-⬆️ [[36-camerina]]
+⬆️ [[35-camerina]]
 
 ⬇️ [[44-cucina-il tavolo]]
 

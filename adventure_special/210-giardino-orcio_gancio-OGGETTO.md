@@ -4,7 +4,7 @@ area: Giardino
 class: oggetto
 ---
 # 210
-_HAI TROVATO UN GANCIO!_
+_HAI TROVATO UN GANCIO DA ARRAMPICATA!_
 
 #INVENTARIO: GANCIO
 

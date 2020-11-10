@@ -11,6 +11,6 @@ _Tutti i nostri libri!_
 
 ➡️[[38-camerina-letto]]
 
-⬇️ [[36-camerina]]
+⬇️ [[35-camerina]]
 
 ![[foto_65.jpg]]

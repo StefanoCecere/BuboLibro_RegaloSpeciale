@@ -3,7 +3,7 @@ title: TV accesa
 area: casa
 ---
 # 37
-_TANTI AUGURI!!!_
+_si accende la TV e..._
 
 ⬇️ [[43-casa-sul_divano]]
 

@@ -3,7 +3,7 @@ title:le piante
 area:Giardino
 ---
 # 27
-_Sono molto piccole_
+_Qui una volta si faceva la grigliata_
 
 🔍 [[50-giardino-gelsomino]]
 

@@ -6,6 +6,6 @@ class: bonus
 # 227
 _BRAVO! questo è un DO_
 
-**#BONUS +1**
+#BONUS +1
 
 ⬇️ [[103-casa-pianoforte]]

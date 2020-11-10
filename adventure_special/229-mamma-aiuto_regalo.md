@@ -3,6 +3,7 @@ title: mamma aiuto regalo
 area: giardino
 ---
 # 229
-_#AIUTO: AHH DEVI ESSERE CURIOSO MA NON FARTI MALE OK?_
+_#AIUTO: 
+HO VISTO TUO FRATELLO ARMEGGIARE VICINO ALLA BATTERIA_
 
 ⬇️ [[12-giardino-mamma]] 

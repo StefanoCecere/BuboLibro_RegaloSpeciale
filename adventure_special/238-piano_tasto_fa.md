@@ -5,7 +5,7 @@ class: error
 ---
 # 238
 
-SBAGLIATO!
+#MALUS -1: SBAGLIATO!
 questo ì un FA, non un DO
 
 ⬇️ [[201-tasti-pianoforte]]

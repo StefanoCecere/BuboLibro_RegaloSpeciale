@@ -3,9 +3,8 @@ title: il lettone
 area: camera
 ---
 # 58
-_Ho trovato una scatola!_
-
-HAI LA CHIAVE? 
+_HO TROVATO UNO SCRIGNO.. MA È CHIUSO!
+HAI LA CHIAVE?_
 
 USO LA CHIAVE[[107-casa-regalo-VITTORIA]]
 

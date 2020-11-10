@@ -11,6 +11,6 @@ _Il mio lettino_
 
 ⬅️ [[69-camerina-libreria]]
 
-⬇️[[36-camerina]] 
+⬇️[[35-camerina]] 
 
 ![[foto_152.jpg]]

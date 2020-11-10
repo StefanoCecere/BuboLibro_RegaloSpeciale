@@ -4,7 +4,7 @@ area: Casa
 class: enigma
 ---
 # 103
-_C'è qualcosa di nascosto sul piano?_
+_Il papà suona sempre il piano_
 
 🔍 [[201-tasti-pianoforte]]
 

@@ -1,10 +1,10 @@
 ---
 title: dentro la vasca
 area: Casa
-class: morte
+class: malus
 ---
 # 242
-_Ahhh un piedone nella vasca!_
+_MA NON PUOI FARE IL BAGNETTO CON I VESTITI!_
 
 **#MALUS -1**
 
