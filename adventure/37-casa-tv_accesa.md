@@ -8,5 +8,3 @@ _si accende la TV e..._
 ⬇️ [[43-casa-sul_divano]]
 
 ![[foto_120.jpg]]
-
-#TODO_disegno scritta tanti auguri
