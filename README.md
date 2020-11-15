@@ -11,6 +11,9 @@ una preview del libro è online qui: <https://publish.obsidian.md/fabio/>
 questo è il progetto base, da cui si esporta il PDF, l'ePub e la versione HTML.
 per leggerlo velocemente si può usare Obsidian (un bellissimo e gratuito programma per scrivere e raccogliere note in markdown <https://obsidian.md/> ), andando in preview della pagina 1 dell'avventura [adventure/1-start](adventure/1-start)
 
+## PDF
+una versione PDF ridotta è disponibile qui: [BuboLibro_Regalo_web.pdf](_output/BuboLibro_Regalo_web.pdf)
+
 ## prodotto
 un libro facile da leggere, con pochissimi testi e giusto degli enigmi opzionali (da leggere insieme ad un collaboratore lettore). un disegno a pagina.
 diverse pagine di vittoria e altrettante di morte (che riportano indietro)
@@ -35,7 +38,9 @@ per lo sviluppo usiamo questi tags per trovare facilmente i nodi:
 **MALUS** : si toglie vita
 **BONUS**: si guardagna vita
 **INVENTARIO**: si trova un oggetto
-**TODO_foto**: manca l'immagine/foto
+**GIOCO** : mini gioco
+**AIUTO** : un suggerimento
+**TODO_disegno**: manca l'immagine/foto
 
 ## emojii
 https://gist.github.com/rxaviers/7360908
