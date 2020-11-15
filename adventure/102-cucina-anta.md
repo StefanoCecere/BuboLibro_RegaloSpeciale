@@ -5,6 +5,6 @@ area: Casa
 # 102
 _AHHH i MIEI TE'!_
 
-⬇️ [[44-cucina-il tavolo]]
+⬇️ [[52-casa-cucina]]
 
 ![[foto_85.jpg]]

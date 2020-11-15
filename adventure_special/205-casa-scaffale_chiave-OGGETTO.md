@@ -10,7 +10,7 @@ _WOW_
 
 #INVENTARIO: CHIAVE
 
-⬇️ [[80-casa-batteria]]
+⬇️ [[93-mobile-microonde]]
 
 ![[foto_113.jpg]]
 
