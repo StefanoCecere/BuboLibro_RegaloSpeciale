@@ -1,5 +1,7 @@
 # BuboLibro: Un Regalo Speciale 
 
+la storia completa di questo progretto è qui: [https://stefanocecere.com/project/bubolibro-un-regalo-speciale/](https://stefanocecere.com/project/bubolibro-un-regalo-speciale/)
+
 ![](_img/project_obsidian.jpg)
 
 un libro avventura creato da Fabio (e dal papà Stefano) come regalo per il fratellino di 5 anni.
