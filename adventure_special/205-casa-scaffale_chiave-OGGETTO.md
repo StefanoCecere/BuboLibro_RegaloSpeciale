@@ -10,8 +10,8 @@ _WOW_
 
 #INVENTARIO: CHIAVE
 
-⬇️ [[93-mobile-microonde]]
+⬇️ [93-mobile-microonde](93-mobile-microonde.md)
 
-![[foto_113.jpg]]
+![foto_113](_assets/preview/foto_113.jpg)
 
 #TODO_disegno

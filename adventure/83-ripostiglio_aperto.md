@@ -6,8 +6,8 @@ area: Casa
 _QUANTA ROBA NEL RIPOSTIGLIO!
 NON VORRAI MICA ARRAMPICARTI VERO?_
 
-⬆️ [[239-casa-il ripostiglio-MALUS]]
+⬆️ [239-casa-il ripostiglio-MALUS](239-casa-il%20ripostiglio-MALUS.md)
 
-⬇️ [[81-ripostiglio]]
+⬇️ [81-ripostiglio](81-ripostiglio.md)
 
-![[foto_80.jpg]]
+![foto_80](_assets/preview/foto_80.jpg)

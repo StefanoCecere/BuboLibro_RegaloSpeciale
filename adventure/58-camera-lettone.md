@@ -6,8 +6,8 @@ area: camera
 _HO TROVATO UNO SCRIGNO.. MA È CHIUSO!
 HAI LA CHIAVE?_
 
-USO LA CHIAVE[[107-casa-regalo-VITTORIA]]
+USO LA CHIAVE[107-casa-regalo-VITTORIA](107-casa-regalo-VITTORIA.md)
 
-⬇️ [[10-casa-in_casa]]
+⬇️ [10-casa-in_casa](10-casa-in_casa.md)
 
-![[foto_104.jpg]]
+![foto_104](_assets/preview/foto_104.jpg)

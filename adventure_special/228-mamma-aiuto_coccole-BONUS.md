@@ -7,6 +7,6 @@ _#AIUTO: OHH VIENI QUI DA ME CHE TI COCCOLO_
 
 #BONUS +1
 
-⬇️ [[12-giardino-mamma]] 
+⬇️ [12-giardino-mamma](12-giardino-mamma.md) 
 
 #TODO_disegno coccole

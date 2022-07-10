@@ -5,10 +5,10 @@ area: Orto
 # 29
 _Quanti pomodori!_
 
-🔍 POMODORO [[209-orto-pomodoro-OGGETTO]]
+🔍 POMODORO [209-orto-pomodoro-OGGETTO](209-orto-pomodoro-OGGETTO.md)
 
-🔍ZUCCHINE [[11-orto-zucchine]]
+🔍ZUCCHINE [11-orto-zucchine](11-orto-zucchine.md)
 
-⬇️ [[49-orto]]
+⬇️ [49-orto](49-orto.md)
 
-![[foto_31.jpg]]
+![foto_31](_assets/preview/foto_31.jpg)

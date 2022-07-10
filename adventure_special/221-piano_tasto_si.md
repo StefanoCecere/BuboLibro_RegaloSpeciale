@@ -8,4 +8,4 @@ class: error
 #MALUS -1: SBAGLIATO!
 questo è un SI, non un DO
 
-⬇️ [[201-tasti-pianoforte]]
+⬇️ [201-tasti-pianoforte](201-tasti-pianoforte.md)

@@ -7,6 +7,6 @@ _HAI TROVATO DELLE UOVA DI TARTARUGA!_
 
 **#BONUS +1**
 
-🔍 [[219-orto-prendi-uova-MALUS]]
+🔍 [219-orto-prendi-uova-MALUS](219-orto-prendi-uova-MALUS.md)
 
-⬇️ [[13-orto-carciofi]]
+⬇️ [13-orto-carciofi](13-orto-carciofi.md)

@@ -7,4 +7,4 @@ _LAVO IL POMODORO!_
 
 **#BONUS +1**
 
-⬇️ [[99-orto-usa-pilozzo]]
+⬇️ [99-orto-usa-pilozzo](99-orto-usa-pilozzo.md)

@@ -7,4 +7,4 @@ _BRAVO! quando si rientra da fuori è bene lavarsi le mani_
 
 **#BONUS +1**
 
-⬇️ [[88-bagno-lavandino]]
+⬇️ [88-bagno-lavandino](88-bagno-lavandino.md)

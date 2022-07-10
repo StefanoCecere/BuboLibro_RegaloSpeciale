@@ -8,4 +8,4 @@ _BRAVO! questo è un DO_
 
 #BONUS +1
 
-⬇️ [[103-casa-pianoforte]]
+⬇️ [103-casa-pianoforte](103-casa-pianoforte.md)

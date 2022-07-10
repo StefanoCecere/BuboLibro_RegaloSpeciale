@@ -9,6 +9,6 @@ IL PAPÀ TI HA BRONTOLATO!_
 
 **#MALUS -2**
 
-⬇️[[71-cortile-su_tetto_baracchina]] 
+⬇️[71-cortile-su_tetto_baracchina](71-cortile-su_tetto_baracchina.md) 
 
-![[foto_95.jpg]]
+![foto_95](_assets/preview/foto_95.jpg)

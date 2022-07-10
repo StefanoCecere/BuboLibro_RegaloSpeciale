@@ -9,4 +9,4 @@ _Devi usare il casco quando vai sul monopattino!_
 
 **#MALUS -1**
 
-⬇️ [[39-giardino-monopattino]]
+⬇️ [39-giardino-monopattino](39-giardino-monopattino.md)

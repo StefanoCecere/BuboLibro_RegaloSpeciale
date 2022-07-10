@@ -6,10 +6,10 @@ class: enigma
 # 103
 _Il papà suona sempre il piano_
 
-🔍 [[201-tasti-pianoforte]]
+🔍 [201-tasti-pianoforte](201-tasti-pianoforte.md)
 
-🔍 [[54-casa-tv]]
+🔍 [54-casa-tv](54-casa-tv.md)
 
-⬇️ [[43-casa-sul_divano]]
+⬇️ [43-casa-sul_divano](43-casa-sul_divano.md)
 
-![[foto_143.jpg]]
+![foto_143](_assets/preview/foto_143.jpg)

@@ -5,10 +5,10 @@ area: Casa
 # 85
 _la dispensa!_
 
-🔍 [[222-casa-credenza-MALUS]]
+🔍 [222-casa-credenza-MALUS](222-casa-credenza-MALUS.md)
 
-⬅️ [[104-cucina-finestra]]
+⬅️ [104-cucina-finestra](104-cucina-finestra.md)
 
-⬇️ [[44-cucina-il tavolo]]
+⬇️ [44-cucina-il tavolo](44-cucina-il%20tavolo.md)
 
-![[foto_117.jpg]]
+![foto_117](_assets/preview/foto_117.jpg)

@@ -8,6 +8,6 @@ _Questo legno può bruciare bene!_
 
 #INVENTARIO: LEGNO
 
-⬇️ [[65-baracchina]]
+⬇️ [65-baracchina](65-baracchina.md)
 
 #TODO_disegno

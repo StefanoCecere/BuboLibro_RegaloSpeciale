@@ -8,5 +8,5 @@ _Non dovevi toccare i bastoni appuntiti!_
 
 **#MALUS: -1**
 
-⬇️ [[94-orto-i bastoni]]
+⬇️ [94-orto-i bastoni](94-orto-i%20bastoni.md)
 

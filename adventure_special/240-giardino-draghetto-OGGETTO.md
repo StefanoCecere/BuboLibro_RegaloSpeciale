@@ -9,6 +9,6 @@ _HAI TROVATO UN DRAGHETTO!! CHE BELLINO_
 
 #INVENTARIO DRAGHETTO
 
-⬇️ [[28-giardino-buco_buio]]
+⬇️ [28-giardino-buco_buio](28-giardino-buco_buio.md)
 
 #TODO_disegno draghetto

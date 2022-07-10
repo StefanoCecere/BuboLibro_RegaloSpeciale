@@ -5,12 +5,12 @@ area: cortile
 # 66
 _in fondo al cortile_
 
-🔍TAVOLO [[226-cortile-tavolo_gancio-OGGETTO]]
+🔍TAVOLO [226-cortile-tavolo_gancio-OGGETTO](226-cortile-tavolo_gancio-OGGETTO.md)
 
-🔍TRATTORE [[95-cortile-trattore]]
+🔍TRATTORE [95-cortile-trattore](95-cortile-trattore.md)
 
-➡️ [[77-cortile-scivolo]]
+➡️ [77-cortile-scivolo](77-cortile-scivolo.md)
 
-⬇️[[64-cortile]] 
+⬇️[64-cortile](64-cortile.md) 
 
-![[foto_40.jpg]]
+![foto_40](_assets/preview/foto_40.jpg)

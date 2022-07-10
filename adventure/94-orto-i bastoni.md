@@ -6,8 +6,8 @@ class:
 # 94
 _i bastoni appuntiti per l'orto_
 
-🔍 [[216-orto-bastoni-MALUS]]
+🔍 [216-orto-bastoni-MALUS](216-orto-bastoni-MALUS.md)
 
-⬇️ [[15-orto-lavatrice]]
+⬇️ [15-orto-lavatrice](15-orto-lavatrice.md)
 
-![[foto_37.jpg]]
+![foto_37](_assets/preview/foto_37.jpg)
