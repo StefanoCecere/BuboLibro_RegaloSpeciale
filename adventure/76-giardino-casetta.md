@@ -3,7 +3,7 @@ title: casetta
 area: giardino
 ---
 # 76
-_la casetta dei giochi_
+LA CASETTA DEI GIOCHI
 
 ⬆️ [23-giardino-siepe_4](23-giardino-siepe_4.md)
 

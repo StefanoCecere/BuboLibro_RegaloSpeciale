@@ -3,7 +3,7 @@ title: giardino ovest
 area: giardino
 ---
 # 7
-_Sono in mezzo al giardino_
+SONO IN MEZZO AL GIARDINO
 
 ⬆️ [27-giardino-le piante](27-giardino-le%20piante.md)
 

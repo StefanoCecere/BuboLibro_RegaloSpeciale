@@ -3,7 +3,7 @@ title: forno spento
 area: Casa
 ---
 # 218
-_WOW HAI TROVATO DELLE CROSTAT..INE_
+WOW HAI TROVATO DELLE CROSTAT..INE
 
 **#BONUS +1**
 

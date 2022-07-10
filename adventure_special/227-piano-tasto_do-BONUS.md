@@ -4,7 +4,7 @@ area: Casa
 class: bonus
 ---
 # 227
-_BRAVO! questo è un DO_
+BRAVO! questo è un DO
 
 #BONUS +1
 

@@ -3,7 +3,7 @@ title: uva cortile
 area: cortile
 ---
 # 70
-_UVA buona.. ma non ci arrivo_
+UVA BUONA.. MA NON CI ARRIVO
 
 ⬇️ [71-cortile-su_tetto_baracchina](71-cortile-su_tetto_baracchina.md)
 

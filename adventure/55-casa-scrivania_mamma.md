@@ -3,7 +3,7 @@ title:la scrivania della mamma
 area:Casa
 ---
 # 55
-_Qui è dove la mamma usa il computer_
+QUI È DOVE LA MAMMA USA IL COMPUTER
 
 ⬇️ [45-casa-davanti_bagno](45-casa-davanti_bagno.md)
 

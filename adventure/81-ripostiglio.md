@@ -3,7 +3,7 @@ title: ripostiglio
 area: camerina
 ---
 # 81
-_ahh il rispostiglio!_
+AHH IL RISPOSTIGLIO!
 
 🔍 [36-quadro_dinosauri](36-quadro_dinosauri.md)
 

@@ -3,7 +3,7 @@ title: salgo le scale
 area:Casa
 ---
 # 73
-_Ci sono un sacco di gradini_
+CI SONO UN SACCO DI GRADINI
 
 ⬆️ [53-camera](53-camera.md)
 

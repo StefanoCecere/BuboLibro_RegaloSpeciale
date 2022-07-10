@@ -3,8 +3,8 @@ title: in mezzo al giardino
 area: giardino
 ---
 # 19
-_Da qui vedo bene tutto il giardino
-(Mi sento un po’ osservato...)_
+DA QUI VEDO BENE TUTTO IL GIARDINO
+(MI SENTO UN PO’ OSSERVATO...)
 
 🔍POMPA [17-giardino-pompa](17-giardino-pompa.md)
 

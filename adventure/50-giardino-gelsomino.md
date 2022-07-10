@@ -3,7 +3,7 @@ title:il gelsomino
 area:Giardino
 ---
 # 50
-_Che profumo il gelsomino!_
+CHE PROFUMO IL GELSOMINO!
 
 ⬇️[27-giardino-le piante](27-giardino-le%20piante.md) 
 

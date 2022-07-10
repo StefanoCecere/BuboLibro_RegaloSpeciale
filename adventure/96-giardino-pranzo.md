@@ -3,7 +3,7 @@ title: pranzo in giardino
 area: giardino
 ---
 # 96
-_AHH CHE BEI PRANZETTI IN GIARDINO CHE MI RICORDO_
+AHH CHE BEI PRANZETTI IN GIARDINO CHE MI RICORDO
 
 ⬇️ [16-giardino-tavolo](16-giardino-tavolo.md)
 

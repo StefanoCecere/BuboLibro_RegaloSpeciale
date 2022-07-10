@@ -4,7 +4,7 @@ area: orto
 class: 
 ---
 # 101
-_MA QUI C'E' UN PASSAGGIO SEGRETO_
+MA QUI C'E' UN PASSAGGIO SEGRETO
 
 ⬆️ [204-luogo_segreto-BONUS](204-luogo_segreto-BONUS.md)
 

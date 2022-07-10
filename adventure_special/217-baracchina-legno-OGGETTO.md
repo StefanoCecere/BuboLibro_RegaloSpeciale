@@ -4,7 +4,7 @@ area: Giardino
 class: oggetto
 ---
 # 217
-_Questo legno può bruciare bene!_
+QUESTO LEGNO PUÒ BRUCIARE BENE!
 
 #INVENTARIO: LEGNO
 

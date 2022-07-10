@@ -4,8 +4,8 @@ area: baracchina
 class: 
 ---
 # 65
-_dentro la baracchina che bello
-Noooo vedo un topo vivo!_
+DENTRO LA BARACCHINA CHE BELLO
+NOOOO VEDO UN TOPO VIVO!
 
 🔍 [86-baracchina-topo](86-baracchina-topo.md)
 

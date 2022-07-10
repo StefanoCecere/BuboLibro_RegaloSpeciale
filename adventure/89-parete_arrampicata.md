@@ -3,7 +3,7 @@ title: Parete Arrampicata
 area: Giardino
 ---
 # 89
-_wow! la Parete da arrampicata di Tato_
+WOW! LA PARETE DA ARRAMPICATA DI TATO
 
 🔍 [90-domanda_ganci](90-domanda_ganci.md)
 

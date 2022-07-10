@@ -3,7 +3,7 @@ title: gioco zanzare
 area: gioco
 ---
 # 230
-_#GIOCO collega tutte le zanzare_
+#GIOCO COLLEGA TUTTE LE ZANZARE
 
 ⬇️ [14-giardino-compost](14-giardino-compost.md)
 

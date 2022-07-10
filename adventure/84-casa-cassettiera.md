@@ -3,7 +3,7 @@ title:la cassettiera
 area:Casa
 ---
 # 84
-_Vediamo cosa c'è nel cassetto_
+VEDIAMO COSA C'È NEL CASSETTO
 
 🔍 [74-casa-cassettone_aperto](74-casa-cassettone_aperto.md)
 

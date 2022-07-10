@@ -3,7 +3,7 @@ title: batteria
 area: casa
 ---
 # 80
-_la batteria che suoniamo!_
+LA BATTERIA CHE SUONIAMO!
 
 ⬆️ [93-mobile-microonde](93-mobile-microonde.md)
 

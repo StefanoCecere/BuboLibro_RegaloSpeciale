@@ -3,7 +3,7 @@ title: il canestro
 area: Giardino
 ---
 # 31
-_Sai giocare anche tu a pallacanestro?_
+SAI GIOCARE ANCHE TU A PALLACANESTRO?
 
 🔍 [223-giardino-canestro-GIOCO](223-giardino-canestro-GIOCO.md)
 

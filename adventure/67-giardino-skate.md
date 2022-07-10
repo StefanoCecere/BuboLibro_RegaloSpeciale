@@ -3,7 +3,7 @@ title: skate
 area: giardino
 ---
 # 67
-_vorrei imparare ad andarci_
+VORREI IMPARARE AD ANDARCI
 
 ⬇️[34-giardino-giochi](34-giardino-giochi.md)
 

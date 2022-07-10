@@ -3,7 +3,7 @@ title: lattughe
 area: Orto
 ---
 # 106
-_Non ci sono molte lattughe_
+NON CI SONO MOLTE LATTUGHE
 
 ⬆️ [13-orto-carciofi](13-orto-carciofi.md)
 

@@ -3,7 +3,7 @@ title: l'armadio
 area: camera
 ---
 # 87
-_Ci sono un sacco di vestiti_
+CI SONO UN SACCO DI VESTITI
 
 ⬅️ [60-camera-cassetti](60-camera-cassetti.md)
 

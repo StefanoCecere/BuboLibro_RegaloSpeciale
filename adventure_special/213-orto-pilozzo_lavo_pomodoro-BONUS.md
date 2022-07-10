@@ -3,7 +3,7 @@ title: lavo il pomodoro
 area: Casa
 ---
 # 213
-_LAVO IL POMODORO!_
+LAVO IL POMODORO!
 
 **#BONUS +1**
 

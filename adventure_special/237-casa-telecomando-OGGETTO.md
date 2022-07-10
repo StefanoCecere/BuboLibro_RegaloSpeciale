@@ -3,7 +3,7 @@ title: telecomando
 area: oggetto
 ---
 # 237
-_ah questo lo perdiamo sempre_
+AH QUESTO LO PERDIAMO SEMPRE
 
 #INVENTARIO telecomando
 

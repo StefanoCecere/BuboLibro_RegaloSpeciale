@@ -3,7 +3,7 @@ title: TV
 area: casa
 ---
 # 54
-_LA TV! MA è SPENTA..._
+LA TV! MA è SPENTA...
 
 🔍TELECOMANDO [37-casa-tv_accesa](37-casa-tv_accesa.md)
 

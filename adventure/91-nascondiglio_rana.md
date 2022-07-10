@@ -3,7 +3,7 @@ title: nascondiglio rana
 area: Giardino
 ---
 # 91
-_WOW! hai raggiunto la cima e trovato la Rana!_
+WOW! HAI RAGGIUNTO LA CIMA E TROVATO LA RANA!
 
 🔍USA BASTONE [203-rana-BONUS](203-rana-BONUS.md)
 

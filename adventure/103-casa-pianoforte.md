@@ -4,7 +4,7 @@ area: Casa
 class: enigma
 ---
 # 103
-_Il papà suona sempre il piano_
+IL PAPÀ SUONA SEMPRE IL PIANO
 
 🔍 [201-tasti-pianoforte](201-tasti-pianoforte.md)
 

@@ -3,7 +3,7 @@ title: frigo
 area: Casa
 ---
 # 98
-_QUANDO HO SETE VENGO QUI_
+QUANDO HO SETE VENGO QUI
 
 🔍 [208-cucina-latte-BONUS](208-cucina-latte-BONUS.md)
 

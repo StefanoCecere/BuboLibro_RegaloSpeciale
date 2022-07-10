@@ -3,7 +3,7 @@ title: libri
 area: camerina
 ---
 # 41
-_Questi sono i libri gioco di mio fratello!_
+QUESTI SONO I LIBRI GIOCO DI MIO FRATELLO!
 
 ⬇️ [69-camerina-libreria](69-camerina-libreria.md)
 

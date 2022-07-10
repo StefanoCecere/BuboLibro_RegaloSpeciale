@@ -3,7 +3,7 @@ title: nel cortile
 area: cortile
 ---
 # 64
-_Siamo nel cortile_
+SIAMO NEL CORTILE
 
 ⬆︎ [66-cortile_2](66-cortile_2.md)
 

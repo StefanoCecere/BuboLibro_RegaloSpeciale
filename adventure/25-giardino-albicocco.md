@@ -3,7 +3,7 @@ title:l'albicocco
 area:Giardino
 ---
 # 25
-_Le albicocche non sono ancora mature_
+LE ALBICOCCHE NON SONO ANCORA MATURE
 
 ⬆️ [7-giardino-ovest](7-giardino-ovest.md)
 

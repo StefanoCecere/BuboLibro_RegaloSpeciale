@@ -4,7 +4,7 @@ area: camerina
 class: bonus
 ---
 # 206
-_hai acceso la musica.. ora ti senti meglio!_
+HAI ACCESO LA MUSICA.. ORA TI SENTI MEGLIO!
 
 **#BONUS +2**
 

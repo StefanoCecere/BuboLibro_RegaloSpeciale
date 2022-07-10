@@ -3,7 +3,7 @@ title:in casa
 area:Casa
 ---
 # 10
-_Siamo in casa!_
+SIAMO IN CASA!
 
 🔍DIVANO [43-casa-sul_divano](43-casa-sul_divano.md)
 

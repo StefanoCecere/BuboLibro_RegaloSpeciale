@@ -4,7 +4,7 @@ area: Orto
 class: 
 ---
 # 94
-_i bastoni appuntiti per l'orto_
+I BASTONI APPUNTITI PER L'ORTO
 
 🔍 [216-orto-bastoni-MALUS](216-orto-bastoni-MALUS.md)
 

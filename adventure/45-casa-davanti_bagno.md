@@ -3,7 +3,7 @@ title: verso il bagno
 area: casa
 ---
 # 45
-_Andiamo verso il bagno!_
+ANDIAMO VERSO IL BAGNO!
 
 ⬆️ [56-bagno](56-bagno.md)
 

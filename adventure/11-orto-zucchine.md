@@ -3,7 +3,7 @@ title:zucchine
 area:Orto
 ---
 # 11
-_Non mi piacciono molto le zucchine_
+NON MI PIACCIONO MOLTO LE ZUCCHINE
 
 ⬆️ [106-orto-lattughe](106-orto-lattughe.md)
 

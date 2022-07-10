@@ -4,7 +4,7 @@ area: Casa
 class: oggetto
 ---
 # 93
-_Cosa c'è vicino al microonde?_
+COSA C'È VICINO AL MICROONDE?
 
 🔍 [205-casa-scaffale_chiave-OGGETTO](205-casa-scaffale_chiave-OGGETTO.md)
 

@@ -3,7 +3,7 @@ title:la lavatrice
 area:Orto
 ---
 # 15
-_Sta ancora lavando i vestiti_
+STA ANCORA LAVANDO I VESTITI
 
 🔍  [97-orto-lavatrice_apri](97-orto-lavatrice_apri.md)
 

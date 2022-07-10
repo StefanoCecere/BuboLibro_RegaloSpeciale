@@ -3,7 +3,7 @@ title: racchetta
 area: oggetto
 ---
 # 236
-_questa è la migliore nemica delle zanzare!_
+QUESTA È LA MIGLIORE NEMICA DELLE ZANZARE!
 
 #INVENTARIO racchetta
 

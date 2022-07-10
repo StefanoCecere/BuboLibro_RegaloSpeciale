@@ -3,7 +3,7 @@ title: la libreria
 area: camerina
 ---
 # 69
-_Tutti i nostri libri!_
+TUTTI I NOSTRI LIBRI!
 
 🔍 [41-camerina-libri](41-camerina-libri.md)
 

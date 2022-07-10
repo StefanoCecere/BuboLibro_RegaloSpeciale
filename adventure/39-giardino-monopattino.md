@@ -3,7 +3,7 @@ title: il monopattino
 area: giardino
 ---
 # 39
-_per andare in monopattino serve sempre il CASCO_
+PER ANDARE IN MONOPATTINO SERVE SEMPRE IL CASCO
 
 🔍 [235-giardino-monopattino-MALUS](235-giardino-monopattino-MALUS.md)
 

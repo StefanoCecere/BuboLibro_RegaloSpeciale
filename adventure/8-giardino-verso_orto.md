@@ -3,7 +3,7 @@ title:verso l'orto
 area: giardino
 ---
 # 8
-_Andiamo verso l'orto_
+ANDIAMO VERSO L'ORTO
 
 🔍BICI [2-giardino-bici_tato](2-giardino-bici_tato.md)
 

@@ -4,7 +4,7 @@ area: Casa
 class: vittoria
 ---
 # 107
-_Hai trovato il regalo!_
+HAI TROVATO IL REGALO!
 
 ### HAI VINTO!
 

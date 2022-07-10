@@ -3,7 +3,7 @@ title:carciofi
 area:Orto
 ---
 # 13
-_I carciofi hanno dei bei fiori_
+I CARCIOFI HANNO DEI BEI FIORI
 
 🔍 [214-orto-uova-BONUS](214-orto-uova-BONUS.md)
 

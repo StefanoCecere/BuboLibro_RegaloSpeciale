@@ -3,7 +3,7 @@ title:le piante
 area:Giardino
 ---
 # 27
-_Qui una volta si faceva la grigliata_
+QUI UNA VOLTA SI FACEVA LA GRIGLIATA
 
 🔍 [50-giardino-gelsomino](50-giardino-gelsomino.md)
 

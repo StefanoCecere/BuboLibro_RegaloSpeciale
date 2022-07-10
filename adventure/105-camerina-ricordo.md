@@ -3,7 +3,7 @@ title: il ricordo
 area: camerina
 ---
 # 105
-_Ricordo che qui fratellone ha scritto questa pagina_
+RICORDO CHE QUI FRATELLONE HA SCRITTO QUESTA PAGINA
 
 ⬇️ [46-camerina-scrivania](46-camerina-scrivania.md)
 

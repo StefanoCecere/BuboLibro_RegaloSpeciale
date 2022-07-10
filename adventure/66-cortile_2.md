@@ -3,7 +3,7 @@ title: il tavolino
 area: cortile
 ---
 # 66
-_in fondo al cortile_
+IN FONDO AL CORTILE
 
 🔍TAVOLO [226-cortile-tavolo_gancio-OGGETTO](226-cortile-tavolo_gancio-OGGETTO.md)
 

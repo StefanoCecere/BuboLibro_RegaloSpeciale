@@ -4,7 +4,7 @@ area: camerina
 class: 
 ---
 # 79
-_Fratellone non vuole che tu stia qui, lo sai!_
+FRATELLONE NON VUOLE CHE TU STIA QUI, LO SAI!
 
 🔍 [225-camerina_lettone_MALUS](225-camerina_lettone_MALUS.md)
 

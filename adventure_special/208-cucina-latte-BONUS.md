@@ -3,7 +3,7 @@ title: frigo
 area: Casa
 ---
 # 208
-_AHH CHE BUONO!_
+AHH CHE BUONO!
 
 **#BONUS +1**
 

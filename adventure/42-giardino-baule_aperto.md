@@ -3,7 +3,7 @@ title: baule aperto
 area: giardino
 ---
 # 42
-_L'ho aperto! cosa c'è dentro?_
+L'HO APERTO! COSA C'È DENTRO?
 
 🔍 [233-giardino-baule-MALUS](233-giardino-baule-MALUS.md)
 

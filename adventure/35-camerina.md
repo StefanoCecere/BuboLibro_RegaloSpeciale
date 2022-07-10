@@ -3,7 +3,7 @@ title: camerina
 area: Casa
 ---
 # 35
-_La nostra camerina_
+LA NOSTRA CAMERINA
 
 ⬅️ [46-camerina-scrivania](46-camerina-scrivania.md)
 

@@ -3,7 +3,7 @@ title: davanti al prato
 area: giardino
 ---
 # 20
-_Qui è dove gioco quando non piove_
+QUI È DOVE GIOCO QUANDO NON PIOVE
 
 🔍BAULE [82-giardino-baule](82-giardino-baule.md)
 

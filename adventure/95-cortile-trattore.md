@@ -3,7 +3,7 @@ title:il trattore
 area: cortile
 ---
 # 95
-_Questo è il mio trattore_
+QUESTO È IL MIO TRATTORE
 
 👀 [207-cortile-bici_baby-BONUS](207-cortile-bici_baby-BONUS.md)
 

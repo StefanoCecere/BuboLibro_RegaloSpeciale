@@ -3,7 +3,7 @@ title: tartaruga sul prato
 area: giardino
 ---
 # 232
-_Ma guarda un po'!_
+MA GUARDA UN PO'!
 
 #BONUS +1
 

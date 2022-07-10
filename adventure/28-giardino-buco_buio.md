@@ -4,8 +4,7 @@ area: Giardino
 class: 
 ---
 # 28
-
-_NON SI VEDE NIENTE_
+NON SI VEDE NIENTE
 
 HAI LA TORCIA ELETTRICA? [240-giardino-draghetto-OGGETTO](240-giardino-draghetto-OGGETTO.md)
 

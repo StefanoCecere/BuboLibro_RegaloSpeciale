@@ -3,7 +3,7 @@ title: torcia elettrica
 area: oggetto
 ---
 # 241
-_potrebbe tornarmi utile in zone buie_
+POTREBBE TORNARMI UTILE IN ZONE BUIE
 
 #INVENTARIO torcia elettrica
 

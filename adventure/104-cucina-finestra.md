@@ -3,7 +3,7 @@ title: la finesta della cucina
 area: cucina
 ---
 # 104
-_la frutta!_
+LA FRUTTA!
 
 🔍 [220-cucina-uva-BONUS](220-cucina-uva-BONUS.md)
 

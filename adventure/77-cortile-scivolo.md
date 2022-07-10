@@ -3,7 +3,7 @@ title: lo scivolo
 area: cortile
 ---
 # 77
-_Mi piace un sacco andare sullo scivolo_
+MI PIACE UN SACCO ANDARE SULLO SCIVOLO
 
 ⬅️ [66-cortile_2](66-cortile_2.md)
 

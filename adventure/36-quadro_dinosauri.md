@@ -3,7 +3,7 @@ title: quadro dinosauri
 area: Casa
 ---
 # 36
-_sembrano veri vero?_
+SEMBRANO VERI VERO?
 
 ⬇️ [81-ripostiglio](81-ripostiglio.md)
 

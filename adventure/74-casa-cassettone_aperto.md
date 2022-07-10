@@ -3,7 +3,7 @@ title:il cassettone aperto
 area:Casa
 ---
 # 74
-_Non c'è niente!_
+NON C'È NIENTE!
 
 ⬇️ [84-casa-cassettiera](84-casa-cassettiera.md)
 

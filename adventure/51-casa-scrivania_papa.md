@@ -3,7 +3,7 @@ title:la scrivania del papà
 area:Casa
 ---
 # 51
-_La scrivania del papà è sempre piena di giochi e libri_
+LA SCRIVANIA DEL PAPÀ È SEMPRE PIENA DI GIOCHI E LIBRI
 
 ⬆️ [52-casa-cucina](52-casa-cucina.md)
 

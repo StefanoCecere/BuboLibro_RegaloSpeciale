@@ -3,7 +3,7 @@ title: mamma aiuto mappa
 area: giardino
 ---
 # 231
-_AHH VA BEH eccoti una mappa_
+AHH VA BEH ECCOTI UNA **MAPPA**
 
 #INVENTARIO mappa
 

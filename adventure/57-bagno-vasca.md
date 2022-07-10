@@ -4,7 +4,7 @@ area: Casa
 class:
 ---
 # 57
-_LA VASCA DOVE FACCIO IL BAGNETTO_
+LA VASCA DOVE FACCIO IL BAGNETTO
 
 🔍 [242-bagno-dentro_la_vasca-MALUS](242-bagno-dentro_la_vasca-MALUS.md)
 

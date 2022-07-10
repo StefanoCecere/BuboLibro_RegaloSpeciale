@@ -3,7 +3,7 @@ title: il tuo letto
 area: camerina
 ---
 # 38
-_Il mio lettino_
+IL MIO LETTINO
 
 🔍[241-camerina-torcia_elettrica-OGGETTO](241-camerina-torcia_elettrica-OGGETTO.md)
 

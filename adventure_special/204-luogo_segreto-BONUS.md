@@ -4,7 +4,7 @@ area: special
 class: bonus
 ---
 # 204
-_MA SONO NEL GIARDINO SEGRETO!_
+MA SONO NEL GIARDINO SEGRETO!
 
 mi sento benissimo
 

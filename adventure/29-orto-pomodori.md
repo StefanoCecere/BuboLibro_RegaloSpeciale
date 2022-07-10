@@ -3,7 +3,7 @@ title: i pomodori
 area: Orto
 ---
 # 29
-_Quanti pomodori!_
+QUANTI POMODORI!
 
 🔍 POMODORO [209-orto-pomodoro-OGGETTO](209-orto-pomodoro-OGGETTO.md)
 

@@ -3,7 +3,7 @@ title: pomodoro
 area: orto
 ---
 # 209
-_IL POMODORO FA BENE_
+IL POMODORO FA BENE
 
 #INVENTARIO POMODORO
 

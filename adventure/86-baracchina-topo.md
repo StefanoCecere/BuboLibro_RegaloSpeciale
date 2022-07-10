@@ -3,7 +3,7 @@ title: il topo
 area: Giardino
 ---
 # 86
-_E' scappato dentro la legna_
+E' SCAPPATO DENTRO LA LEGNA
 
 PRENDI LEGNO [217-baracchina-legno-OGGETTO](217-baracchina-legno-OGGETTO.md)
 

@@ -3,7 +3,7 @@ title: orcio
 area: Giardino
 ---
 # 62
-_che grande vaso!_
+CHE GRANDE VASO!
 
 🔍 [210-giardino-orcio_gancio-OGGETTO](210-giardino-orcio_gancio-OGGETTO.md)
 

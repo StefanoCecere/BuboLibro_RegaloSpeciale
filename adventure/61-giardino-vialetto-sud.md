@@ -3,7 +3,7 @@ title: verso il cortile
 area: Giardino
 ---
 # 61
-_Da qui vedo molte cose!_
+DA QUI VEDO MOLTE COSE!
 
 🔍 [62-giardino-orcio](62-giardino-orcio.md)
 

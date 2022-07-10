@@ -12,4 +12,4 @@ _#GIOCO DOMANDA: quale è il DO?_
 
 ⬇️[103-casa-pianoforte](103-casa-pianoforte.md)
 
-![foto_79](_assets/preview/foto_79.jpg)
+![](../_assets/special/pianoforte.jpg)

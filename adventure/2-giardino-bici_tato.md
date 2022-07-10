@@ -3,7 +3,7 @@ title: bici di tato
 area: giardino
 ---
 # 2
-_Questa è la bici di Tato!_
+QUESTA È LA BICI DI TATO!
 
 ⬇️ [8-giardino-verso_orto](8-giardino-verso_orto.md)
 

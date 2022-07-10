@@ -3,7 +3,7 @@ title: gancio sul tavolino
 area: cortile
 ---
 # 226
-_hai trovato un gancio da arrampicata!_
+HAI TROVATO UN GANCIO DA ARRAMPICATA!
 
 #INVENTARIO: GANCIO
 

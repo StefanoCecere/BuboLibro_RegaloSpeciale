@@ -3,7 +3,7 @@ title: forno
 area: Casa
 ---
 # 100
-_IL FORNO E' ACCESO!_
+IL FORNO E' ACCESO!
 
 🔍 [202-cucina-forno-MALUS](202-cucina-forno-MALUS.md)
 

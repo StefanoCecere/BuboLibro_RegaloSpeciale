@@ -3,7 +3,7 @@ title: la poltrona
 area: casa
 ---
 # 75
-_Qui è dove il papà si riposa sempre_
+QUI È DOVE IL PAPÀ SI RIPOSA SEMPRE
 
 ⬅️ [51-casa-scrivania_papa](51-casa-scrivania_papa.md)
 

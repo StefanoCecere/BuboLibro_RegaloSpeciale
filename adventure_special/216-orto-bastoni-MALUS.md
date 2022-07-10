@@ -4,7 +4,7 @@ area: Orto
 class: malus
 ---
 # 216
-_Non dovevi toccare i bastoni appuntiti!_
+NON DOVEVI TOCCARE I BASTONI APPUNTITI!
 
 **#MALUS: -1**
 

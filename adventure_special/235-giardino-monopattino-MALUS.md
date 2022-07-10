@@ -5,7 +5,7 @@ class: malus
 ---
 # 235
 
-_Devi usare il casco quando vai sul monopattino!_
+DEVI USARE IL CASCO QUANDO VAI SUL MONOPATTINO!
 
 **#MALUS -1**
 

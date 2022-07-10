@@ -3,7 +3,7 @@ title: mangiatoia
 area: giardino
 ---
 # 22
-_Qui mangiano le mie quattro tartarughe_
+QUI MANGIANO LE MIE QUATTRO TARTARUGHE
 
 ⬅️ [24-giardino-siepe_3](24-giardino-siepe_3.md)
 

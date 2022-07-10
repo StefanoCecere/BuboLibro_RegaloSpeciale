@@ -3,7 +3,7 @@ title:in bagno
 area:Casa
 ---
 # 56
-_Non c'è nessuno in bagno_
+NON C'È NESSUNO IN BAGNO
 
 🔍[57-bagno-vasca](57-bagno-vasca.md)
 

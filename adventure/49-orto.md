@@ -3,7 +3,7 @@ title: nell'orto
 area: orto
 ---
 # 49
-_Siamo nell'orto_
+SIAMO NELL'ORTO
 
 🔍 [29-orto-pomodori](29-orto-pomodori.md)
 

@@ -4,7 +4,7 @@ area: Giardino
 class: bonus
 ---
 # 203
-_con il bastone aiuti la rana ad uscire_
+CON IL BASTONE AIUTI LA RANA AD USCIRE
 
 ### HAI SALVATO LA RANA!
 

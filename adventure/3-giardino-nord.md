@@ -3,8 +3,8 @@ title: davanti casa
 area: giardino
 ---
 # 3
-_Sei davanti casa.
-dove vai?_
+SEI DAVANTI CASA.
+DOVE VAI?
 
 ⬆︎ [10-casa-in_casa](10-casa-in_casa.md)
 
@@ -14,4 +14,5 @@ dove vai?_
 
 ⬇️ [5-giardino-sud](5-giardino-sud.md) 
 
-![foto_6](_assets/preview/foto_6.jpg)
+
+![](../_assets/loc/loc-casa-daventi.jpg)

@@ -3,7 +3,7 @@ title: il tavolo della cucina
 area: Casa
 ---
 # 44
-_Qui è dove si mangia tuuuttttii i giorni_
+QUI È DOVE SI MANGIA TUUUTTTTII I GIORNI
 
 ⬅️ [85-cucina-credenza](85-cucina-credenza.md)
 

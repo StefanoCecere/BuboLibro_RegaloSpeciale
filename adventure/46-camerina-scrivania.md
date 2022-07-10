@@ -3,7 +3,7 @@ title: la scrivania
 area: camerina
 ---
 # 46
-_La scrivania per studiare_
+LA SCRIVANIA PER STUDIARE
 
 🔍RICORDA [105-camerina-ricordo](105-camerina-ricordo.md)
 

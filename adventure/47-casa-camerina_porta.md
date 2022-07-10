@@ -3,8 +3,8 @@ title: camerina porta
 area: casa
 ---
 # 47
-_ANDIAMO IN CAMERINA?
-SENZA LE SCARPE EH_
+ANDIAMO IN CAMERINA?
+SENZA LE SCARPE EH
 
 ⬆️ [35-camerina](35-camerina.md)
 

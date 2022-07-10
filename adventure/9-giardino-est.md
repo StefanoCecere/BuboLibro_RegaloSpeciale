@@ -3,7 +3,7 @@ title: in giardino verso est
 area: giardino
 ---
 # 9
-_questo giardino è proprio bellissimo, vero?_
+QUESTO GIARDINO È PROPRIO BELLISSIMO, VERO?
 
 ⬅️ [30-giardino-salvia](30-giardino-salvia.md)
 

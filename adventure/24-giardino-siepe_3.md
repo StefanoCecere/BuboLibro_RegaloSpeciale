@@ -3,7 +3,7 @@ title: siepe 3: la statua
 area: giardino
 ---
 # 24
-_Sembra una normale statua_
+SEMBRA UNA NORMALE STATUA
 
 🔍[245-special-occhini-BONUS](245-special-occhini-BONUS.md)
 

@@ -4,7 +4,7 @@ area:Casa
 class:morte
 ---
 # 222
-_Nooo hai fatto cadere tutti i piatti!_
+NOOO HAI FATTO CADERE TUTTI I PIATTI!
 
 **#MALUS -1**
 

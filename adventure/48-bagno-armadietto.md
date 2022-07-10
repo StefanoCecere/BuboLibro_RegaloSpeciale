@@ -3,7 +3,7 @@ title: armadietto
 area: bagno
 ---
 # 48
-_Vuoi lavare il pavimento?_
+VUOI LAVARE IL PAVIMENTO?
 
 ⬇️ [88-bagno-lavandino](88-bagno-lavandino.md)
 

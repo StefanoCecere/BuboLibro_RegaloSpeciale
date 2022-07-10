@@ -3,7 +3,7 @@ title: compost
 area: giardino
 ---
 # 14
-_Questo è il nostro COMPOST. dove il rifiuto prende vita_
+QUESTO È IL NOSTRO COMPOST. DOVE IL RIFIUTO PRENDE VITA
 
 🔍 [59-giardino-compost_aperto](59-giardino-compost_aperto.md)
 

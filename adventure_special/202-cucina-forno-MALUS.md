@@ -4,7 +4,7 @@ area: cucina
 class: malus
 ---
 # 202
-_LO SAI CHE IL FORNO ACCESO NON SI TOCCA!_
+LO SAI CHE IL FORNO ACCESO NON SI TOCCA!
 
 **#MALUS -1**
 

@@ -3,7 +3,7 @@ title: special occhini
 area: special
 ---
 # 245
-_BRAVO! MI HAI TROVATO!_
+BRAVO! MI HAI TROVATO!
 
 #BONUS +1
 

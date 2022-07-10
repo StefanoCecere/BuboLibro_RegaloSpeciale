@@ -3,7 +3,7 @@ title: sul tetto
 area: cortile
 ---
 # 71
-_Che bello qui sul tettino.. è PERICOLOSO però_
+CHE BELLO QUI SUL TETTINO.. È PERICOLOSO PERÒ
 
 🔍 [70-cortile-uva](70-cortile-uva.md)
 

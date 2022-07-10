@@ -3,8 +3,8 @@ title: il lettone
 area: camera
 ---
 # 58
-_HO TROVATO UNO SCRIGNO.. MA È CHIUSO!
-HAI LA CHIAVE?_
+HO TROVATO UNO SCRIGNO.. MA È CHIUSO!
+HAI LA CHIAVE?
 
 USO LA CHIAVE[107-casa-regalo-VITTORIA](107-casa-regalo-VITTORIA.md)
 

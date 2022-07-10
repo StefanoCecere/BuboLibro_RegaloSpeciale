@@ -3,7 +3,7 @@ title: dietro orcio
 area: giardino
 ---
 # 33
-_un angolino proprio ben nascosto_
+UN ANGOLINO PROPRIO BEN NASCOSTO
 
 ⬇️ [20-giardino-prato](20-giardino-prato.md)
 

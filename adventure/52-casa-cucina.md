@@ -3,7 +3,7 @@ title: la cucina
 area: Casa
 ---
 # 52
-_So solo cucinare le uova_
+SO SOLO CUCINARE LE UOVA
 
 🔍ANTA [102-cucina-anta](102-cucina-anta.md)
 

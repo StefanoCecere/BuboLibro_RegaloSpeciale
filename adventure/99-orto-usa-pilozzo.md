@@ -3,7 +3,7 @@ title: usa pilozzo
 area: Orto
 ---
 # 99
-_COSA VUOI FARE CON IL PILOZZO?_
+COSA VUOI FARE CON IL LAVANDINO?
 
 🔍 [211-orto-pilozzo_lavo_mani-BONUS](211-orto-pilozzo_lavo_mani-BONUS.md)
 

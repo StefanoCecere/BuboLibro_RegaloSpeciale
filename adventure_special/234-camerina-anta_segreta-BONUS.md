@@ -3,7 +3,7 @@ title: nuovi giochi
 area: camerina
 ---
 # 234
-_HAI TROVATO UN GIOCO NUOVO!_
+HAI TROVATO UN GIOCO NUOVO!
 
 **#BONUS +2**
 

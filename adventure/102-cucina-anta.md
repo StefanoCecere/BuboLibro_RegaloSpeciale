@@ -3,7 +3,7 @@ title: dispensa
 area: Casa
 ---
 # 102
-_AHHH i MIEI TE'!_
+AHHH I MIEI TE'!
 
 ⬇️ [52-casa-cucina](52-casa-cucina.md)
 

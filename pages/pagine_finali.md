@@ -8,7 +8,6 @@
 prima si pensa ad una storia o ad un'ambientazione.
 si crea una mappa, collegando le varie stanze e mettendoci dei pericoli o degli enigmi.
 Guarda su YouTube il nostro video che lo spiega:
-
  
 # CHI SIAMO
 Stefano e Fabio Cecere

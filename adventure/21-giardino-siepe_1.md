@@ -3,7 +3,7 @@ title: siepe 1
 area: giardino
 ---
 # 21
-_Uno strano vaso_
+UNO STRANO VASO
 
 ⬅️ [22-giardino-siepe_2](22-giardino-siepe_2.md)
 

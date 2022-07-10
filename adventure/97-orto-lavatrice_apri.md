@@ -3,7 +3,7 @@ title: apri la lavatrice
 area: Orto
 ---
 # 97
-_oh oh si è aperta... non vorrai mica entrare vero?_
+OH OH SI È APERTA... NON VORRAI MICA ENTRARE VERO?
 
 ⬆️  [101-orto-dentro_lavatrice](101-orto-dentro_lavatrice.md)
 

@@ -3,7 +3,7 @@ title: uva
 area: cucina
 ---
 # 220
-_UVA BUONISSIMA_
+UVA BUONISSIMA
 
 **#BONUS +1**
 

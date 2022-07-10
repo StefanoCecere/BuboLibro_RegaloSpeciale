@@ -3,7 +3,7 @@ title: divieto
 area: camerina
 ---
 # 26
-_C'è scritto NON SALIRE_
+C'È SCRITTO NON SALIRE
 
 ⬆️ [79-camerina-letto_fratellone](79-camerina-letto_fratellone.md)
 

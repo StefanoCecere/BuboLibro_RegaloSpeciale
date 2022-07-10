@@ -3,7 +3,7 @@ title: armadio giochi
 area: camerina
 ---
 # 78
-_qui ci sono tutti i gioci in scatola!_
+QUI CI SONO TUTTI I GIOCI IN SCATOLA!
 
 🔍 [234-camerina-anta_segreta-BONUS](234-camerina-anta_segreta-BONUS.md)
 

@@ -3,7 +3,7 @@ title: il canestro
 area: Giardino
 ---
 # 223
-_#GIOCO chiudi gli occhi e tira la palla!_
+#GIOCO chiudi gli occhi e tira la palla!
 
 ⬇️ [31-giardino-canestro](31-giardino-canestro.md)
 

@@ -3,7 +3,7 @@ title: skate
 area: giardino
 ---
 # 72
-_qui ci alleniamo a dare i pugni_
+QUI CI ALLENIAMO A DARE I PUGNI
 
 ⬇️[34-giardino-giochi](34-giardino-giochi.md)
 

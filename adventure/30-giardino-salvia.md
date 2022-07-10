@@ -3,7 +3,7 @@ title: la salvia
 area: giardino
 ---
 # 30
-_Usiamo la salvia per cucinare_
+USIAMO LA SALVIA PER CUCINARE
 
 ⬇️ [9-giardino-est](9-giardino-est.md)
 

@@ -3,7 +3,7 @@ title: lavandino
 area: bagno
 ---
 # 88
-_Qui è dove ci laviamo mani e denti_
+QUI È DOVE CI LAVIAMO MANI E DENTI
 
 🔍 [224-bagno-lavo_mani-BONUS](224-bagno-lavo_mani-BONUS.md)
 

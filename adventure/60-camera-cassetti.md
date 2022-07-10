@@ -5,7 +5,7 @@ class:
 ---
 # 60
 
-_I calzini e le mutande di mamma e papà!_
+I CALZINI E LE MUTANDE DI MAMMA E PAPÀ!
 
 ⬇️ [87-camera-armadio](87-camera-armadio.md)
 

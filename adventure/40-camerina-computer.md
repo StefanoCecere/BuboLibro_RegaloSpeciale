@@ -3,7 +3,7 @@ title: il computer
 area: camerina
 ---
 # 40
-_Il computer del fratellone, non so come si usa_
+IL COMPUTER DEL FRATELLONE, NON SO COME SI USA
 
 🔍 [206-camerina-musica-BONUS](206-camerina-musica-BONUS.md)
 

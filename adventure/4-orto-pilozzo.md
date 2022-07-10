@@ -3,7 +3,7 @@ title: pilozzo
 area: Orto
 ---
 # 4
-_Qui c'è il pilozzo e la lavatrice_
+QUI C'È IL LAVANDINO E LA LAVATRICE
 
 🔍 [99-orto-usa-pilozzo](99-orto-usa-pilozzo.md)
 

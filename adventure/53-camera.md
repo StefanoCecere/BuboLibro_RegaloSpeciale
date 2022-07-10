@@ -3,7 +3,7 @@ title: camera di mamma e papà
 area: camera
 ---
 # 53
-_Sono al piano di sopra.. nella camera di mamma e papà_
+SONO AL PIANO DI SOPRA.. NELLA CAMERA DI MAMMA E PAPÀ
 
 🔍 [87-camera-armadio](87-camera-armadio.md)
 

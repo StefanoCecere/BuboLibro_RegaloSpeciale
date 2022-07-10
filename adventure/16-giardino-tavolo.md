@@ -3,7 +3,7 @@ title: tavolo da giardino
 area: giardino
 ---
 # 16
-_Qui è dove si mangia in estate_
+QUI È DOVE SI MANGIA IN ESTATE
 
 🔍 [96-giardino-pranzo](96-giardino-pranzo.md)
 

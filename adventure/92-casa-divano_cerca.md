@@ -3,7 +3,7 @@ title: cerca nel divano
 area: casa
 ---
 # 92
-_nel divano ci sono sempre cose che si perdono_
+NEL DIVANO CI SONO SEMPRE COSE CHE SI PERDONO
 
 🔍RACCHETTA [236-casa-racchetta-OGGETTO](236-casa-racchetta-OGGETTO.md)
 

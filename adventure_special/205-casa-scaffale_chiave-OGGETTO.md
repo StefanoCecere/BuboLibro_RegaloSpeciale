@@ -4,9 +4,7 @@ area: Casa
 class: oggetto
 ---
 # 205
-_WOW_
-
-### HAI TROVATO UNA CHIAVE!
+WOW... HAI TROVATO UNA CHIAVE!
 
 #INVENTARIO: CHIAVE
 

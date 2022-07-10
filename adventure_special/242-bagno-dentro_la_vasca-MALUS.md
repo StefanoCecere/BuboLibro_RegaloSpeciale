@@ -4,7 +4,7 @@ area: Casa
 class: malus
 ---
 # 242
-_MA NON PUOI FARE IL BAGNETTO CON I VESTITI!_
+MA NON PUOI FARE IL BAGNETTO CON I VESTITI!
 
 **#MALUS -1**
 

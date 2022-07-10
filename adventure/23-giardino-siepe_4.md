@@ -3,7 +3,7 @@ title: siepe 4 fine siepe
 area: Giardino
 ---
 # 23
-_uhmmmm sento odore di girini.. o serpenti!_
+UHMMMM SENTO ODORE DI GIRINI.. O SERPENTI!
 
 ➡️ [24-giardino-siepe_3](24-giardino-siepe_3.md)
 

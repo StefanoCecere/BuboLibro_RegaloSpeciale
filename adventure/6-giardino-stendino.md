@@ -3,7 +3,7 @@ title:stendino
 area:Giardino
 ---
 # 6
-_Non ci sono panni stesi ad asciugare_
+NON CI SONO PANNI STESI AD ASCIUGARE
 
 ➡️ [17-giardino-pompa](17-giardino-pompa.md)
 

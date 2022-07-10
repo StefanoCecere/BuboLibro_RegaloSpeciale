@@ -3,7 +3,7 @@ title:tubo
 area:Giardino
 ---
 # 18
-_Da qui esce l'acqua_
+DA QUI ESCE L'ACQUA
 
 ⬇️ [17-giardino-pompa](17-giardino-pompa.md)
 

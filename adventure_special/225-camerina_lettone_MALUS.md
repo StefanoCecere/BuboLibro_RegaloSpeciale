@@ -4,7 +4,7 @@ area: camerina
 class: malus
 ---
 # 225
-_Non dovevi stare qui, lo sai!_
+NON DOVEVI STARE QUI, LO SAI!
 
 **#MALUS -1**
 

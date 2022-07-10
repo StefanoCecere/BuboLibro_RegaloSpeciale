@@ -3,7 +3,7 @@ title: sul divano
 area: casa
 ---
 # 43
-_Il divano è comodissimo!_
+IL DIVANO È COMODISSIMO!
 
 👀PIANOFORTE [103-casa-pianoforte](103-casa-pianoforte.md)
 

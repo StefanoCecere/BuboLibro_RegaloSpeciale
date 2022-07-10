@@ -4,7 +4,7 @@ area: orto
 class: malus
 ---
 # 219
-_NOOO NON SI TOCCANO LE UOVA DI TARTARUGA!_
+NOOO NON SI TOCCANO LE UOVA DI TARTARUGA!
 
 **#MALUS -2**
 

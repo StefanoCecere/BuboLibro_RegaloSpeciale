@@ -3,7 +3,7 @@ title: uova tartartuga
 area: Casa
 ---
 # 214
-_HAI TROVATO DELLE UOVA DI TARTARUGA!_
+HAI TROVATO DELLE UOVA DI TARTARUGA!
 
 **#BONUS +1**
 

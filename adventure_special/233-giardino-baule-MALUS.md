@@ -4,7 +4,7 @@ area: Giardino
 class: 
 ---
 # 233
-_ahh c'era scritto NON APRIRE!_
+AHH C'ERA SCRITTO NON APRIRE!
 
 **#MALUS -1**
 

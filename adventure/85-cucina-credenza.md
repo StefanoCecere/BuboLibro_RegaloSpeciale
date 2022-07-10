@@ -3,7 +3,7 @@ title: la credenza
 area: Casa
 ---
 # 85
-_la dispensa!_
+LA DISPENSA!
 
 🔍 [222-casa-credenza-MALUS](222-casa-credenza-MALUS.md)
 

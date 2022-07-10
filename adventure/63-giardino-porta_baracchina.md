@@ -3,7 +3,7 @@ title:la porta della baracchina
 area:Giardino
 ---
 # 63
-_Devo proprio andarci?_
+DEVO PROPRIO ANDARCI?
 
 🔍 [65-baracchina](65-baracchina.md)
 

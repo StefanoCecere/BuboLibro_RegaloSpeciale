@@ -3,7 +3,7 @@ title: baule
 area: giardino
 ---
 # 82
-_un grosso baule_
+UN GROSSO BAULE
 
 🔍 [42-giardino-baule_aperto](42-giardino-baule_aperto.md)
 
