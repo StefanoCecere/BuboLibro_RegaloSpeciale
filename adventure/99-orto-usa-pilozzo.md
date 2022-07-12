@@ -13,4 +13,4 @@ COSA VUOI FARE CON IL LAVANDINO?
 
 ⬇️ [4-orto-pilozzo](4-orto-pilozzo.md)
 
-![foto_123](_assets/preview/foto_123.jpg)
+![foto_123](_assets/preview_color/foto_123.jpg)

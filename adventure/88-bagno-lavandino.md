@@ -11,4 +11,4 @@ QUI È DOVE CI LAVIAMO MANI E DENTI
 
 ⬇️ [56-bagno](56-bagno.md)
 
-![foto_139](_assets/preview/foto_139.jpg)
+![foto_139](_assets/preview_color/foto_139.jpg)

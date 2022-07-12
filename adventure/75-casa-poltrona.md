@@ -9,4 +9,4 @@ QUI È DOVE IL PAPÀ SI RIPOSA SEMPRE
 
 ⬇️ [43-casa-sul_divano](43-casa-sul_divano.md)
 
-![foto_55](_assets/preview/foto_55.jpg)
+![foto_55](_assets/preview_color/foto_55.jpg)

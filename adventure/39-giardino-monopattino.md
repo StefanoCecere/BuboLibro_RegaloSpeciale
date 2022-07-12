@@ -9,4 +9,4 @@ PER ANDARE IN MONOPATTINO SERVE SEMPRE IL CASCO
 
 ⬇️ [34-giardino-giochi](34-giardino-giochi.md)
 
-![foto_89](_assets/preview/foto_89.jpg)
+![foto_89](_assets/preview_color/foto_89.jpg)

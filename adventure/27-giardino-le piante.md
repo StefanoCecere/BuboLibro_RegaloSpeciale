@@ -1,6 +1,6 @@
 ---
-title:le piante
-area:Giardino
+title: le piante
+area: Giardino
 ---
 # 27
 QUI UNA VOLTA SI FACEVA LA GRIGLIATA
@@ -11,4 +11,4 @@ QUI UNA VOLTA SI FACEVA LA GRIGLIATA
 
 ⬇️[7-giardino-ovest](7-giardino-ovest.md) 
 
-![foto_19](_assets/preview/foto_19.jpg)
+![foto_19](_assets/preview_color/foto_19.jpg)

@@ -11,4 +11,4 @@ CHE GRANDE VASO!
 
 ⬇️ [63-giardino-porta_baracchina](63-giardino-porta_baracchina.md)
 
-![foto_107](_assets/preview/foto_107.jpg)
+![foto_107](_assets/preview_color/foto_107.jpg)

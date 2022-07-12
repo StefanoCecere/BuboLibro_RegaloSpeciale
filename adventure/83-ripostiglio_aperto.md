@@ -10,4 +10,4 @@ NON VORRAI MICA ARRAMPICARTI VERO?
 
 ⬇️ [81-ripostiglio](81-ripostiglio.md)
 
-![foto_80](_assets/preview/foto_80.jpg)
+![foto_80](_assets/preview_color/foto_80.jpg)

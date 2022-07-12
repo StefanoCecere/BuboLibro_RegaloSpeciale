@@ -1,6 +1,6 @@
 ---
-title:l'albicocco
-area:Giardino
+title: l'albicocco
+area: Giardino
 ---
 # 25
 LE ALBICOCCHE NON SONO ANCORA MATURE
@@ -9,4 +9,4 @@ LE ALBICOCCHE NON SONO ANCORA MATURE
 
 ⬇️ [5-giardino-sud](5-giardino-sud.md)
 
-![foto_16](_assets/preview/foto_16.jpg)
+![foto_16](_assets/preview_color/foto_16.jpg)

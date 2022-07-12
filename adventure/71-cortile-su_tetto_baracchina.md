@@ -11,4 +11,4 @@ CHE BELLO QUI SUL TETTINO.. È PERICOLOSO PERÒ
 
 ⬇️ [68-cortile-arrampico_albero](68-cortile-arrampico_albero.md)
 
-![foto_94](_assets/preview/foto_94.jpg)
+![foto_94](_assets/preview_color/foto_94.jpg)

@@ -11,4 +11,4 @@ NEL DIVANO CI SONO SEMPRE COSE CHE SI PERDONO
 
 ⬇️ [43-casa-sul_divano](43-casa-sul_divano.md)
 
-![foto_121](_assets/preview/foto_121.jpg)
+![foto_121](_assets/preview_color/foto_121.jpg)

@@ -9,4 +9,4 @@ LA TV! MA è SPENTA...
 
 ⬇️ [103-casa-pianoforte](103-casa-pianoforte.md)
 
-![foto_120](_assets/preview/foto_120.jpg)
+![foto_120](_assets/preview_color/foto_120.jpg)

@@ -15,4 +15,4 @@ ANDIAMO VERSO IL BAGNO!
 
 ⬇️ [10-casa-in_casa](10-casa-in_casa.md)
 
-![foto_53](_assets/preview/foto_53.jpg)
+![foto_53](_assets/preview_color/foto_53.jpg)

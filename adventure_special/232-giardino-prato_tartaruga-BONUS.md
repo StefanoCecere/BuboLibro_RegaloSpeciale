@@ -9,4 +9,4 @@ MA GUARDA UN PO'!
 
 ⬇️ [20-giardino-prato](20-giardino-prato.md)
 
-![foto_134](_assets/preview/foto_134.jpg)
+![foto_134](_assets/preview_color/foto_134.jpg)

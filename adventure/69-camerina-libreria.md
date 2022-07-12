@@ -13,4 +13,4 @@ TUTTI I NOSTRI LIBRI!
 
 ⬇️ [35-camerina](35-camerina.md)
 
-![foto_65](_assets/preview/foto_65.jpg)
+![foto_65](_assets/preview_color/foto_65.jpg)

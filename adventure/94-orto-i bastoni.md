@@ -10,4 +10,4 @@ I BASTONI APPUNTITI PER L'ORTO
 
 ⬇️ [15-orto-lavatrice](15-orto-lavatrice.md)
 
-![foto_37](_assets/preview/foto_37.jpg)
+![foto_37](_assets/preview_color/foto_37.jpg)

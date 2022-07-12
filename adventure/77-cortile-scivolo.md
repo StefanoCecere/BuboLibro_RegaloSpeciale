@@ -11,4 +11,4 @@ MI PIACE UN SACCO ANDARE SULLO SCIVOLO
 
 ⬇️ [64-cortile](64-cortile.md)
 
-![foto_39](_assets/preview/foto_39.jpg)
+![foto_39](_assets/preview_color/foto_39.jpg)

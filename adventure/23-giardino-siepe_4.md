@@ -9,4 +9,4 @@ UHMMMM SENTO ODORE DI GIRINI.. O SERPENTI!
 
 ⬇️ [76-giardino-casetta](76-giardino-casetta.md)
 
-![foto_14](_assets/preview/foto_14.jpg)
+![foto_14](_assets/preview_color/foto_14.jpg)

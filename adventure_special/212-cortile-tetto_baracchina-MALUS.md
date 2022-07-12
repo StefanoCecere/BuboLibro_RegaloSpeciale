@@ -11,4 +11,4 @@ IL PAPÀ TI HA BRONTOLATO!
 
 ⬇️[71-cortile-su_tetto_baracchina](71-cortile-su_tetto_baracchina.md) 
 
-![foto_95](_assets/preview/foto_95.jpg)
+![foto_95](_assets/preview_color/foto_95.jpg)

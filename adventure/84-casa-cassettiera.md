@@ -1,6 +1,6 @@
 ---
-title:la cassettiera
-area:Casa
+title: la cassettiera
+area: Casa
 ---
 # 84
 VEDIAMO COSA C'È NEL CASSETTO
@@ -11,4 +11,4 @@ VEDIAMO COSA C'È NEL CASSETTO
 
 ⬇️ [45-casa-davanti_bagno](45-casa-davanti_bagno.md)
 
-![foto_68](_assets/preview/foto_68.jpg)
+![foto_68](_assets/preview_color/foto_68.jpg)

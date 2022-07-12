@@ -12,4 +12,4 @@ SIAMO NEL CORTILE
 ⬇️ [61-giardino-vialetto-sud](61-giardino-vialetto-sud.md)
 
 
-![foto_44](_assets/preview/foto_44.jpg)
+![foto_44](_assets/preview_color/foto_44.jpg)

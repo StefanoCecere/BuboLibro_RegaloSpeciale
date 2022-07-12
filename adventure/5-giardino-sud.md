@@ -5,6 +5,8 @@ area: giardino
 # 5
 DA QUI VEDO MOLTE COSE
 
+![foto_131](_assets/preview_color/foto_131.jpg)
+
 🔍ALBICOCCO [25-giardino-albicocco](25-giardino-albicocco.md)
 
 🔍MAMMA [12-giardino-mamma](12-giardino-mamma.md)
@@ -17,4 +19,3 @@ DA QUI VEDO MOLTE COSE
 
 ⬇️[3-giardino-nord](3-giardino-nord.md) 
 
-![foto_131](_assets/preview/foto_131.jpg)

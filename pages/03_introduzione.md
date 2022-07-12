@@ -1,6 +1,9 @@
-Questo che hai in mano è un *BuboLibro*, ovvero un libro avventura per bambini:
-- **Bubo** perché l'abbiamo pensato per bambini piccoli (dai 4 ai 7 anni)
-- **Avventura** perché è un percorso di esplorazione, con oggetti da trovare e qualche sfida ed enigmi da risolvere
+# READ ME
+(Ovvero LEGGIMI PRIMA DI TUTTO)
+
+Questo che hai in mano è un *BUBOLIBRO*, ovvero un libro avventura per bambini:
+- **Bubo** perché l'abbiamo pensato per chi ha dai 4 ai 7 anni
+- **Avventura** perché è un percorso di esplorazione, con oggetti da trovare e qualche gioco
 
 Fabio (12 anni) l'ha pensato e creato come regalo di compleanno per i 5 anni del fratellino a cui piacciono molto le avventure.
 
@@ -14,7 +17,7 @@ Il libro può essere lette in diversi modi:
  - con un amico che sappia leggere tutte le didascalie e accompagnare l'avventura interpretando un po’ le situazioni
  
  Nel corso dell’avventura si troveranno degli oggetti e si guadagneranno o perderanno dei punti vita.. Bisogna tenerne traccia usando la scheda del personaggio
- 
- ## Cosa altro fare
- Nelle appendici ci sono un po’ di giochini e domande sull’avventura.
- si possono colorare i disegni!
+
+## Cosa altro fare
+Nelle appendici ci sono un po’ di giochini e domande sull’avventura.
+si possono colorare i disegni!

@@ -9,4 +9,4 @@ LA FRUTTA!
 
 ⬇️ [85-cucina-credenza](85-cucina-credenza.md)
 
-![foto_83](_assets/preview/foto_83.jpg)
+![foto_83](_assets/preview_color/foto_83.jpg)

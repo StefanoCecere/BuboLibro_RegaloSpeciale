@@ -13,4 +13,4 @@ QUI C'È IL LAVANDINO E LA LAVATRICE
 
 ⬇️ [49-orto](49-orto.md)
 
-![foto_30](_assets/preview/foto_30.jpg)
+![foto_30](_assets/preview_color/foto_30.jpg)

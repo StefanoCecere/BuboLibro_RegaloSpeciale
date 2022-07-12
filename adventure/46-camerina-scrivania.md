@@ -16,4 +16,4 @@ LA SCRIVANIA PER STUDIARE
 ⬇️ [35-camerina](35-camerina.md)
 
 
-![foto_67](_assets/preview/foto_67.jpg)
+![foto_67](_assets/preview_color/foto_67.jpg)

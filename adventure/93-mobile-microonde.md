@@ -10,4 +10,4 @@ COSA C'È VICINO AL MICROONDE?
 
 ⬇️ [80-casa-batteria](80-casa-batteria.md)
 
-![foto_56](_assets/preview/foto_56.jpg)
+![foto_56](_assets/preview_color/foto_56.jpg)

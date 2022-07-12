@@ -13,4 +13,4 @@ QUI È DOVE SI MANGIA TUUUTTTTII I GIORNI
 
 ⬇️ [10-casa-in_casa](10-casa-in_casa.md)
 
-![foto_52](_assets/preview/foto_52.jpg)
+![foto_52](_assets/preview_color/foto_52.jpg)

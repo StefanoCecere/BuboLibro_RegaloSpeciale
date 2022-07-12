@@ -13,4 +13,4 @@ SO SOLO CUCINARE LE UOVA
 
 ⬇️ [44-cucina-il tavolo](44-cucina-il%20tavolo.md)
 
-![foto_58](_assets/preview/foto_58.jpg)
+![foto_58](_assets/preview_color/foto_58.jpg)

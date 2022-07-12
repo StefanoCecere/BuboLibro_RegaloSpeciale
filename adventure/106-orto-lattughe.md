@@ -9,4 +9,4 @@ NON CI SONO MOLTE LATTUGHE
 
 ⬇️ [11-orto-zucchine](11-orto-zucchine.md)
 
-![foto_33](_assets/preview/foto_33.jpg)
+![foto_33](_assets/preview_color/foto_33.jpg)

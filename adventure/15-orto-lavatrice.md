@@ -1,6 +1,6 @@
 ---
-title:la lavatrice
-area:Orto
+title: la lavatrice
+area: Orto
 ---
 # 15
 STA ANCORA LAVANDO I VESTITI
@@ -11,4 +11,4 @@ STA ANCORA LAVANDO I VESTITI
 
 ⬇️ [4-orto-pilozzo](4-orto-pilozzo.md)
 
-![foto_36](_assets/preview/foto_36.jpg)
+![foto_36](_assets/preview_color/foto_36.jpg)

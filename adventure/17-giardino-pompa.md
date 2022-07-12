@@ -1,6 +1,6 @@
 ---
-title:pompa
-area:Giardino
+title: pompa
+area: Giardino
 ---
 # 17
 QUI ARRIVA L'ACQUA PIOVANA

@@ -15,4 +15,4 @@ IL DIVANO È COMODISSIMO!
 
 ⬇️ [10-casa-in_casa](10-casa-in_casa.md)
 
-![foto_51](_assets/preview/foto_51.jpg)
+![foto_51](_assets/preview_color/foto_51.jpg)

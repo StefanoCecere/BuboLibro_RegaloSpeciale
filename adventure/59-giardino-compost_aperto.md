@@ -9,4 +9,4 @@ AHH SONO USCITE 12 ZANZARE!
 
 ⬇️ [8-giardino-verso_orto](8-giardino-verso_orto.md)
 
-![foto_103](_assets/preview/foto_103.jpg)
+![foto_103](_assets/preview_color/foto_103.jpg)

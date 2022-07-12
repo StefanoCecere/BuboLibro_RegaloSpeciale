@@ -12,4 +12,4 @@ PRENDI QUESTO LIBRO E SEGUI I NUMERI
 ![](../_assets/loc/loc-casa-porta.jpg)
 
 
-![foto_inizio](_assets/preview/foto_inizio.jpg)
+![foto_inizio](_assets/preview_color/foto_inizio.jpg)

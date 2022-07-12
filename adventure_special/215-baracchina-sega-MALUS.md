@@ -11,4 +11,4 @@ LO SAPEVI CHE NON DOVEVI TOCCARLA!
 
 ⬇️ [65-baracchina](65-baracchina.md)
 
-![foto_93](_assets/preview/foto_93.jpg)
+![foto_93](_assets/preview_color/foto_93.jpg)

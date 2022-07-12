@@ -10,4 +10,4 @@ HAI LA TORCIA ELETTRICA? [240-giardino-draghetto-OGGETTO](240-giardino-draghetto
 
 ⬇️ [20-giardino-prato](20-giardino-prato.md)
 
-![foto_20](_assets/preview/foto_20.jpg)
+![foto_20](_assets/preview_color/foto_20.jpg)

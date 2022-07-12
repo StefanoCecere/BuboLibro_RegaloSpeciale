@@ -11,4 +11,4 @@ SONO AL PIANO DI SOPRA.. NELLA CAMERA DI MAMMA E PAPÀ
 
 ➡️ [73-casa-salgo_scale](73-casa-salgo_scale.md)
 
-![foto_74](_assets/preview/foto_74.jpg)
+![foto_74](_assets/preview_color/foto_74.jpg)

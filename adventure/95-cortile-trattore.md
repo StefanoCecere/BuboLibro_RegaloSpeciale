@@ -1,5 +1,5 @@
 ---
-title:il trattore
+title: il trattore
 area: cortile
 ---
 # 95
@@ -9,4 +9,4 @@ QUESTO È IL MIO TRATTORE
 
 ⬇️[66-cortile_2](66-cortile_2.md)
 
-![foto_41](_assets/preview/foto_41.jpg)
+![foto_41](_assets/preview_color/foto_41.jpg)

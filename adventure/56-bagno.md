@@ -1,6 +1,6 @@
 ---
-title:in bagno
-area:Casa
+title: in bagno
+area: Casa
 ---
 # 56
 NON C'È NESSUNO IN BAGNO
@@ -13,4 +13,4 @@ NON C'È NESSUNO IN BAGNO
 
 ⬇️ [45-casa-davanti_bagno](45-casa-davanti_bagno.md)
 
-![foto_71](_assets/preview/foto_71.jpg)
+![foto_71](_assets/preview_color/foto_71.jpg)

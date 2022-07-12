@@ -10,4 +10,4 @@ FRATELLONE NON VUOLE CHE TU STIA QUI, LO SAI!
 
 ⬇️ [38-camerina-letto](38-camerina-letto.md)
 
-![foto_112](_assets/preview/foto_112.jpg)
+![foto_112](_assets/preview_color/foto_112.jpg)

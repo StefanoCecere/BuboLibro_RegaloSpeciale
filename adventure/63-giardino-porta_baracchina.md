@@ -1,6 +1,6 @@
 ---
-title:la porta della baracchina
-area:Giardino
+title: la porta della baracchina
+area: Giardino
 ---
 # 63
 DEVO PROPRIO ANDARCI?
@@ -9,4 +9,4 @@ DEVO PROPRIO ANDARCI?
 
 ⬇️ [61-giardino-vialetto-sud](61-giardino-vialetto-sud.md)
 
-![foto_48](_assets/preview/foto_48.jpg)
+![foto_48](_assets/preview_color/foto_48.jpg)

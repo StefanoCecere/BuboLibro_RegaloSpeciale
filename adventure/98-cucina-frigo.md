@@ -9,4 +9,4 @@ QUANDO HO SETE VENGO QUI
 
 ⬇️ [52-casa-cucina](52-casa-cucina.md)
 
-![foto_84](_assets/preview/foto_84.jpg)
+![foto_84](_assets/preview_color/foto_84.jpg)

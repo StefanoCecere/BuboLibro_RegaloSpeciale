@@ -9,4 +9,4 @@ WOW! HAI RAGGIUNTO LA CIMA E TROVATO LA RANA!
 
 ⬇️ [89-parete_arrampicata](89-parete_arrampicata.md)
 
-![foto_114](_assets/preview/foto_114.jpg).jpg]]
+![foto_114](_assets/preview_color/foto_114.jpg).jpg]]

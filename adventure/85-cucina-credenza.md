@@ -11,4 +11,4 @@ LA DISPENSA!
 
 ⬇️ [44-cucina-il tavolo](44-cucina-il%20tavolo.md)
 
-![foto_117](_assets/preview/foto_117.jpg)
+![foto_117](_assets/preview_color/foto_117.jpg)

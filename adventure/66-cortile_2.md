@@ -13,4 +13,4 @@ IN FONDO AL CORTILE
 
 ⬇️[64-cortile](64-cortile.md) 
 
-![foto_40](_assets/preview/foto_40.jpg)
+![foto_40](_assets/preview_color/foto_40.jpg)

@@ -9,4 +9,4 @@ WOW HAI TROVATO DELLE CROSTAT..INE
 
 ⬇️ [100-cucina-forno](100-cucina-forno.md)
 
-![foto_119](_assets/preview/foto_119.jpg)
+![foto_119](_assets/preview_color/foto_119.jpg)

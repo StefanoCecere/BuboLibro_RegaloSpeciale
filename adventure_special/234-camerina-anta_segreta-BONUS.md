@@ -9,4 +9,4 @@ HAI TROVATO UN GIOCO NUOVO!
 
 ⬇️ [78-camerina-armadio_giochi](78-camerina-armadio_giochi.md)
 
-![foto_146](_assets/preview/foto_146.jpg)
+![foto_146](_assets/preview_color/foto_146.jpg)

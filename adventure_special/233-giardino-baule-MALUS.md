@@ -10,4 +10,4 @@ AHH C'ERA SCRITTO NON APRIRE!
 
 ⬇️ [82-giardino-baule](82-giardino-baule.md)
 
-![foto_23](_assets/preview/foto_23.jpg)
+![foto_23](_assets/preview_color/foto_23.jpg)
