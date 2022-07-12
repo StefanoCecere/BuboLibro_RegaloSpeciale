@@ -10,4 +10,4 @@ MA NON PUOI FARE IL BAGNETTO CON I VESTITI!
 
 ⬇️ [57-bagno-vasca](57-bagno-vasca.md)
 
-![foto_86](_assets/preview_color/foto_86.jpg)
+![foto_86](../_assets/preview/foto_86.jpg)

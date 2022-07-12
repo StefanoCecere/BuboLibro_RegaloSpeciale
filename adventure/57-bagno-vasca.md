@@ -10,4 +10,4 @@ LA VASCA DOVE FACCIO IL BAGNETTO
 
 ⬇️ [56-bagno](56-bagno.md)
 
-![foto_72](_assets/preview_color/foto_72.jpg)
+![foto_72](../_assets/preview/foto_72.jpg)

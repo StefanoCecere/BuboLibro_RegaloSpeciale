@@ -9,4 +9,4 @@ QUI CI SONO TUTTI I GIOCI IN SCATOLA!
 
 ⬇️ [46-camerina-scrivania](46-camerina-scrivania.md)
 
-![foto_145](_assets/preview_color/foto_145.jpg)
+![foto_145](../_assets/preview/foto_145.jpg)

@@ -11,4 +11,4 @@ QUI È DOVE SI MANGIA IN ESTATE
 
 ⬇️ [3-giardino-nord](3-giardino-nord.md)
 
-![foto_7](_assets/preview_color/foto_7.jpg)
+![foto_7](../_assets/preview/foto_7.jpg)

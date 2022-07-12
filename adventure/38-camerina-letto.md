@@ -13,4 +13,4 @@ IL MIO LETTINO
 
 ⬇️[35-camerina](35-camerina.md) 
 
-![foto_152](_assets/preview_color/foto_152.jpg)
+![foto_152](../_assets/preview/foto_152.jpg)

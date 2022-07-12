@@ -9,4 +9,4 @@ CI SONO UN SACCO DI GRADINI
 
 ⬇️ [45-casa-davanti_bagno](45-casa-davanti_bagno.md)
 
-![foto_73](_assets/preview_color/foto_73.jpg)
+![foto_73](../_assets/preview/foto_73.jpg)

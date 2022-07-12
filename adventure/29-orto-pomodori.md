@@ -11,4 +11,4 @@ QUANTI POMODORI!
 
 ⬇️ [49-orto](49-orto.md)
 
-![foto_31](_assets/preview_color/foto_31.jpg)
+![foto_31](../_assets/preview/foto_31.jpg)

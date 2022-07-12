@@ -11,4 +11,4 @@ AHH IL RISPOSTIGLIO!
 
 ⬇️ [35-camerina](35-camerina.md)
 
-![foto_116](_assets/preview_color/foto_116.jpg)
+![foto_116](../_assets/preview/foto_116.jpg)

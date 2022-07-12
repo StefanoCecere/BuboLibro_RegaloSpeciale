@@ -13,4 +13,4 @@ DA QUI VEDO MOLTE COSE!
 
 ⬇️ [5-giardino-sud](5-giardino-sud.md)
 
-![foto_132](_assets/preview_color/foto_132.jpg)
+![foto_132](../_assets/preview/foto_132.jpg)

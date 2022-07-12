@@ -15,4 +15,4 @@ SIAMO NELL'ORTO
 
 ⬇️ [8-giardino-verso_orto](8-giardino-verso_orto.md)
 
-![foto_29](_assets/preview_color/foto_29.jpg)
+![foto_29](../_assets/preview/foto_29.jpg)

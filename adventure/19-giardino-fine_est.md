@@ -14,4 +14,4 @@ DA QUI VEDO BENE TUTTO IL GIARDINO
 
 ⬆️ [5-giardino-sud](5-giardino-sud.md)
 
-![foto_90](_assets/preview_color/foto_90.jpg)
+![foto_90](../_assets/preview/foto_90.jpg)

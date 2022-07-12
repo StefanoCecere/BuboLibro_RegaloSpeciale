@@ -7,4 +7,4 @@ RICORDO CHE QUI FRATELLONE HA SCRITTO QUESTA PAGINA
 
 ⬇️ [46-camerina-scrivania](46-camerina-scrivania.md)
 
-![foto_105](_assets/preview_color/foto_105.jpg)
+![foto_105](../_assets/preview/foto_105.jpg)

@@ -11,4 +11,4 @@ SEMBRA UNA NORMALE STATUA
 
 ➡️ [22-giardino-siepe_2](22-giardino-siepe_2.md)
 
-![foto_91](_assets/preview_color/foto_91.jpg)
+![foto_91](../_assets/preview/foto_91.jpg)

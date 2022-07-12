@@ -10,4 +10,4 @@ NOOO HAI FATTO CADERE TUTTI I PIATTI!
 
 ⬇️ [85-cucina-credenza](85-cucina-credenza.md)
 
-![foto_82](_assets/preview_color/foto_82.jpg)
+![foto_82](../_assets/preview/foto_82.jpg)

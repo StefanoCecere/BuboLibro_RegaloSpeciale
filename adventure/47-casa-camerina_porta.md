@@ -10,4 +10,4 @@ SENZA LE SCARPE EH
 
 ⬇️ [44-cucina-il tavolo](44-cucina-il%20tavolo.md)
 
-![foto_59](_assets/preview_color/foto_59.jpg)
+![foto_59](../_assets/preview/foto_59.jpg)

@@ -7,7 +7,7 @@ class:
 
 HAI TROVATO UN DRAGHETTO!! CHE BELLINO
 
-#INVENTARIO #OGGETTO/DRAGHETTO
+#TROVI/OGGETTO #OGGETTO/DRAGHETTO
 
 ⬇️ [28-giardino-buco_buio](28-giardino-buco_buio.md)
 

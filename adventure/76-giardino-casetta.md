@@ -9,4 +9,4 @@ LA CASETTA DEI GIOCHI
 
 ➡️ [19-giardino-fine_est](19-giardino-fine_est.md)
 
-![foto_148](_assets/preview_color/foto_148.jpg)
+![foto_148](../_assets/preview/foto_148.jpg)

@@ -17,4 +17,4 @@ QUI È DOVE GIOCO QUANDO NON PIOVE
 
 ⬇️ [7-giardino-ovest](7-giardino-ovest.md)
 
-![foto_135](_assets/preview_color/foto_135.jpg)
+![foto_135](../_assets/preview/foto_135.jpg)

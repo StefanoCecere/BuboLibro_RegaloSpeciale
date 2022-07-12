@@ -11,4 +11,4 @@ NOOOO HAI FATTO CADERE DELLE SCATOLE SUI TUOI PIEDI!
 
 ⬇️ [81-ripostiglio](81-ripostiglio.md)
 
-![foto_62](_assets/preview_color/foto_62.jpg)
+![foto_62](../_assets/preview/foto_62.jpg)

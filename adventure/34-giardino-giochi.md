@@ -17,4 +17,4 @@ AHH I NOSTRI GIOCHI
 
 ➡️ [16-giardino-tavolo](16-giardino-tavolo.md)
 
-![foto_150](_assets/preview_color/foto_150.jpg)
+![foto_150](../_assets/preview/foto_150.jpg)

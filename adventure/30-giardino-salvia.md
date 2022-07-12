@@ -7,4 +7,4 @@ USIAMO LA SALVIA PER CUCINARE
 
 ⬇️ [9-giardino-est](9-giardino-est.md)
 
-![foto_15](_assets/preview_color/foto_15.jpg)
+![foto_15](../_assets/preview/foto_15.jpg)

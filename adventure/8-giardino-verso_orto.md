@@ -13,4 +13,4 @@ ANDIAMO VERSO L'ORTO
 
 ⬇️ [3-giardino-nord](3-giardino-nord.md)
 
-![foto_5](_assets/preview_color/foto_5.jpg)
+![foto_5](../_assets/preview/foto_5.jpg)

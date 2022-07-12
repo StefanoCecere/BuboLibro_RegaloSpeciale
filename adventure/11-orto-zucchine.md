@@ -9,4 +9,4 @@ NON MI PIACCIONO MOLTO LE ZUCCHINE
 
 ⬇️  [29-orto-pomodori](29-orto-pomodori.md)
 
-![foto_32](_assets/preview_color/foto_32.jpg)
+![foto_32](../_assets/preview/foto_32.jpg)

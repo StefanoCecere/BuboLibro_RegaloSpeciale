@@ -13,4 +13,4 @@ QUESTO GIARDINO È PROPRIO BELLISSIMO, VERO?
 
 ⬇️ [5-giardino-sud](5-giardino-sud.md)
 
-![foto_147](_assets/preview_color/foto_147.jpg)
+![foto_147](../_assets/preview/foto_147.jpg)

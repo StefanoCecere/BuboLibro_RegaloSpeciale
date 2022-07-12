@@ -7,4 +7,4 @@ AHHHHHHH
 
 ⬇️ [56-bagno](56-bagno.md)
 
-![foto_141](_assets/preview_color/foto_141.jpg)
+![foto_141](../_assets/preview/foto_141.jpg)

@@ -9,4 +9,4 @@ QUI MANGIANO LE MIE QUATTRO TARTARUGHE
 
 ➡️ [21-giardino-siepe_1](21-giardino-siepe_1.md)
 
-![foto_12](_assets/preview_color/foto_12.jpg)
+![foto_12](../_assets/preview/foto_12.jpg)

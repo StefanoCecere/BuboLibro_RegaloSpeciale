@@ -9,4 +9,4 @@ UNO STRANO VASO
 
 ⬇️[9-giardino-est](9-giardino-est.md) 
 
-![foto_11](_assets/preview_color/foto_11.jpg)
+![foto_11](../_assets/preview/foto_11.jpg)

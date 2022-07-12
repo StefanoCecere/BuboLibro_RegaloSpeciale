@@ -9,4 +9,4 @@ QUESTO È IL NOSTRO COMPOST. DOVE IL RIFIUTO PRENDE VITA
 
 ⬇️ [49-orto](49-orto.md)
 
-![foto_127](_assets/preview_color/foto_127.jpg)
+![foto_127](../_assets/preview/foto_127.jpg)

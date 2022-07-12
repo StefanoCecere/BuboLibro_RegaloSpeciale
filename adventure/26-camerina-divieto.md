@@ -9,4 +9,4 @@ C'È SCRITTO NON SALIRE
 
 ⬇️ [38-camerina-letto](38-camerina-letto.md)
 
-![foto_153](_assets/preview_color/foto_153.jpg)
+![foto_153](../_assets/preview/foto_153.jpg)

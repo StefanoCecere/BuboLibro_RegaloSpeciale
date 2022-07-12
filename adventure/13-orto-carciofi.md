@@ -11,4 +11,4 @@ I CARCIOFI HANNO DEI BEI FIORI
 
 ⬇️ [11-orto-zucchine](11-orto-zucchine.md)
 
-![foto_34](_assets/preview_color/foto_34.jpg)
+![foto_34](../_assets/preview/foto_34.jpg)

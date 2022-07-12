@@ -15,4 +15,4 @@ LA NOSTRA CAMERINA
 
 ⬇️ [47-casa-camerina_porta](47-casa-camerina_porta.md)
 
-![foto_61](_assets/preview_color/foto_61.jpg)
+![foto_61](../_assets/preview/foto_61.jpg)

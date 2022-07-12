@@ -9,4 +9,4 @@ UN GROSSO BAULE
 
 ⬇️ [20-giardino-prato](20-giardino-prato.md)
 
-![foto_122](_assets/preview_color/foto_122.jpg)
+![foto_122](../_assets/preview/foto_122.jpg)

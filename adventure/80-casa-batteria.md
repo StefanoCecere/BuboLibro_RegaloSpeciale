@@ -9,4 +9,4 @@ LA BATTERIA CHE SUONIAMO!
 
 ⬇️ [43-casa-sul_divano](43-casa-sul_divano.md)
 
-![foto_144](_assets/preview_color/foto_144.jpg)
+![foto_144](../_assets/preview/foto_144.jpg)

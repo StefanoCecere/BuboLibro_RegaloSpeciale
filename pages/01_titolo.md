@@ -7,3 +7,7 @@ Stefano e Fabio Cecere
 
 6/9 ANNI
 4/5 ANNI (con genitore)
+
+(link segreto a [[142]])
+
+![](../_assets/special/cover.jpg)

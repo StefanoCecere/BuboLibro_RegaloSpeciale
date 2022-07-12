@@ -7,4 +7,4 @@ LAVO IL POMODORO!
 
 **#BONUS +1**
 
-⬇️ [99-orto-usa-pilozzo](99-orto-usa-pilozzo.md)
+⬇️ [99-orto-usa-lavandino](../adventure/99-orto-usa-lavandino.md)

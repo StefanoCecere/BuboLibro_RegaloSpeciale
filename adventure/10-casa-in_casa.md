@@ -13,4 +13,4 @@ AH CASA DOLCE CASA!
 
 ⬇️ [3-giardino-nord](3-giardino-nord.md)
 
-![foto_50](_assets/preview_color/foto_50.jpg)
+![foto_50](../_assets/preview/foto_50.jpg)

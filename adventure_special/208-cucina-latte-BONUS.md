@@ -1,6 +1,6 @@
 ---
 title: frigo
-area: Casa
+area: Casa - cucina
 ---
 # 208
 AHH CHE BUONO!
@@ -9,4 +9,4 @@ AHH CHE BUONO!
 
 ⬇️ [98-cucina-frigo](98-cucina-frigo.md)
 
-![foto_84](_assets/preview_color/foto_84.jpg)
+![foto_84](../_assets/preview/foto_84.jpg)

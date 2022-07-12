@@ -13,4 +13,4 @@ NOOOO VEDO UN TOPO VIVO!
 
 ⬇️ [63-giardino-porta_baracchina](63-giardino-porta_baracchina.md)
 
-![foto_49](_assets/preview_color/foto_49.jpg)
+![foto_49](../_assets/preview/foto_49.jpg)

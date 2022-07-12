@@ -9,4 +9,4 @@ SAI GIOCARE ANCHE TU A PALLACANESTRO?
 
 ⬇️ [20-giardino-prato](20-giardino-prato.md)
 
-![foto_21](_assets/preview_color/foto_21.jpg)
+![foto_21](../_assets/preview/foto_21.jpg)

@@ -1,8 +1,8 @@
 # BuboLibro: Un Regalo Speciale 
 
-la storia completa di questo progretto è qui: [https://stefanocecere.com/project/bubolibro-un-regalo-speciale/](https://stefanocecere.com/project/bubolibro-un-regalo-speciale/)
+la storia completa di questo progetto è qui: [https://stefanocecere.com/project/bubolibro-un-regalo-speciale/](https://stefanocecere.com/project/bubolibro-un-regalo-speciale/)
 
-![](_assets/project_obsidian.jpg)
+![](_assets/docs/project_obsidian.jpg)
 
 un libro avventura creato da Fabio (e dal papà Stefano) come regalo per il fratellino di 5 anni.
 l'idea è che possa essere poi un regalo che anche altri possano fare ai propri fratellini/sorelline.
@@ -28,7 +28,7 @@ diverse pagine di vittoria e altrettante di morte (che riportano indietro)
 - open source, in formato cartaceo, PDF ed ebook 
 
 ## Minigiochi
-- colorare alcuni disegni (che sono tutti in B&N)
+- colorare alcuni disegni
 - in quale pagina si trova tale oggetto?
 - quante palle ci sono in giardino?
 
@@ -38,7 +38,7 @@ per lo sviluppo usiamo questi tag per trovare facilmente i nodi:
 **MALUS** : si toglie vita
 **BONUS**: si guadagna vita
 **INVENTARIO**: si trova un oggetto
-**GIOCO** : mini gioco
+**MINIGIOCO** : mini gioco
 **AIUTO** : un suggerimento
 **TODO_disegno**: manca l'immagine/foto
 

@@ -5,7 +5,7 @@ area: giardino
 # 5
 DA QUI VEDO MOLTE COSE
 
-![foto_131](_assets/preview_color/foto_131.jpg)
+![foto_131](../_assets/preview/foto_131.jpg)
 
 🔍ALBICOCCO [25-giardino-albicocco](25-giardino-albicocco.md)
 
