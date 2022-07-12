@@ -5,6 +5,6 @@ area: giardino
 # 30
 USIAMO LA SALVIA PER CUCINARE
 
-⬇️ [9-giardino-est](9-giardino-est.md)
+> ⬇️ [9-giardino-est](9-giardino-est.md)
 
 ![foto_15](../_assets/preview/foto_15.jpg)

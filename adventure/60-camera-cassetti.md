@@ -7,6 +7,6 @@ class:
 
 I CALZINI E LE MUTANDE DI MAMMA E PAPÀ!
 
-⬇️ [87-camera-armadio](87-camera-armadio.md)
+> [⬇️ 87-camera-armadio](87-camera-armadio.md)
 
 ![foto_76](../_assets/preview/foto_76.jpg)

@@ -1,12 +1,14 @@
 ---
 title: mamma aiuto mappa
 area: giardino
+tags:
+- AIUTO
 ---
 # 231
-AHH VA BEH ECCOTI UNA **MAPPA**
+"AHH VA BEH ECCOTI UNA **MAPPA**. SEGNACI I NUMERI CHE SCOPRI"
 
 #TROVI/OGGETTO #OGGETTO/MAPPA
 
 ⬇️ [12-giardino-mamma](12-giardino-mamma.md) 
 
-![gioco_mappa](gioco_mappa.png)
+![](../_assets/special/gioco_mappa.jpg)

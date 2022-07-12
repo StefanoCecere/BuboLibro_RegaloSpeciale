@@ -1,9 +1,11 @@
 ---
 title: mamma aiuto 1
 area: giardino
+tags:
+- AIUTO
 ---
 # 228
-#AIUTO: OHH VIENI QUI DA ME CHE TI COCCOLO
+"OHH VIENI QUI DA ME CHE TI COCCOLO"
 
 #BONUS +1
 

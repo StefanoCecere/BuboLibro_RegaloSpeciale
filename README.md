@@ -9,7 +9,7 @@ l'idea è che possa essere poi un regalo che anche altri possano fare ai propri 
 
 ## Come leggerlo
 questo è il progetto base, da cui si esporta il PDF, l'ePub e la versione HTML.
-per leggerlo velocemente si può usare Obsidian (un bellissimo e gratuito programma per scrivere e raccogliere note in markdown <https://obsidian.md/> ), andando in preview della pagina 1 dell'avventura [adventure/1-start](adventure/1-start)
+per leggerlo velocemente si può usare Obsidian (un bellissimo e gratuito programma per scrivere e raccogliere note in markdown <https://obsidian.md> ), andando in preview della pagina 1 dell'avventura [adventure/1-start](adventure/1-start)
 
 ## PDF
 una versione PDF ridotta è disponibile qui: [BuboLibro_Regalo_web.pdf](_output/BuboLibro_Regalo_web.pdf)

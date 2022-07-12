@@ -5,14 +5,10 @@ area: casa
 # 43
 IL DIVANO È COMODISSIMO!
 
-👀PIANOFORTE [103-casa-pianoforte](103-casa-pianoforte.md)
-
-👀DIVANO [92-casa-divano_cerca](92-casa-divano_cerca.md)
-
-⬆️ [75-casa-poltrona](75-casa-poltrona.md)
-
-➡️ [80-casa-batteria](80-casa-batteria.md)
-
-⬇️ [10-casa-in_casa](10-casa-in_casa.md)
+> [👀 PIANOFORTE 103](103-casa-pianoforte.md)
+> [👀 DIVANO 92](92-casa-divano_cerca.md)
+> [⬆️ 75](75-casa-poltrona.md)
+> [➡️ 80](80-casa-batteria.md)
+> [⬇️ 10](10-casa-dentro_casa.md)
 
 ![foto_51](../_assets/preview/foto_51.jpg)
