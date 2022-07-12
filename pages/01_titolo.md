@@ -1,4 +1,9 @@
 # BUBOLIBRO IL REGALO SPECIALE
 
-
 PLAYBOOK AVVENTURA N.1
+
+
+Stefano e Fabio Cecere
+
+6/9 ANNI
+4/5 ANNI (con genitore)

@@ -6,7 +6,7 @@ class: oggetto
 # 205
 WOW... HAI TROVATO UNA CHIAVE!
 
-#INVENTARIO: CHIAVE
+#INVENTARIO: #OGGETTO/CHIAVE
 
 ⬇️ [93-mobile-microonde](93-mobile-microonde.md)
 

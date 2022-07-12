@@ -6,7 +6,7 @@ class: oggetto
 # 210
 HAI TROVATO UN GANCIO DA ARRAMPICATA!
 
-#INVENTARIO: GANCIO
+#INVENTARIO: #OGGETTO/GANCIO
 
 ⬇️ [62-giardino-orcio](62-giardino-orcio.md)
 

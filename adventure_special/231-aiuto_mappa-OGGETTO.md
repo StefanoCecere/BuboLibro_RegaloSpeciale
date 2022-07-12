@@ -5,7 +5,7 @@ area: giardino
 # 231
 AHH VA BEH ECCOTI UNA **MAPPA**
 
-#INVENTARIO mappa
+#INVENTARIO #OGGETTO/MAPPA
 
 ⬇️ [12-giardino-mamma](12-giardino-mamma.md) 
 

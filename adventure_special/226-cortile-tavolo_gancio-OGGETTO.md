@@ -5,7 +5,7 @@ area: cortile
 # 226
 HAI TROVATO UN GANCIO DA ARRAMPICATA!
 
-#INVENTARIO: GANCIO
+#INVENTARIO #OGGETTO/GANCIO
 
 ⬇️ [66-cortile_2](66-cortile_2.md)
 

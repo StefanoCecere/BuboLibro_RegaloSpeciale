@@ -9,7 +9,7 @@ Fabio (12 anni) l'ha pensato e creato come regalo di compleanno per i 5 anni del
 
 ## Come preparare questo libro
 Ci sono alcune didascalie in cui poter scrivere il nome del bambino/a a cui questo libro viene regalato, così da renderlo davvero personalizzato!
-le pagine da completare sono le: 1 e la 37
+le pagine da completare sono le: 3, 37 e 107 (pagine con tag #CUSTOMIZZABILE )
 
 ## Come leggerlo
 Il libro può essere lette in diversi modi:
