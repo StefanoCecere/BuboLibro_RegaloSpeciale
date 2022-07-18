@@ -3,9 +3,11 @@ title: Parete Arrampicata
 area: Giardino
 ---
 # 89
-WOW! LA PARETE DA ARRAMPICATA DI TATO
+WOW! LA PARETE DA ARRAMPICATA
 
-> [🔍 90-domanda_ganci](90-domanda_ganci.md)
+#USO/OGGETTO #OGGETTO/GANCIO 
+
+> [🔍 HAI IL GANCIO?](../adventure_special/246-arrampicata.md)
 > [➡️ 27-giardino-le piante](27-giardino-le%20piante.md)
 > [⬅️ 62-giardino-orcio](62-giardino-orcio.md)
 

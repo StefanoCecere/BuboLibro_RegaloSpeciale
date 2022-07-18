@@ -12,4 +12,4 @@ WOW... HAI TROVATO UNA CHIAVE!
 
 ![foto_113](../_assets/preview/foto_113.jpg)
 
-#TODO_disegno
+#TODO/DISEGNO

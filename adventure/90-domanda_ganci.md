@@ -1,11 +1,12 @@
 ---
 title: Domanda Ganci Arrampiacata
 area: Giardino
+tags: DRAFT
 ---
 # 90
-DOMANDA: HAI I DUE GANCI DA ARRAMPICATA?
+DOMANDA: HAI IL GANCIO DA ARRAMPICATA?
 
 #USO/OGGETTO #OGGETTO/GANCIO 
 
-> SI [91-nascondiglio_rana](91-nascondiglio_rana.md)
+> SI [[../adventure_special/246-arrampicata]]
 > ⬇️ [89-parete_arrampicata](89-parete_arrampicata.md)
