@@ -3,7 +3,7 @@ title: davanti casa
 area: giardino
 ---
 # 3
-![](../_assets/loc/loc-casa-daventi.jpg)
+![](../_assets/loc/loc-casa-davanti.jpg)
 
 SEI IN UN GIARDINO DAVANTI CASA.
 DOVE VAI?
